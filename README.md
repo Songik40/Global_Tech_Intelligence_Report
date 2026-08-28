@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-08-28 Daily Intelligence Report](reports/2026/08/2026-08-28.md)** — 검증 완료
-- 조사 컷오프: **2026-08-28 08:52 KST / 2026-08-27 23:52 UTC**
+- **[2026-08-29 Daily Intelligence Report](reports/2026/08/2026-08-29.md)** — 검증 완료
+- 조사 컷오프: **2026-08-29 08:08 KST / 2026-08-28 23:08 UTC**
 - 조사 범위: 원칙적으로 최근 24시간, 중요 사건은 직전 발표의 후속 반응까지 포함
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI infrastructure | ↑ Strengthening | NVIDIA 수요 + HBM/패키징 현지화 |
-| AI cyber defense | ↑ Emerging | 100개 이상 조직의 공동 방어 촉구 |
-| Humanoid commercialization | ↔ Mixed | 하드웨어는 발전, 공장 ROI·신뢰성은 병목 |
-| Space data infrastructure | ↑ Strengthening | MTG-I2 발사로 고빈도 지구관측 확대 |
-| AI market economics | ↑ / risk | AI 성장 기대는 강하지만 금리·시장 집중도 리스크 지속 |
+| Sovereign AI services | ↑ Strengthening | 한국 국가 AI 서비스 사업자 선정 |
+| AI evaluation | ↑ Emerging | Anthropic TASTE가 연구 제안 판단 능력을 별도 평가축으로 제시 |
+| Humanoid commercialization | ↔ Discipline | 중국 NDRC가 지역 적합성·실수요·질서 있는 발전을 강조 |
+| Space workforce | ↑ Emerging | 미국 Space Academy 설계 위원회 설치 |
+| Frontier-tech capital | ↑ / risk | Pasqal Nasdaq 상장으로 양자컴퓨팅 자본조달 확대 |
 
 ## Repository Structure
 
