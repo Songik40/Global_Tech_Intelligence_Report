@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-08-29 Daily Intelligence Report](reports/2026/08/2026-08-29.md)** — 검증 완료
-- 조사 컷오프: **2026-08-29 08:08 KST / 2026-08-28 23:08 UTC**
+- **[2026-08-30 Daily Intelligence Report](reports/2026/08/2026-08-30.md)** — 검증 완료
+- 조사 컷오프: **2026-08-30 08:30 KST / 2026-08-29 23:30 UTC**
 - 조사 범위: 원칙적으로 최근 24시간, 중요 사건은 직전 발표의 후속 반응까지 포함
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| Sovereign AI services | ↑ Strengthening | 한국 국가 AI 서비스 사업자 선정 |
-| AI evaluation | ↑ Emerging | Anthropic TASTE가 연구 제안 판단 능력을 별도 평가축으로 제시 |
-| Humanoid commercialization | ↔ Discipline | 중국 NDRC가 지역 적합성·실수요·질서 있는 발전을 강조 |
-| Space workforce | ↑ Emerging | 미국 Space Academy 설계 위원회 설치 |
-| Frontier-tech capital | ↑ / risk | Pasqal Nasdaq 상장으로 양자컴퓨팅 자본조달 확대 |
+| AI platform dependency | ↑ Emerging | OpenAI–Cursor 계약 종료 계획이 모델 공급자 다변화 필요성 부각 |
+| Semiconductor localization | ↑ Strengthening | CXMT LPDDR6의 Xiaomi 플래그십 채택 |
+| Humanoid manufacturing | ↑ Strengthening | Minth·AGIBOT 세르비아 양산 시작 |
+| Space data infrastructure | ↑ Near milestone | Roman 발사대 이동 및 최종 발사 준비 |
+| Capital allocation | ↔ Selective | AA가 매각과 LSE 재상장을 동시에 검토하는 dual-track 사례 |
 
 ## Repository Structure
 
