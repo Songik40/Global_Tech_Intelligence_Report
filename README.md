@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-08-30 Daily Intelligence Report](reports/2026/08/2026-08-30.md)** — 검증 완료
-- 조사 컷오프: **2026-08-30 08:30 KST / 2026-08-29 23:30 UTC**
-- 조사 범위: 원칙적으로 최근 24시간, 중요 사건은 직전 발표의 후속 반응까지 포함
+- **[2026-08-31 Daily Intelligence Report](reports/2026/08/2026-08-31.md)** — 검증 완료
+- 조사 컷오프: **2026-08-31 08:25 KST / 2026-08-30 23:25 UTC**
+- 조사 범위: 원칙적으로 최근 24시간, 중요 사건은 직전 발표의 실제 상태 변화까지 포함
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI platform dependency | ↑ Emerging | OpenAI–Cursor 계약 종료 계획이 모델 공급자 다변화 필요성 부각 |
-| Semiconductor localization | ↑ Strengthening | CXMT LPDDR6의 Xiaomi 플래그십 채택 |
-| Humanoid manufacturing | ↑ Strengthening | Minth·AGIBOT 세르비아 양산 시작 |
-| Space data infrastructure | ↑ Near milestone | Roman 발사대 이동 및 최종 발사 준비 |
-| Capital allocation | ↔ Selective | AA가 매각과 LSE 재상장을 동시에 검토하는 dual-track 사례 |
+| Space data infrastructure | ↑ Milestone crossed | Roman 실제 발사·우주선 분리 성공, commissioning 단계 진입 |
+| Autonomous driving | ↑ Certification phase | Pony.ai·FutureLink 한국 200대 로보택시 계획, 10대 인증차 우선 도입 |
+| Low-cost Physical AI | ↑ Emerging | $399 Microduck의 초기 주문 수요와 개방형 개발 스택 |
+| Large-cap M&A | ↔ Testing | Aon–USI 약 $17bn 거래 협상 보도, 아직 미확정 |
+| Capital-cost risk | ↑ Watch | 유럽 중앙은행권의 미국 정책 예측가능성 우려 |
 
 ## Repository Structure
 
