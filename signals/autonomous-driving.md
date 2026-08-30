@@ -1,20 +1,30 @@
 # Signal — Autonomous Driving
 
-**Status:** Commercial expansion, uneven by geography  
-**Last updated:** 2026-08-28
+**Status:** Commercial expansion, moving into certification  
+**Last updated:** 2026-08-31
 
 ## Thesis
 
-자율주행은 모델 성능만으로 평가하기보다 **driverless miles, intervention/safety data, paid rides, city expansion, unit economics**로 평가해야 한다.
+자율주행은 모델 성능만으로 평가하기보다 **regulatory approval, driverless miles, intervention/safety data, paid rides, city expansion, fleet utilization, unit economics**로 평가해야 한다.
 
-## Current tracking rule
+## Current Evidence
 
-오늘 리포트에는 자율주행 관련 새로운 TOP 5 사건이 없어 별도 업데이트를 만들지 않았다. 새로운 지역 진출, 규제 승인, 대규모 안전 데이터 또는 유료 서비스 확대가 발생할 때 이 문서를 갱신한다.
+- [2026-08-31](../reports/2026/08/2026-08-31.md): Pony.ai와 FutureLink가 한국에서 10대 인증 차량을 먼저 도입한 뒤 총 200대 규모의 7세대 로보택시 상용화를 추진한다고 공개했다. 이는 한국 시장에서 기술 실증이 차량 인증과 서비스 운영 준비로 이동하는 신호다.
+
+## Interpretation
+
+200대와 2028년은 계획 목표이므로 실제 상용화 성과로 간주하지 않는다. 다음 검증 단계는 **차량 반입 → 인증 → 무인운행 허가 → 유료 운행 → fleet utilization** 순서로 본다.
 
 ## Watch
 
-- driverless commercial miles
-- paid trip volume
+- certification vehicles imported
 - regulatory approvals
+- fully driverless commercial miles
+- paid trip volume
 - fleet utilization
 - remote-assistance rate
+- cost per vehicle / trip
+
+## Change Log
+
+- **2026-08-31:** 한국 200대 로보택시 도입 계획을 반영하고 인증을 상용화 평가의 독립 단계로 추가.
