@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-08-31 Daily Intelligence Report](reports/2026/08/2026-08-31.md)** — 검증 완료
-- 조사 컷오프: **2026-08-31 08:25 KST / 2026-08-30 23:25 UTC**
-- 조사 범위: 원칙적으로 최근 24시간, 중요 사건은 직전 발표의 실제 상태 변화까지 포함
+- **[2026-09-01 Daily Intelligence Report](reports/2026/09/2026-09-01.md)** — 검증 완료
+- 조사 컷오프: **2026-09-01 08:15 KST / 2026-08-31 23:15 UTC**
+- 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| Space data infrastructure | ↑ Milestone crossed | Roman 실제 발사·우주선 분리 성공, commissioning 단계 진입 |
-| Autonomous driving | ↑ Certification phase | Pony.ai·FutureLink 한국 200대 로보택시 계획, 10대 인증차 우선 도입 |
-| Low-cost Physical AI | ↑ Emerging | $399 Microduck의 초기 주문 수요와 개방형 개발 스택 |
-| Large-cap M&A | ↔ Testing | Aon–USI 약 $17bn 거래 협상 보도, 아직 미확정 |
-| Capital-cost risk | ↑ Watch | 유럽 중앙은행권의 미국 정책 예측가능성 우려 |
+| AI infrastructure | ↑ Strengthening | NVIDIA–MediaTek $3.5B + NVLink Fusion, EU LUMI-AI €387.8M |
+| Autonomous logistics | ↑ Scaling plans | HUMAIN·Applied Intuition, 사우디 수천 대 L4 트럭 목표 |
+| AI systemic risk | ↑ Policy focus | FSB, frontier-AI cyber risk를 금융안정 핵심 우려로 지목 |
+| Space science operations | ↑ Critical phase | BepiColombo, 9월 3일 MTM 분리 앞두고 수성 도착 단계 진입 준비 |
+| Platform concentration | ↑ Watch | custom silicon·interconnect·cloud/AI 공급자 의존도 확대 |
 
 ## Repository Structure
 
