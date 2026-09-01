@@ -1,16 +1,18 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-02_
 
 ## Current Direction
 
-AI 경쟁은 **model quality → agent capability → infrastructure → service distribution → evaluation / security**로 범위가 넓어지고 있으며, 최근에는 **custom silicon·interconnect·공공 컴퓨팅 공급**이 독립 경쟁축으로 더 선명해지고 있다.
+AI 경쟁은 **model quality → agent capability → infrastructure → service distribution → evaluation / security**로 범위가 넓어지고 있으며, 최근에는 **critical-capability safety controls, custom silicon·interconnect, integrated AI servers, public compute**가 독립 경쟁축으로 더 선명해지고 있다.
 
 ## Key Drivers
 
 - frontier model 성능과 추론비용
+- critical capability evaluation과 내부 연구환경 보안
 - GPU·HBM·네트워크·전력 확보
 - custom silicon과 rack-scale interconnect 생태계
+- integrated AI server delivery와 backlog
 - sovereign/public AI compute capacity
 - AI agent의 도구사용과 업무 자동화
 - 국가·기업 서비스에 대한 배포와 유통
@@ -19,6 +21,8 @@ AI 경쟁은 **model quality → agent capability → infrastructure → service
 
 ## Recent Evidence
 
+- [2026-09-02](../reports/2026/09/2026-09-02.md): OpenAI는 Astra가 자사 Preparedness Framework의 Critical cybersecurity capability threshold를 충족한다고 평가했다. frontier 모델의 안전정책이 외부 오용뿐 아니라 내부 개발·모델 비인가 행동까지 포함하는 운영 문제로 이동했다.
+- [2026-09-02](../reports/2026/09/2026-09-02.md): Dell의 AI 서버 주문 609억달러·backlog 950억달러는 인프라 수요가 GPU 공급을 넘어 완성 서버 통합·납품계층까지 강하게 이어지고 있음을 보여준다.
 - [2026-09-01](../reports/2026/09/2026-09-01.md): NVIDIA–MediaTek의 35억달러 투자와 NVLink Fusion 협력은 AI 인프라 경쟁이 GPU 단품에서 custom XPU·interconnect·PC·자동차까지 확장되는 신호를 강화했다.
 - [2026-09-01](../reports/2026/09/2026-09-01.md): EuroHPC의 LUMI-AI 계약은 유럽이 AI 경쟁력 확보 수단으로 직접적인 공공 컴퓨팅 공급능력을 확대하고 있음을 보여준다.
 - [2026-09-01](../reports/2026/09/2026-09-01.md): FSB의 G20 서한은 frontier AI의 사이버 위험이 기술정책을 넘어 금융안정·운영복원력 문제로 이동하고 있음을 보여준다.
@@ -28,7 +32,7 @@ AI 경쟁은 **model quality → agent capability → infrastructure → service
 
 ## Major Players / Systems
 
-NVIDIA, hyperscalers, frontier AI labs, 국가 AI 프로젝트, HBM suppliers, networking vendors, custom-silicon vendors, data-center operators, cybersecurity vendors, public HPC operators.
+NVIDIA, hyperscalers, frontier AI labs, 국가 AI 프로젝트, HBM suppliers, networking vendors, server integrators, custom-silicon vendors, data-center operators, cybersecurity vendors, public HPC operators.
 
 ## Technical Bottlenecks
 
@@ -36,6 +40,8 @@ NVIDIA, hyperscalers, frontier AI labs, 국가 AI 프로젝트, HBM suppliers, n
 - HBM / advanced packaging capacity
 - power and cooling
 - interconnect and custom-XPU integration
+- integrated server delivery and margin
+- critical-capability containment and monitoring
 - reliable agent and evaluator benchmarks
 - enterprise permissions and security
 - distribution into real services
@@ -43,10 +49,12 @@ NVIDIA, hyperscalers, frontier AI labs, 국가 AI 프로젝트, HBM suppliers, n
 
 ## Contradicting Signals
 
-강한 인프라 매출과 투자는 긍정적이지만, AI 서비스가 투자비를 얼마나 빠르게 현금흐름으로 전환하는지는 별도 문제다. 공급자 또는 플랫폼 기업의 직접 금융이 늘어날수록 최종수요와 생태계 금융을 구분해야 한다. 평가에서도 모델이 생성 능력과 동일한 수준으로 전문가 판단을 재현한다고 가정할 수 없다.
+강한 인프라 매출과 투자는 긍정적이지만, AI 서비스가 투자비를 얼마나 빠르게 현금흐름으로 전환하는지는 별도 문제다. 공급자 또는 플랫폼 기업의 직접 금융이 늘어날수록 최종수요와 생태계 금융을 구분해야 한다. frontier 모델의 능력 향상이 빠를수록 safeguards·연구환경 보안·모니터링 비용도 동시에 커진다.
 
 ## 30–90 Day Watchlist
 
+- Astra의 외부·독립 평가와 실제 출시 범위
+- Dell AI-server backlog의 매출 전환과 마진
 - MediaTek custom XPU의 고객·양산 일정
 - LUMI-AI 설치 진행과 실제 사용자 접근 정책
 - FSB/G20의 AI 운영복원력 후속 기준
@@ -57,10 +65,11 @@ NVIDIA, hyperscalers, frontier AI labs, 국가 AI 프로젝트, HBM suppliers, n
 
 ## Working Thesis
 
-> 장기 AI 경쟁력은 `Model × Compute × Silicon Ecosystem × Data × Distribution × Evaluation × Security × Economics`의 결합으로 결정될 가능성이 높다.
+> 장기 AI 경쟁력은 `Model × Compute × Silicon Ecosystem × Delivery × Data × Distribution × Evaluation × Security × Economics`의 결합으로 결정될 가능성이 높다.
 
 ## Change Log
 
+- **2026-09-02:** Astra의 Critical 사이버 역량 판정과 Dell의 AI-server backlog를 반영해 critical-capability safety와 integrated delivery를 독립 축으로 강화.
 - **2026-09-01:** custom silicon/interconnect와 public compute를 독립 인프라 축으로 강화하고, FSB의 금융안정 AI 위험 신호를 추가.
 - **2026-08-29:** Distribution과 Evaluation을 독립 경쟁축으로 강화하고 한국 국가 AI 서비스 및 TASTE 근거를 추가.
 - **2026-08-28:** Security를 독립 경쟁축으로 추가하고 HBM/패키징 근거를 강화.
