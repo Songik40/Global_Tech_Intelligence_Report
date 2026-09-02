@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-09-02 Daily Intelligence Report](reports/2026/09/2026-09-02.md)** — 검증 완료
-- 조사 컷오프: **2026-09-02 08:05 KST / 2026-09-01 23:05 UTC**
+- **[2026-09-03 Daily Intelligence Report](reports/2026/09/2026-09-03.md)** — 검증 완료
+- 조사 컷오프: **2026-09-03 08:09 KST / 2026-09-02 23:09 UTC**
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| Frontier AI safety | ↑ Critical capability | OpenAI Astra, Critical cybersecurity threshold 충족 |
-| AI infrastructure | ↑ Strengthening | Dell AI server backlog $95B, FY27 AI-server outlook $74B |
-| Autonomous driving | ↑ Multi-city expansion | Waymo, Denver·San Diego·Tampa 공개 완전자율 승차 시작 |
-| Space data infrastructure | ↑ Commissioning | Roman 안테나·차광막 전개 성공, 최대 500 Mbps downlink 설계 |
-| Public AI/semiconductor CAPEX | ↑ Fiscal expansion | 한국 2027 예산안, AI·반도체 인프라 투자 확대 |
+| AI policy / data access | ↑ Institutionalizing | G20, AI·IP·표준을 공통 혁신정책 축으로 합의 |
+| AI infrastructure | ↑ Power bottleneck | Vertiv, UIG 인수로 grid-to-chip 전력 포트폴리오 확장 |
+| Autonomous driving | ↑ Operations competition | Uber, AV 투자를 유지하며 demand/fleet 운영 플랫폼 전략 강화 |
+| Space mission execution | ↑ Integration | Dragonfly 비행용 전기 하네스 설치 완료 |
+| Domain AI | ↑ Data-centric deployment | Owkin K Pro + 멀티모달 환자 데이터, Boehringer 도입 |
 
 ## Repository Structure
 
