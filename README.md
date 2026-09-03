@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-09-03 Daily Intelligence Report](reports/2026/09/2026-09-03.md)** — 검증 완료
-- 조사 컷오프: **2026-09-03 08:09 KST / 2026-09-02 23:09 UTC**
+- **[2026-09-04 Daily Intelligence Report](reports/2026/09/2026-09-04.md)** — 검증 완료
+- 조사 컷오프: **2026-09-04 08:24 KST / 2026-09-03 23:24 UTC**
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI policy / data access | ↑ Institutionalizing | G20, AI·IP·표준을 공통 혁신정책 축으로 합의 |
-| AI infrastructure | ↑ Power bottleneck | Vertiv, UIG 인수로 grid-to-chip 전력 포트폴리오 확장 |
-| Autonomous driving | ↑ Operations competition | Uber, AV 투자를 유지하며 demand/fleet 운영 플랫폼 전략 강화 |
-| Space mission execution | ↑ Integration | Dragonfly 비행용 전기 하네스 설치 완료 |
-| Domain AI | ↑ Data-centric deployment | Owkin K Pro + 멀티모달 환자 데이터, Boehringer 도입 |
+| Frontier AI deployment | ↑ Controlled rollout | GPT-6 Astra 실제 배포 + 강화된 access/monitoring controls |
+| AI platform consolidation | ↑ Strengthening | NVIDIA, Hugging Face $12.93B 인수 합의 |
+| Autonomous driving | ↑ Public operations | Wayve·Uber, 런던에서 supervised public rides 개시 |
+| Scientific AI | ↑ Operationalization | WeatherNext 3, 실시간 위성데이터·시간당 예보·제품 통합 |
+| Space mission execution | ↑ Arrival-phase progress | BepiColombo MTM 분리 성공, 다음 단계는 Mercury orbit insertion |
 
 ## Repository Structure
 
