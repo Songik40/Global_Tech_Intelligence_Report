@@ -1,16 +1,17 @@
 # Space & Science — Trend Tracker
 
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-04_
 
 ## Current Direction
 
-우주·과학 인프라는 **better instrument → launch/commissioning → higher-frequency / larger datasets → automated analysis → operational decisions**로 확장되고 있다. 대형 관측·행성과학 임무는 발사 이후에도 전이·분리·궤도진입·보정·데이터 파이프라인을 통과해야 실제 과학가치가 현실화된다.
+우주·과학 인프라는 **better instrument → launch/transfer → separation/orbit insertion → commissioning → higher-frequency / larger datasets → automated analysis → operational decisions**로 확장되고 있다. 대형 관측·행성과학 임무는 발사 이후에도 복잡한 운영 sequence를 통과해야 실제 과학가치가 현실화된다.
 
 ## Key Drivers
 
 - 관측 주기 단축
 - 센서 해상도 향상
 - launch / transfer / separation / commissioning reliability
+- deep-space navigation and communications
 - 데이터 다운링크·처리
 - AI 기반 분류·예측
 - 공공기관과 상업 발사체의 결합
@@ -18,6 +19,7 @@ _Last updated: 2026-09-01_
 
 ## Recent Evidence
 
+- [2026-09-04](../reports/2026/09/2026-09-04.md): ESA/JAXA BepiColombo가 2억 km 이상 떨어진 곳에서 Mercury Transfer Module 분리를 성공적으로 완료했고 telemetry가 nominal 상태임이 확인됐다. 다음 핵심 리스크는 11월 수성 궤도진입과 12월 MPO/Mio 분리로 이동했다.
 - [2026-09-01](../reports/2026/09/2026-09-01.md): ESA는 BepiColombo의 9월 3일 Mercury Transfer Module 분리, 11월 수성 궤도진입, 12월 두 과학궤도선 분리 일정을 재확인했다. 장거리 순항보다 복잡한 분리·궤도진입 운영이 핵심 리스크로 이동했다.
 - [2026-08-31](../reports/2026/08/2026-08-31.md): NASA Roman이 Falcon Heavy로 실제 발사되고 우주선 분리까지 성공했다. 핵심 리스크가 발사에서 L2 전이·commissioning·데이터 품질로 이동했다.
 - [2026-08-30](../reports/2026/08/2026-08-30.md): NASA Roman이 발사대로 이동해 최종 발사 준비 단계에 진입했다.
@@ -26,12 +28,13 @@ _Last updated: 2026-09-01_
 
 ## Major Systems
 
-ESA/JAXA BepiColombo, NASA Roman과 기타 science missions, ESA/EUMETSAT MTG, 민간 발사 서비스, 지상국·데이터 처리 인프라, 우주 인력양성 프로그램.
+ESA/JAXA BepiColombo, NASA Roman과 기타 science missions, ESA/EUMETSAT MTG, 민간 발사 서비스, 심우주 지상국·데이터 처리 인프라, 우주 인력양성 프로그램.
 
 ## Technical / Institutional Bottlenecks
 
 - 궤도 전이와 commissioning
 - 분리·궤도진입 sequence reliability
+- deep-space communication latency and navigation
 - 데이터 전송·보관
 - 실시간 분석 지연
 - 장기 임무 운영비
@@ -40,12 +43,12 @@ ESA/JAXA BepiColombo, NASA Roman과 기타 science missions, ESA/EUMETSAT MTG, �
 
 ## Contradicting Signals
 
-발사 또는 순항 성공은 과학 성능의 보장이 아니다. 대형 임무의 가치평가는 실제 분리·궤도진입·commissioning 완료, 데이터 품질, 공개 파이프라인과 연구 활용으로 이어지는지 확인해야 한다.
+발사 또는 개별 분리 성공은 과학 성능의 보장이 아니다. 대형 임무의 가치평가는 실제 궤도진입·commissioning 완료, 데이터 품질, 공개 파이프라인과 연구 활용으로 이어지는지 확인해야 한다.
 
 ## 30–90 Day Watchlist
 
-- BepiColombo 9월 3일 MTM 분리
-- BepiColombo 11월 수성 궤도진입과 12월 MPO/Mio 분리
+- BepiColombo 11월 21일 수성 궤도진입
+- BepiColombo 12월 MPO/Mio 분리와 2027년 commissioning
 - Roman L2 전이·초기 전개·commissioning
 - Roman 첫 고해상도 이미지와 공개 데이터 일정
 - MTG-I2 commissioning
@@ -53,10 +56,11 @@ ESA/JAXA BepiColombo, NASA Roman과 기타 science missions, ESA/EUMETSAT MTG, �
 
 ## Working Thesis
 
-> 차세대 우주·과학 경쟁력은 `Instrument × Launch Reliability × Transfer/Separation × Commissioning × Dataset × Compute × Analysis × Distribution × Talent`을 얼마나 안정적으로 연결하는지에 달려 있다.
+> 차세대 우주·과학 경쟁력은 `Instrument × Launch Reliability × Transfer/Separation × Orbit Insertion × Commissioning × Dataset × Compute × Analysis × Distribution × Talent`을 얼마나 안정적으로 연결하는지에 달려 있다.
 
 ## Change Log
 
+- **2026-09-04:** BepiColombo MTM 실제 분리 성공을 반영해 리스크 초점을 분리에서 Mercury orbit insertion과 dual-orbiter commissioning으로 이동.
 - **2026-09-01:** BepiColombo 도착단계 브리핑을 반영해 transfer/separation/orbit-insertion reliability를 독립 운영 리스크로 강화.
 - **2026-08-31:** Roman의 실제 발사·분리 성공을 반영해 리스크 초점을 launch에서 transfer/commissioning/data quality로 이동.
 - **2026-08-30:** Roman 발사 전 최종 준비를 반영해 Launch Reliability와 commissioning을 독립 경쟁축으로 강화.
