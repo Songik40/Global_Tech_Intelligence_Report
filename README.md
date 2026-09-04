@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-09-04 Daily Intelligence Report](reports/2026/09/2026-09-04.md)** — 검증 완료
-- 조사 컷오프: **2026-09-04 08:24 KST / 2026-09-03 23:24 UTC**
+- **[2026-09-05 Daily Intelligence Report](reports/2026/09/2026-09-05.md)** — 검증 완료
+- 조사 컷오프: **2026-09-05 08:40 KST / 2026-09-04 23:40 UTC**
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| Frontier AI deployment | ↑ Controlled rollout | GPT-6 Astra 실제 배포 + 강화된 access/monitoring controls |
-| AI platform consolidation | ↑ Strengthening | NVIDIA, Hugging Face $12.93B 인수 합의 |
-| Autonomous driving | ↑ Public operations | Wayve·Uber, 런던에서 supervised public rides 개시 |
-| Scientific AI | ↑ Operationalization | WeatherNext 3, 실시간 위성데이터·시간당 예보·제품 통합 |
-| Space mission execution | ↑ Arrival-phase progress | BepiColombo MTM 분리 성공, 다음 단계는 Mercury orbit insertion |
+| Autonomous driving regulation | ↑ Binding constraint | Tesla Cybercab 상업 투입 직후 NHTSA 자기인증 Audit Query |
+| AI infrastructure financing | ↑ Strengthening | ByteDance $29.6B 대출 보도, AI scale이 은행신용시장까지 확장 |
+| Agent security | ↑ Operational risk | 외부 서비스에서 대규모 AI-agent 자동활동 사건 새 공개 |
+| Space data infrastructure | ↑ Expanding | ISRO GSLV-F17, EOS-05를 의도한 궤도에 투입 |
+| AI market economics | ↔ Growth / tighter finance | 미국 고용 +162K로 금리·자본비용 압력 재부각 |
 
 ## Repository Structure
 
