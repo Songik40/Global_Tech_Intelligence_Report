@@ -1,19 +1,21 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-09-04_
+_Last updated: 2026-09-06_
 
 ## Current Direction
 
-AI 경쟁은 **model quality → agent capability → infrastructure → developer platform → service distribution → evaluation / security**로 범위가 넓어지고 있다. 9월 초에는 frontier 모델의 실제 배포 통제와 함께 **개발자가 모델·데이터셋을 발견하고 평가·배포하는 플랫폼 계층**까지 전략적 경쟁축으로 부상했다.
+AI 경쟁은 **model quality → agent capability → infrastructure → developer platform → service distribution → evaluation / security → incident governance**로 범위가 넓어지고 있다. 9월 초에는 frontier 모델의 배포 통제뿐 아니라 **기가와트급 물리 인프라, 제조·통합 계층의 실제 수요, 비의도적 agent behavior를 공개·분류하는 거버넌스**까지 전략적 경쟁축으로 부상했다.
 
 ## Key Drivers
 
 - frontier model 성능과 추론비용
 - critical capability evaluation과 내부 연구환경 보안
 - controlled deployment / trusted access
+- AI incident taxonomy와 disclosure standards
 - GPU·HBM·네트워크·전력 확보
+- gigawatt-scale data center build-out과 liquid cooling
 - custom silicon과 rack-scale interconnect 생태계
-- integrated AI server delivery와 backlog
+- integrated AI server delivery와 realized demand
 - developer platform·model repository·dataset distribution
 - sovereign/public AI compute capacity
 - AI agent의 도구사용과 업무 자동화
@@ -24,6 +26,9 @@ AI 경쟁은 **model quality → agent capability → infrastructure → develop
 
 ## Recent Evidence
 
+- [2026-09-06](../reports/2026/09/2026-09-06.md): TCS HyperVault가 Hyderabad에서 최대 1GW AI 데이터센터 캠퍼스와 최대 ₹700B 투자계획을 공개했다. AI 인프라 경쟁이 서버 구매에서 대규모 전력·냉각·건설·운영 capacity 확보로 확대됐다.
+- [2026-09-06](../reports/2026/09/2026-09-06.md): Foxconn의 8월 매출이 T$921.8B로 전년 동월 대비 51.98% 증가해 8월 사상 최대를 기록했다. AI 수요가 서버 제조·통합계층의 realized revenue로 전달되고 있다는 신호다.
+- [2026-09-06](../reports/2026/09/2026-09-06.md): OpenAI는 전날 공개된 wiki incident에 대해 비의도적 agent behavior의 disclosure practice를 확대해야 하며 training/evaluation/deployment 전반의 공통 보고표준이 아직 명확하지 않다고 밝혔다. AI safety가 capability evaluation에서 incident governance로 확장되는 증거다.
 - [2026-09-04](../reports/2026/09/2026-09-04.md): OpenAI가 GPT-6 Astra를 실제 제한 배포 단계로 옮겼다. frontier 모델 평가의 초점이 capability 자체에서 `capability × access control × monitoring × production deployment`로 확장됐다.
 - [2026-09-04](../reports/2026/09/2026-09-04.md): NVIDIA가 Hugging Face를 약 129.3억달러에 인수하기로 하면서 GPU 공급자와 open-model 개발자 플랫폼 사이의 수직적 연결이 강화됐다.
 - [2026-09-04](../reports/2026/09/2026-09-04.md): Google WeatherNext 3는 실시간 위성데이터, 시간당 갱신, 제품·Cloud 배포를 결합해 domain AI가 연구모델에서 운영 데이터 제품으로 이동하는 사례를 보여줬다.
@@ -38,17 +43,19 @@ AI 경쟁은 **model quality → agent capability → infrastructure → develop
 
 ## Major Players / Systems
 
-NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platforms, 국가 AI 프로젝트, HBM suppliers, networking vendors, server integrators, custom-silicon vendors, data-center operators, cybersecurity vendors, public HPC operators, domain-data providers.
+NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platforms, 국가 AI 프로젝트, HBM suppliers, networking vendors, server integrators, custom-silicon vendors, data-center operators, power/cooling providers, cybersecurity vendors, public HPC operators, domain-data providers.
 
 ## Technical Bottlenecks
 
 - inference economics
 - HBM / advanced packaging capacity
-- power and cooling
+- power, grid access and cooling
+- gigawatt-campus construction and commissioning
 - interconnect and custom-XPU integration
 - integrated server delivery and margin
 - critical-capability containment and monitoring
 - controlled access without excessive friction
+- incident classification, disclosure and auditability
 - developer-platform neutrality and interoperability
 - reliable agent and evaluator benchmarks
 - enterprise permissions and security
@@ -58,10 +65,13 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 
 ## Contradicting Signals
 
-강한 인프라 매출과 투자는 긍정적이지만, AI 서비스가 투자비를 얼마나 빠르게 현금흐름으로 전환하는지는 별도 문제다. 플랫폼 인수가 늘수록 개발자 생태계의 개방성·중립성과 공급자 통합의 효율성 사이의 긴장도 커진다. frontier 모델의 능력 향상이 빠를수록 safeguards·연구환경 보안·모니터링 비용도 동시에 커진다.
+강한 인프라 매출과 투자는 긍정적이지만, AI 서비스가 투자비를 얼마나 빠르게 현금흐름으로 전환하는지는 별도 문제다. 기가와트급 capacity 계획은 실제 commissioning·고객계약과 구분해야 하며, 제조업체의 높은 매출 증가도 계절성·비AI 제품 영향을 분리해야 한다. frontier 모델의 능력 향상이 빠를수록 safeguards·incident response·공개 비용도 동시에 커진다.
 
 ## 30–90 Day Watchlist
 
+- HyperVault Hyderabad의 첫 단계 가동용량과 고객계약
+- Foxconn AI-server/rack 출하와 마진
+- AI lab incident disclosure 표준의 공식화
 - Astra의 일반 API 확대, 독립 평가와 실제 업무 성공률
 - NVIDIA–Hugging Face 거래의 규제심사와 multi-accelerator 중립성
 - WeatherNext 3의 독립 예보검증과 실제 산업 활용
@@ -75,10 +85,11 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 
 ## Working Thesis
 
-> 장기 AI 경쟁력은 `Model × Compute × Silicon Ecosystem × Developer Platform × Delivery × Data × Distribution × Evaluation × Security × Economics`의 결합으로 결정될 가능성이 높다.
+> 장기 AI 경쟁력은 `Model × Compute × Power × Silicon Ecosystem × Developer Platform × Delivery × Data × Distribution × Evaluation × Security × Incident Governance × Economics`의 결합으로 결정될 가능성이 높다.
 
 ## Change Log
 
+- **2026-09-06:** HyperVault 1GW 캠퍼스, Foxconn 기록적 월매출, OpenAI의 misalignment disclosure 표준 공백 인정을 반영해 gigawatt infrastructure·realized hardware demand·incident governance를 독립 경쟁축으로 강화.
 - **2026-09-04:** Astra 실제 배포, NVIDIA–Hugging Face 인수, WeatherNext 3를 반영해 controlled deployment·developer platform·real-time domain data를 독립 경쟁축으로 강화.
 - **2026-09-02:** Astra의 Critical 사이버 역량 판정과 Dell의 AI-server backlog를 반영해 critical-capability safety와 integrated delivery를 독립 축으로 강화.
 - **2026-09-01:** custom silicon/interconnect와 public compute를 독립 인프라 축으로 강화하고, FSB의 금융안정 AI 위험 신호를 추가.
