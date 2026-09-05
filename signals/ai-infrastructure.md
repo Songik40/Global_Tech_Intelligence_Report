@@ -1,14 +1,16 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 
 ## Thesis
 
-AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다.
+AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월 초의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 동시에 나타나고 있음을 강화한다.
 
 ## Evidence
 
+- [2026-09-06](../reports/2026/09/2026-09-06.md): TCS 자회사 HyperVault가 Hyderabad에서 264에이커, 최대 1GW의 AI 데이터센터 캠퍼스를 추진하며 파트너와 최대 ₹700B 투자를 계획했다. 고밀도 GPU, direct-to-chip liquid cooling, 전력·건설·네트워크가 하나의 산업 인프라 패키지로 결합되고 있다.
+- [2026-09-06](../reports/2026/09/2026-09-06.md): Foxconn의 8월 매출은 T$921.8B로 전년 동월 대비 51.98% 증가해 8월 사상 최대를 기록했다. 회사는 강한 AI 수요를 Q3 성장의 핵심 동인으로 제시해 downstream AI-server 수요가 제조·통합계층 실적으로 이어지고 있음을 보여준다.
 - [2026-09-05](../reports/2026/09/2026-09-05.md): Reuters는 ByteDance가 거의 30개 은행에서 296억달러 규모의 3년 무담보 대출을 확보했다고 보도했다. 공식 용도는 일반 기업자금이지만 취재원들은 해외 AI 인프라 확대가 주요 배경이라고 설명했다. AI scale이 equity/CAPEX뿐 아니라 대형 은행신용시장까지 확장되는 신호다.
 - [2026-09-03](../reports/2026/09/2026-09-03.md): Vertiv가 약 14.5억달러 기본가와 최대 11.5억달러 earn-out 조건으로 UtilityInnovation Group 인수 계약을 발표했다. 마이크로그리드·현장발전·저장·전력제어를 데이터센터 포트폴리오에 결합해 `time to power`를 줄이려는 거래로, 전력 인입 자체가 독립적인 AI 인프라 병목이 됐음을 강화한다.
 - [2026-09-02](../reports/2026/09/2026-09-02.md): Dell은 FY2027 Q2에 AI 서버 주문 609억달러, AI 서버 매출 164억달러, 분기말 backlog 950억달러를 보고하고 연간 AI 서버 매출 전망을 740억달러로 상향했다. AI CAPEX가 GPU 구매를 넘어 실제 서버 통합·납품계층까지 강하게 이어지고 있음을 보여준다.
@@ -19,10 +21,12 @@ AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom 
 
 ## Bottlenecks
 
-HBM capacity, packaging yield, interconnect, custom-XPU integration, integrated-server delivery, **grid interconnect, onsite generation, storage orchestration, cost of capital, credit capacity**, power, cooling, construction lead time, access allocation.
+HBM capacity, packaging yield, interconnect, custom-XPU integration, integrated-server delivery, **grid interconnect, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity**, power, construction lead time, access allocation.
 
 ## Watch
 
+- HyperVault Hyderabad의 1단계 MW commissioning과 전력조달
+- Foxconn AI-server/rack 출하와 매출 성장 대비 마진
 - ByteDance 대출의 실제 AI CAPEX·데이터센터 집행
 - AI 기업의 은행대출·채권 발행과 신용스프레드
 - Vertiv-UIG 거래 종결과 실제 AI 데이터센터 microgrid 수주
@@ -34,6 +38,7 @@ HBM capacity, packaging yield, interconnect, custom-XPU integration, integrated-
 
 ## Change Log
 
+- **2026-09-06:** HyperVault의 최대 1GW Hyderabad 캠퍼스와 Foxconn 기록적 8월 매출을 반영해 `gigawatt campus build-out`과 제조·통합계층의 realized demand를 핵심 검증축으로 강화.
 - **2026-09-05:** ByteDance의 296억달러 대출 보도를 반영해 cost of capital·credit capacity·bank financing을 AI 인프라의 독립 변수로 추가.
 - **2026-09-03:** Vertiv-UIG 거래를 반영해 grid interconnect·onsite power·microgrid를 독립 인프라 계층으로 강화.
 - **2026-09-02:** Dell의 950억달러 AI-server backlog를 반영해 integrated server delivery를 독립 인프라 지표로 강화.
