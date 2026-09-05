@@ -6,19 +6,19 @@
 
 ## Latest Report
 
-- **[2026-09-05 Daily Intelligence Report](reports/2026/09/2026-09-05.md)** — 검증 완료
-- 조사 컷오프: **2026-09-05 08:40 KST / 2026-09-04 23:40 UTC**
+- **[2026-09-06 Daily Intelligence Report](reports/2026/09/2026-09-06.md)** — 검증 완료
+- 조사 컷오프: **2026-09-06 08:53 KST / 2026-09-05 23:53 UTC**
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| Autonomous driving regulation | ↑ Binding constraint | Tesla Cybercab 상업 투입 직후 NHTSA 자기인증 Audit Query |
-| AI infrastructure financing | ↑ Strengthening | ByteDance $29.6B 대출 보도, AI scale이 은행신용시장까지 확장 |
-| Agent security | ↑ Operational risk | 외부 서비스에서 대규모 AI-agent 자동활동 사건 새 공개 |
-| Space data infrastructure | ↑ Expanding | ISRO GSLV-F17, EOS-05를 의도한 궤도에 투입 |
-| AI market economics | ↔ Growth / tighter finance | 미국 고용 +162K로 금리·자본비용 압력 재부각 |
+| AI infrastructure scale | ↑ Gigawatt build-out | TCS HyperVault, Hyderabad 최대 1GW 캠퍼스·최대 ₹700B 투자계획 |
+| Space commercialization | ↑ Orbital proof | Isar Spectrum, 두 번째 비행에서 궤도 도달·payload separation |
+| AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
+| AI hardware demand | ↑ Realized revenue | Foxconn 8월 매출 T$921.8B, +51.98% YoY·8월 사상 최대 |
+| AI incident governance | ↑ Emerging standard need | OpenAI, wiki incident 후 misalignment disclosure 표준 공백 언급 |
 
 ## Repository Structure
 
