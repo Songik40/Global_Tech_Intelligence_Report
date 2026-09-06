@@ -1,16 +1,17 @@
 # Economy & Investment — Trend Tracker
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
 
 ## Current Direction
 
-기술·프런티어 시장의 핵심 변수는 **성장률, 자본비용, AI 인프라 투자, 공급자 금융, 플랫폼 M&A, 제조·수출의 실제 수요전환, 정책·운영 안정성** 사이의 균형이다. 최근에는 AI CAPEX가 금융시장과 데이터센터 계획을 넘어 **서버 제조사의 매출과 국가 수출구조**에까지 뚜렷하게 반영되고 있다.
+기술·프런티어 시장의 핵심 변수는 **성장률, 자본비용, 금융기관의 신용공급 능력, AI 인프라 투자, 공급자 금융, 플랫폼 M&A, 제조·수출의 실제 수요전환, 정책·운영 안정성** 사이의 균형이다. 최근에는 AI CAPEX가 금융시장과 데이터센터 계획을 넘어 **서버 제조사의 매출과 국가 수출구조**에까지 뚜렷하게 반영되고 있으며, 동시에 대형 은행·보험사의 자본여력이 장기 인프라 투자환경을 떠받치는 독립 변수로 다시 부상하고 있다.
 
 ## Key Drivers
 
 - hyperscaler AI CAPEX
 - 반도체·메모리·네트워크·custom silicon 투자
 - 데이터센터 전력 인프라와 대규모 campus build-out
+- 금융기관의 core capital·대출여력·신용성장
 - AI 제품의 수익화
 - AI-server 제조·통합업체의 realized revenue와 margin
 - 반도체 수출과 국가 무역구조
@@ -25,6 +26,7 @@ _Last updated: 2026-09-06_
 
 ## Recent Evidence
 
+- [2026-09-07](../reports/2026/09/2026-09-07.md): 중국은 국유 은행·보험사에 총 약 $54B 규모의 자본확충을 추진하고 있다. 이는 특정 AI 기업 투자와 별개로 금융기관의 손실흡수력·대출여력을 보강해 자본집약적 제조·인프라 프로젝트의 신용공급 하방을 완충하는 거시 신호다.
 - [2026-09-06](../reports/2026/09/2026-09-06.md): 한국의 연초 이후 수출이 Reuters가 관세당국을 인용한 기준으로 $709.4B에 도달해 전년도 연간 기록을 넘어섰다. 1~8월 반도체 수출은 $281B로 169.6% 증가해 전체의 41%를 차지했다. AI 반도체 사이클이 국가 무역구조에 직접 반영되는 신호다.
 - [2026-09-06](../reports/2026/09/2026-09-06.md): Foxconn의 8월 매출이 T$921.8B로 전년 동월 대비 51.98% 증가해 8월 사상 최대를 기록했다. AI-server 수요가 제조·통합업체의 실제 매출로 전환되고 있다는 증거가 강화됐다.
 - [2026-09-06](../reports/2026/09/2026-09-06.md): TCS HyperVault는 Hyderabad 최대 1GW AI 데이터센터 campus와 최대 ₹700B 투자계획을 발표했다. AI 투자단위가 개별 서버·건물에서 gigawatt-scale infrastructure로 확대되고 있다.
@@ -40,6 +42,7 @@ _Last updated: 2026-09-06_
 ## Major Economic Questions
 
 - AI 인프라 투자가 고객의 실제 생산성·매출로 전환되는가
+- 금융기관의 자본확충이 실제 첨단제조·인프라 신용성장으로 이어지는가
 - gigawatt-scale capacity 계획이 실제 MW commissioning과 고객계약으로 이어지는가
 - AI-server 제조 매출의 증가가 지속 가능한 margin과 현금흐름으로 연결되는가
 - 반도체 수출 집중이 국가 성장에 주는 이점과 경기민감도는 어느 정도인가
@@ -54,10 +57,11 @@ _Last updated: 2026-09-06_
 
 ## Contradicting Signals
 
-AI 공급망 매출과 수출은 강하지만 높은 증가율이 영구적으로 지속되는 것은 아니다. 한국의 반도체 수출 비중 상승은 성장동력과 집중위험을 동시에 키우고, Foxconn의 월매출에는 AI 외 계절적 소비전자 수요도 포함된다. gigawatt급 데이터센터 발표 역시 실제 commissioning과 수익성 확인 전까지는 계획과 실적을 구분해야 한다.
+AI 공급망 매출과 수출은 강하지만 높은 증가율이 영구적으로 지속되는 것은 아니다. 한국의 반도체 수출 비중 상승은 성장동력과 집중위험을 동시에 키우고, Foxconn의 월매출에는 AI 외 계절적 소비전자 수요도 포함된다. gigawatt급 데이터센터 발표 역시 실제 commissioning과 수익성 확인 전까지는 계획과 실적을 구분해야 한다. 금융기관 recapitalization도 balance-sheet capacity를 높일 뿐이며, 민간 대출수요·프로젝트 수익성·부실자산 부담이 약하면 실제 신용확대로 곧바로 연결되지 않을 수 있다.
 
 ## 30–90 Day Watchlist
 
+- 중국 대형 은행·보험사의 실제 증자 종결, core capital ratio, 첨단제조·인프라 대출 증가율
 - 한국 HBM·DRAM·NAND 수출액과 반도체 외 품목 확산
 - Foxconn AI-server/rack 출하와 영업마진
 - HyperVault Hyderabad의 실제 자본집행·MW commissioning
@@ -73,10 +77,11 @@ AI 공급망 매출과 수출은 강하지만 높은 증가율이 영구적으�
 
 ## Working Thesis
 
-> 프런티어 기술 투자 사이클의 지속성은 자본조달 규모만이 아니라 **실제 최종수요·제조매출·수출·기술 마일스톤·현금흐름·플랫폼 경쟁구조·거래 실행력·운영복원력·정책 안정성이 자본비용을 얼마나 빠르게 넘어서는지**로 평가해야 한다.
+> 프런티어 기술 투자 사이클의 지속성은 자본조달 규모만이 아니라 **금융시스템의 신용공급 능력, 실제 최종수요·제조매출·수출·기술 마일스톤·현금흐름·플랫폼 경쟁구조·거래 실행력·운영복원력·정책 안정성이 자본비용을 얼마나 빠르게 넘어서는지**로 평가해야 한다.
 
 ## Change Log
 
+- **2026-09-07:** 중국 국유 은행·보험사 자본확충을 반영해 금융기관 core capital과 실제 첨단제조·인프라 신용성장을 프런티어 투자환경의 독립 검증축으로 추가.
 - **2026-09-06:** 한국 수출 기록, Foxconn 기록적 8월 매출, HyperVault 1GW 계획을 반영해 AI CAPEX의 `realized manufacturing demand`와 국가 수출구조 전이를 독립 검증축으로 강화.
 - **2026-09-04:** NVIDIA–Hugging Face 인수 합의를 반영해 developer-platform M&A와 vertical stack consolidation을 독립 투자축으로 추가.
 - **2026-09-01:** NVIDIA–MediaTek 생태계 금융, LUMI-AI 공공 compute 투자, FSB AI 금융안정 경고를 반영해 supplier financing·provider concentration·operational resilience를 추가.
