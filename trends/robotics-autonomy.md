@@ -1,10 +1,10 @@
 # Robotics & Autonomy — Trend Tracker
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
 
 ## Current Direction
 
-로봇·자율주행은 **기술 데모 → 실제 배치 → 인증·신뢰성·경제성 검증 → 지역 생산·상업 운행 → 인프라 규모 통합** 단계로 이동하고 있다. 목적형 robotaxi가 실제 서비스에 투입되면서 **차량 구조 자체의 규제 적합성**도 소프트웨어 안전성과 동등한 상용화 변수로 부상했다.
+로봇·자율주행은 **기술 데모 → 실제 배치 → 인증·신뢰성·경제성 검증 → 지역 생산·상업 운행 → 인프라 규모 통합** 단계로 이동하고 있다. 목적형 robotaxi가 실제 서비스에 투입되면서 **차량 구조 자체의 규제 적합성**도 소프트웨어 안전성과 동등한 상용화 변수로 부상했다. 동시에 Roborock처럼 좁은 작업영역의 소비자 로봇은 이미 매출·이익·R&D를 반복적으로 만들어내며, Physical AI의 실질 상용화는 humanoid 여부보다 **반복 가능한 유료 작업과 운영경제성**으로 평가해야 한다는 증거를 강화하고 있다.
 
 ## Key Drivers
 
@@ -18,10 +18,13 @@ _Last updated: 2026-09-05_
 - 지역 산업구조와 실제 수요에 맞는 배치
 - 대량생산·현지조달·서비스 네트워크
 - 저가 개발 플랫폼과 개발자 생태계
+- 소비자 로봇의 반복매출·수익성·AS 비용
 - 물류·항만·광업 등 기존 산업 인프라와의 통합
 
 ## Recent Evidence
 
+- [2026-09-07](../reports/2026/09/2026-09-07.md): Roborock은 H1 2026 매출 RMB 10.084B(+27.6%), 주주귀속 순이익 RMB 986M(+45.6%), R&D RMB 720M을 발표했다. 좁은 작업범위의 autonomous home robotics가 반복매출·이익·R&D를 동시에 만드는 상업화 기준점을 제공한다.
+- [2026-09-07](../reports/2026/09/2026-09-07.md): FT는 Atoms가 robotaxi 기술을 개발 중이라고 보도했지만 회사는 공개적으로 시장 진입 계획을 부인했다. 기술개발·인력·자본 신호와 실제 서비스 출시를 분리해 평가해야 한다는 사례다.
 - [2026-09-05](../reports/2026/09/2026-09-05.md): Tesla가 Austin Robotaxi 서비스에 Cybercab을 실제 투입한 직후 NHTSA가 FMVSS 자기인증에 대한 Audit Query를 열었다. driverless capability가 실제 목적형 차량으로 이동하면서 certification strategy와 차량 안전기준이 독립 상용화 병목이 됐다.
 - [2026-09-04](../reports/2026/09/2026-09-04.md): Wayve·Uber가 런던에서 일반 이용자 대상 supervised autonomous rides를 실제로 시작했다. 전략·허가 단계에서 실제 consumer operations로 이동한 신호다.
 - [2026-09-01](../reports/2026/09/2026-09-01.md): HUMAIN과 Applied Intuition이 사우디 주요 물류축에 2030년까지 수천 대의 자율주행 트럭을 배치한다는 계획을 발표했다. 자율주행 경쟁이 도시 단위 서비스에서 국가 물류 인프라 계획으로 확대되는 신호다.
@@ -32,7 +35,7 @@ _Last updated: 2026-09-05_
 
 ## Major Players / Systems
 
-중국 휴머노이드 업체, 글로벌 산업용 로봇 기업, 자율주행 서비스 사업자, 자동차 제조사, foundation robotics 연구그룹, 지역 제조 파트너, 저가 로봇 개발 플랫폼, 물류·광업·항만 운영자, 자동차 안전 규제기관.
+중국 휴머노이드 업체, 글로벌 산업용 로봇 기업, 자율주행 서비스 사업자, 자동차 제조사, foundation robotics 연구그룹, 소비자 로봇 기업, 지역 제조 파트너, 저가 로봇 개발 플랫폼, 물류·광업·항만 운영자, 자동차 안전 규제기관.
 
 ## Technical Bottlenecks
 
@@ -47,10 +50,11 @@ _Last updated: 2026-09-05_
 - 실제 환경 데이터의 품질과 규모
 - 계획 생산능력을 실제 유료 수요로 전환하는 속도
 - 대형 fleet의 원격지원·정비·보험 체계
+- 소비자 로봇의 장기 신뢰성·AS 비용·교체주기
 
 ## Contradicting Signals
 
-생산능력과 투자·기업 수는 빠르게 증가하지만, 반복 가능하고 수익성 있는 실제 작업 데이터는 상대적으로 부족하다. 공장 오픈·사전주문·`planned capacity`·목표 차량 수는 상용화 성과와 다르며 실제 인도량, 유료 이용량, 가동률을 별도로 봐야 한다. 목적형 robotaxi는 기존 수동제어 장치를 제거할수록 소프트웨어 성능과 별개로 인증·법규 적합성 리스크가 커질 수 있다.
+생산능력과 투자·기업 수는 빠르게 증가하지만, 반복 가능하고 수익성 있는 실제 작업 데이터는 상대적으로 부족하다. 공장 오픈·사전주문·`planned capacity`·목표 차량 수는 상용화 성과와 다르며 실제 인도량, 유료 이용량, 가동률을 별도로 봐야 한다. 목적형 robotaxi는 기존 수동제어 장치를 제거할수록 소프트웨어 성능과 별개로 인증·법규 적합성 리스크가 커질 수 있다. Atoms 사례처럼 기술개발 정황이 있어도 회사가 실제 시장진입을 부인한다면 capability와 commercialization을 동일시하면 안 된다.
 
 ## Commercialization Metrics
 
@@ -66,9 +70,12 @@ _Last updated: 2026-09-05_
 - 규제 audit·면제·인증 진행 상태
 - tonne-km당 비용과 사고율
 - 개발자 플랫폼의 활성 사용자·소프트웨어 기여도
+- 소비자 로봇의 revenue growth·gross margin·R&D ratio·서비스 비용
 
 ## 30–90 Day Watchlist
 
+- Roborock H2 매출·마진과 Saros Rover의 실제 출시·출하
+- Atoms의 공식 robotaxi 발표 여부와 Uber integration 계약
 - NHTSA Cybercab Audit Query와 FMVSS 적합성·면제 경로
 - Austin Cybercab 실제 유료 운행량·fleet utilization·안전데이터
 - 런던 supervised rides의 driverless 전환 진행
@@ -80,10 +87,11 @@ _Last updated: 2026-09-05_
 
 ## Working Thesis
 
-> Physical AI와 자율주행의 승자는 가장 인상적인 데모보다 **신뢰 가능한 실제 데이터, 규제 통과, 차량·시스템 안전기준 적합성, 지역별 적용 적합성, 대량생산·서비스 능력, 인프라 통합, 경제성**을 먼저 연결하는 쪽일 가능성이 높다.
+> Physical AI와 자율주행의 승자는 가장 인상적인 데모보다 **신뢰 가능한 실제 데이터, 반복 유료수요와 수익성, 규제 통과, 차량·시스템 안전기준 적합성, 지역별 적용 적합성, 대량생산·서비스 능력, 인프라 통합, 경제성**을 먼저 연결하는 쪽일 가능성이 높다.
 
 ## Change Log
 
+- **2026-09-07:** Roborock H1 실적을 반영해 소비자 로봇의 반복매출·이익·R&D를 Physical AI 상용화 검증축으로 추가. Atoms robotaxi 보도와 공개 부인의 병존을 반영해 기술개발 신호와 실제 상업화 계획을 구분하는 원칙을 강화.
 - **2026-09-05:** Tesla Cybercab 배포와 NHTSA Audit Query를 반영해 purpose-built AV의 차량 안전기준 적합성과 regulatory audit를 독립 상용화 변수로 추가.
 - **2026-09-01:** 사우디 국가 규모 자율주행 트럭 계획을 반영해 물류 인프라 통합·paid freight·tonne-km 비용을 상용화 변수로 추가.
 - **2026-08-31:** Pony.ai 한국 200대 로보택시 계획을 반영해 인증·paid rides·fleet utilization을 핵심 상용화 변수로 강화. Microduck 초기 수요를 반영해 저가 개발자 플랫폼을 새로운 데이터·생태계 변수로 추가.
