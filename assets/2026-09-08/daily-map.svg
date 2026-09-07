@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-08 Global Tech Intelligence Overview</title>
+  <desc id="desc">Five verified developments across Physical AI, aviation science, space investment, AI manufacturing, and data-center infrastructure.</desc>
+  <rect width="1600" height="760" rx="36" fill="#0b1020"/>
+  <text x="90" y="105" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">2026-09-08 · Global Tech Intelligence</text>
+  <text x="90" y="155" fill="#aeb8d0" font-family="Arial, Helvetica, sans-serif" font-size="25">From model/demo competition to manufacturing, operational evidence, capital and infrastructure</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="90" y="220" width="430" height="190" rx="24" fill="#151d33" stroke="#4d6fff" stroke-width="2"/>
+    <text x="125" y="270" fill="#7e9cff" font-size="22" font-weight="700">PHYSICAL AI</text>
+    <text x="125" y="318" fill="#ffffff" font-size="31" font-weight="700">NEURA × SECO</text>
+    <text x="125" y="360" fill="#c5cce0" font-size="22">4NE1 compute modules</text>
+    <text x="125" y="392" fill="#c5cce0" font-size="22">→ scalable European production path</text>
+
+    <rect x="585" y="220" width="430" height="190" rx="24" fill="#151d33" stroke="#58c7b4" stroke-width="2"/>
+    <text x="620" y="270" fill="#76dbc8" font-size="22" font-weight="700">AI × SCIENCE</text>
+    <text x="620" y="318" fill="#ffffff" font-size="31" font-weight="700">Google × Cathay</text>
+    <text x="620" y="360" fill="#c5cce0" font-size="22">Contrail avoidance trials</text>
+    <text x="620" y="392" fill="#c5cce0" font-size="22">→ APAC + ultra-long-haul operations</text>
+
+    <rect x="1080" y="220" width="430" height="190" rx="24" fill="#151d33" stroke="#d4a84d" stroke-width="2"/>
+    <text x="1115" y="270" fill="#ebc269" font-size="22" font-weight="700">SPACE × CAPITAL</text>
+    <text x="1115" y="318" fill="#ffffff" font-size="31" font-weight="700">Pixxel · $100M</text>
+    <text x="1115" y="360" fill="#c5cce0" font-size="22">Series C</text>
+    <text x="1115" y="392" fill="#c5cce0" font-size="22">→ satellites + software + systems</text>
+
+    <rect x="335" y="465" width="430" height="190" rx="24" fill="#151d33" stroke="#c47bf0" stroke-width="2"/>
+    <text x="370" y="515" fill="#d79bfa" font-size="22" font-weight="700">AI MANUFACTURING</text>
+    <text x="370" y="563" fill="#ffffff" font-size="31" font-weight="700">Wistron · ~$1.47B</text>
+    <text x="370" y="605" fill="#c5cce0" font-size="22">GDR financing</text>
+    <text x="370" y="637" fill="#c5cce0" font-size="22">→ working capital for AI supply</text>
+
+    <rect x="835" y="465" width="430" height="190" rx="24" fill="#151d33" stroke="#ef7b78" stroke-width="2"/>
+    <text x="870" y="515" fill="#ff9996" font-size="22" font-weight="700">AI INFRASTRUCTURE</text>
+    <text x="870" y="563" fill="#ffffff" font-size="31" font-weight="700">Patagonia</text>
+    <text x="870" y="605" fill="#c5cce0" font-size="22">Power + land + policy incentives</text>
+    <text x="870" y="637" fill="#c5cce0" font-size="22">→ new mega data-center geography</text>
+  </g>
+
+  <text x="90" y="715" fill="#7f8aa5" font-family="Arial, Helvetica, sans-serif" font-size="20">Repository-created explanatory graphic · See source ledger for evidence and uncertainty</text>
+</svg>
