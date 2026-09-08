@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-09 Global Tech Intelligence Overview</title>
+  <desc id="desc">Five verified developments: OpenAI Navier-Stokes candidate solution, DeepMind AlphaGenome Atlas, Qualcomm-Amazon AI infrastructure collaboration, XPENG IRON humanoid production line, and Mistral Series D funding.</desc>
+  <rect width="1600" height="760" rx="36" fill="#f7f7f4"/>
+  <text x="80" y="88" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#111">Global Tech Intelligence · 2026-09-09</text>
+  <text x="80" y="130" font-family="Arial, sans-serif" font-size="22" fill="#555">Verified developments in the previous 24 hours · FACT separated from interpretation</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="80" y="180" width="440" height="210" rx="24" fill="#ffffff" stroke="#d8d8d2"/>
+    <text x="112" y="225" font-size="20" font-weight="700" fill="#555">AI × MATHEMATICS</text>
+    <text x="112" y="270" font-size="30" font-weight="700" fill="#111">Navier–Stokes</text>
+    <text x="112" y="307" font-size="30" font-weight="700" fill="#111">candidate solution</text>
+    <text x="112" y="348" font-size="20" fill="#555">OpenAI + Lean formalization</text>
+    <text x="112" y="375" font-size="17" fill="#777">Independent mathematical review still required</text>
+
+    <rect x="580" y="180" width="440" height="210" rx="24" fill="#ffffff" stroke="#d8d8d2"/>
+    <text x="612" y="225" font-size="20" font-weight="700" fill="#555">AI × GENOMICS</text>
+    <text x="612" y="270" font-size="30" font-weight="700" fill="#111">AlphaGenome Atlas</text>
+    <text x="612" y="307" font-size="27" font-weight="700" fill="#111">~9B DNA variants</text>
+    <text x="612" y="348" font-size="20" fill="#555">DeepMind · ~1PB prediction atlas</text>
+    <text x="612" y="375" font-size="17" fill="#777">Prediction layer, not clinical truth</text>
+
+    <rect x="1080" y="180" width="440" height="210" rx="24" fill="#ffffff" stroke="#d8d8d2"/>
+    <text x="1112" y="225" font-size="20" font-weight="700" fill="#555">AI INFRASTRUCTURE</text>
+    <text x="1112" y="270" font-size="30" font-weight="700" fill="#111">Qualcomm × Amazon</text>
+    <text x="1112" y="307" font-size="25" font-weight="700" fill="#111">custom silicon + 1.6T optics</text>
+    <text x="1112" y="348" font-size="20" fill="#555">Up to $60B business linkage reported</text>
+    <text x="1112" y="375" font-size="17" fill="#777">Maximum-linked condition ≠ realized revenue</text>
+
+    <rect x="330" y="450" width="440" height="210" rx="24" fill="#ffffff" stroke="#d8d8d2"/>
+    <text x="362" y="495" font-size="20" font-weight="700" fill="#555">ROBOTICS / PHYSICAL AI</text>
+    <text x="362" y="540" font-size="30" font-weight="700" fill="#111">XPENG IRON</text>
+    <text x="362" y="577" font-size="27" font-weight="700" fill="#111">production line commissioned</text>
+    <text x="362" y="618" font-size="20" fill="#555">Prototype → production-line manufacturing</text>
+    <text x="362" y="645" font-size="17" fill="#777">Paid delivery and field ROI remain unproven</text>
+
+    <rect x="830" y="450" width="440" height="210" rx="24" fill="#ffffff" stroke="#d8d8d2"/>
+    <text x="862" y="495" font-size="20" font-weight="700" fill="#555">AI / INVESTMENT</text>
+    <text x="862" y="540" font-size="30" font-weight="700" fill="#111">Mistral Series D</text>
+    <text x="862" y="577" font-size="27" font-weight="700" fill="#111">€3B · &gt;€21B valuation</text>
+    <text x="862" y="618" font-size="20" fill="#555">Frontier research + compute + infrastructure</text>
+    <text x="862" y="645" font-size="17" fill="#777">Capital scale does not guarantee model leadership</text>
+  </g>
+
+  <text x="80" y="720" font-family="Arial, sans-serif" font-size="18" fill="#666">Repository-created explanatory graphic · Source details: sources/2026/09/2026-09-09.md</text>
+</svg>
