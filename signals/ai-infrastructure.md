@@ -1,14 +1,15 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 
 ## Thesis
 
-AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월 초의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶는 단계까지 확장되고 있음을 강화한다.
+AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다.
 
 ## Evidence
 
+- [2026-09-10](../reports/2026/09/2026-09-10.md): Google은 향후 2년간 핀란드에 €13B를 투자하고 Loviisa 원전의 수명연장·출력증강을 지원하는 22년 계약, 신규 풍력, 94MW 배터리를 결합했다. 이는 AI 데이터센터 경쟁에서 장기 전력가격·공급 신뢰성·grid balancing이 compute와 같은 전략 인프라 계층으로 올라왔음을 보여준다.
 - [2026-09-09](../reports/2026/09/2026-09-09.md): Qualcomm과 Amazon이 여러 세대의 AI inference용 custom silicon 및 최대 1.6T optical connectivity 공동개발을 발표했다. Reuters는 Amazon의 Qualcomm 주식 warrant가 최대 $60B의 사업 조건과 연계돼 있다고 보도했다. 실제 확정 매출과는 구분해야 하지만 custom silicon·networking·cloud EDA·장기 고객관계가 하나의 인프라 공급구조로 결합되는 강한 신호다.
 - [2026-09-08](../reports/2026/09/2026-09-08.md): Wistron은 약 $1.47B 규모 GDR 발행을 통해 원자재 조달과 AI 생산확대에 필요한 자본을 확보했다. AI 인프라 확장이 제조 capacity뿐 아니라 대형 자본시장 조달을 요구한다는 근거다.
 - [2026-09-08](../reports/2026/09/2026-09-08.md): Reuters는 Patagonia가 풍력·가스·토지·대형투자 인센티브를 바탕으로 대형 AI 데이터센터 후보지로 부상한다고 보도했다. GPU 외에 전력·부지·정책 안정성이 입지 경쟁을 결정하는 신호다.
@@ -24,10 +25,13 @@ AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom 
 
 ## Bottlenecks
 
-HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-class optical connectivity, integrated-server delivery, grid interconnect, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity**, power, construction lead time, access allocation.
+HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-class optical connectivity, integrated-server delivery, grid interconnect, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity**, power, construction lead time, access allocation.
 
 ## Watch
 
+- Google 핀란드 신규 시설의 실제 착공·MW commissioning·연도별 CAPEX
+- Loviisa 원전 수명연장·출력증강 절차와 계약 전력량
+- 94MW 배터리와 신규 풍력의 실제 grid contribution
 - Qualcomm–Amazon 첫 custom inference silicon의 tape-out·양산 일정과 AWS 실제 배치
 - 1.6T optical connectivity의 상용 deployment와 시스템 TCO
 - 최대 $60B business linkage 중 실제 주문·매출 전환 규모
@@ -46,6 +50,7 @@ HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-clas
 
 ## Change Log
 
+- **2026-09-10:** Google 핀란드 €13B 투자와 22년 원전 관련 계약을 반영해 nuclear/renewable procurement와 storage를 AI 데이터센터 핵심 인프라 계층으로 강화.
 - **2026-09-09:** Qualcomm–Amazon의 multi-generation custom inference silicon·1.6T optical 협력을 반영해 hyperscaler–supplier 장기 공동개발과 optical connectivity를 핵심 인프라 축으로 강화. 최대 $60B business linkage는 realized revenue와 구분해 추적하도록 추가.
 - **2026-09-08:** Wistron GDR와 Patagonia data-center 입지 신호를 반영해 제조자본 조달과 전력·부지·정책 입지경쟁을 강화.
 - **2026-09-06:** HyperVault의 최대 1GW Hyderabad 캠퍼스와 Foxconn 기록적 8월 매출을 반영해 `gigawatt campus build-out`과 제조·통합계층의 realized demand를 핵심 검증축으로 강화.
