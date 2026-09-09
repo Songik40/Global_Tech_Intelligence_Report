@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-10 Global Tech Intelligence Overview</title>
+  <desc id="desc">Five verified developments linking AI infrastructure, semiconductor manufacturing, physical AI, autonomous mobility, and astrophysics.</desc>
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <text x="80" y="95" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#111111">2026-09-10 Global Tech Intelligence</text>
+  <text x="80" y="145" font-family="Arial, sans-serif" font-size="24" fill="#444444">Verified developments from the previous 24 hours</text>
+  <line x1="80" y1="185" x2="1520" y2="185" stroke="#cccccc" stroke-width="2"/>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="80" y="240" width="430" height="190" rx="18" fill="#f5f5f5" stroke="#d0d0d0"/>
+    <text x="110" y="285" font-size="23" font-weight="700" fill="#111111">AI INFRASTRUCTURE</text>
+    <text x="110" y="330" font-size="30" font-weight="700" fill="#111111">Google · Finland</text>
+    <text x="110" y="372" font-size="23" fill="#333333">€13B / 2 years</text>
+    <text x="110" y="405" font-size="21" fill="#555555">Data centers + nuclear + wind + battery</text>
+
+    <rect x="585" y="240" width="430" height="190" rx="18" fill="#f5f5f5" stroke="#d0d0d0"/>
+    <text x="615" y="285" font-size="23" font-weight="700" fill="#111111">AI × SEMICONDUCTORS</text>
+    <text x="615" y="330" font-size="30" font-weight="700" fill="#111111">Samsung · Mistral</text>
+    <text x="615" y="372" font-size="23" fill="#333333">On-prem semiconductor AI</text>
+    <text x="615" y="405" font-size="21" fill="#555555">Design + manufacturing + strategic capital</text>
+
+    <rect x="1090" y="240" width="430" height="190" rx="18" fill="#f5f5f5" stroke="#d0d0d0"/>
+    <text x="1120" y="285" font-size="23" font-weight="700" fill="#111111">PHYSICAL AI</text>
+    <text x="1120" y="330" font-size="30" font-weight="700" fill="#111111">ADI · Alif</text>
+    <text x="1120" y="372" font-size="23" fill="#333333">$1.35B acquisition agreement</text>
+    <text x="1120" y="405" font-size="21" fill="#555555">Sensing → edge inference → control</text>
+
+    <rect x="330" y="515" width="430" height="190" rx="18" fill="#f5f5f5" stroke="#d0d0d0"/>
+    <text x="360" y="560" font-size="23" font-weight="700" fill="#111111">AUTONOMOUS MOBILITY</text>
+    <text x="360" y="605" font-size="30" font-weight="700" fill="#111111">Waymo · Lyft</text>
+    <text x="360" y="647" font-size="23" fill="#333333">Nashville dual-app dispatch</text>
+    <text x="360" y="680" font-size="21" fill="#555555">AVs integrated into existing ride demand</text>
+
+    <rect x="840" y="515" width="430" height="190" rx="18" fill="#f5f5f5" stroke="#d0d0d0"/>
+    <text x="870" y="560" font-size="23" font-weight="700" fill="#111111">SPACE × SCIENCE</text>
+    <text x="870" y="605" font-size="30" font-weight="700" fill="#111111">Chandra · HSS</text>
+    <text x="870" y="647" font-size="23" fill="#333333">84 sources across 6 galaxies</text>
+    <text x="870" y="680" font-size="21" fill="#555555">New observational window from archive data</text>
+  </g>
+
+  <path d="M510 335 C555 335 540 335 585 335" fill="none" stroke="#999999" stroke-width="4"/>
+  <path d="M1015 335 C1060 335 1045 335 1090 335" fill="none" stroke="#999999" stroke-width="4"/>
+  <path d="M800 430 C800 475 700 480 620 515" fill="none" stroke="#999999" stroke-width="4"/>
+  <path d="M800 430 C800 475 900 480 980 515" fill="none" stroke="#999999" stroke-width="4"/>
+
+  <text x="80" y="820" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111111">Structural signal</text>
+  <text x="260" y="820" font-family="Arial, sans-serif" font-size="23" fill="#333333">AI models are increasingly coupled to power, fabrication, edge hardware, real-world operations and scientific data.</text>
+  <text x="80" y="860" font-family="Arial, sans-serif" font-size="18" fill="#666666">Repository-created graphic · data summarized from the 2026-09-10 source ledger</text>
+</svg>
