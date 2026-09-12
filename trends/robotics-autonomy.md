@@ -1,10 +1,10 @@
 # Robotics & Autonomy — Trend Tracker
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-12_
 
 ## Current Direction
 
-로봇·자율주행은 **기술 데모 → 실제 배치 → 인증·신뢰성·경제성 검증 → 지역 생산·상업 운행 → 인프라 규모 통합** 단계로 이동하고 있다. 목적형 robotaxi가 실제 서비스에 투입되면서 **차량 구조 자체의 규제 적합성**도 소프트웨어 안전성과 동등한 상용화 변수로 부상했다. 동시에 Roborock처럼 좁은 작업영역의 소비자 로봇은 이미 매출·이익·R&D를 반복적으로 만들어내며, Physical AI의 실질 상용화는 humanoid 여부보다 **반복 가능한 유료 작업과 운영경제성**으로 평가해야 한다는 증거를 강화하고 있다. 9월 8일 NEURA–SECO 협력은 **로봇용 AI compute를 생산 가능한 모듈·제조 파트너십으로 표준화하는 단계**를 보여줬고, 9월 9일 XPENG IRON 생산라인 가동은 자동차업체의 품질·자동화·공급망 역량이 휴머노이드 제조로 직접 이전되는 신호를 추가했다.
+로봇·자율주행은 **기술 데모 → 실제 배치 → 인증·신뢰성·경제성 검증 → 지역 생산·상업 운행 → 인프라 규모 통합 → 국가 단위 대량 보급 정책** 단계로 이동하고 있다. 목적형 robotaxi가 실제 서비스에 투입되면서 **차량 구조 자체의 규제 적합성**도 소프트웨어 안전성과 동등한 상용화 변수로 부상했다. 동시에 Roborock처럼 좁은 작업영역의 소비자 로봇은 이미 매출·이익·R&D를 반복적으로 만들어내며, Physical AI의 실질 상용화는 humanoid 여부보다 **반복 가능한 유료 작업과 운영경제성**으로 평가해야 한다는 증거를 강화하고 있다. 9월 8일 NEURA–SECO 협력은 **로봇용 AI compute를 생산 가능한 모듈·제조 파트너십으로 표준화하는 단계**를 보여줬고, 9월 9일 XPENG IRON 생산라인 가동은 자동차업체의 품질·자동화·공급망 역량이 휴머노이드 제조로 직접 이전되는 신호를 추가했다. 9월 11일 중국의 2030 자율주행 대규모 보급 목표는 개별 도시 파일럿을 넘어 **국가 산업정책이 deployment scale 자체를 핵심 목표로 삼기 시작했다는 신호**를 더했다.
 
 ## Key Drivers
 
@@ -15,6 +15,7 @@ _Last updated: 2026-09-09_
 - 안전성과 운영 신뢰성
 - 규제 인증과 서비스 허가
 - 차량 안전기준과 purpose-built autonomy 설계의 정합성
+- 국가 단위 보급정책과 정량 KPI
 - 지역 산업구조와 실제 수요에 맞는 배치
 - 대량생산·현지조달·서비스 네트워크
 - 자동차급 품질관리·공정자동화의 휴머노이드 제조 이전
@@ -25,6 +26,7 @@ _Last updated: 2026-09-09_
 
 ## Recent Evidence
 
+- [2026-09-12](../reports/2026/09/2026-09-12.md): 중국 MIIT가 스마트·커넥티드 신에너지차 산업 로드맵을 설명했고 Reuters는 2030년까지 자율주행차의 대규모 보급을 목표로 한다고 보도했다. 이는 자율주행 경쟁이 도시별 시험·허가를 넘어 국가 단위 deployment policy로 확장되는 신호다. 다만 `mass deployment`의 차량 대수·L3/L4 비중·지역 커버리지 기준은 아직 충분히 구체화되지 않았다.
 - [2026-09-09](../reports/2026/09/2026-09-09.md): XPENG은 IRON 휴머노이드 전용 생산라인을 가동하고 생산라인에서 제조된 첫 기체가 자율 보행으로 라인을 나왔다고 발표했다. 회사는 핵심 공정 자동화율이 80%를 넘는다고 설명했다. 이는 prototype에서 repeatable manufacturing으로 이동하는 신호지만 월별 생산량·수율·유료 인도·현장 ROI는 아직 공개되지 않았다.
 - [2026-09-08](../reports/2026/09/2026-09-08.md): NEURA Robotics와 SECO가 4NE1을 포함한 인지형 로봇용 compute module의 설계·엔지니어링·제조에 협력한다. Qualcomm 기반 분산형 compute architecture를 scalable series production으로 연결하는 prototype-to-production 신호다.
 - [2026-09-07](../reports/2026/09/2026-09-07.md): Roborock은 H1 2026 매출 RMB 10.084B(+27.6%), 주주귀속 순이익 RMB 986M(+45.6%), R&D RMB 720M을 발표했다. 좁은 작업범위의 autonomous home robotics가 반복매출·이익·R&D를 동시에 만드는 상업화 기준점을 제공한다.
@@ -39,7 +41,7 @@ _Last updated: 2026-09-09_
 
 ## Major Players / Systems
 
-중국 휴머노이드 업체, 글로벌 산업용 로봇 기업, 자율주행 서비스 사업자, 자동차 제조사, foundation robotics 연구그룹, 소비자 로봇 기업, 지역 제조 파트너, edge-AI compute 공급자, 저가 로봇 개발 플랫폼, 물류·광업·항만 운영자, 자동차 안전 규제기관.
+중국 휴머노이드 업체, 글로벌 산업용 로봇 기업, 자율주행 서비스 사업자, 자동차 제조사, foundation robotics 연구그룹, 소비자 로봇 기업, 지역 제조 파트너, edge-AI compute 공급자, 저가 로봇 개발 플랫폼, 물류·광업·항만 운영자, 자동차 안전 규제기관, 국가 산업정책·표준기관.
 
 ## Technical Bottlenecks
 
@@ -57,10 +59,11 @@ _Last updated: 2026-09-09_
 - 대형 fleet의 원격지원·정비·보험 체계
 - 소비자 로봇의 장기 신뢰성·AS 비용·교체주기
 - 분산 compute module의 전력·열·실시간성·functional-safety 검증
+- 국가 보급 목표를 실제 도로·통신·보험·책임 인프라로 전환하는 속도
 
 ## Contradicting Signals
 
-생산능력과 투자·기업 수는 빠르게 증가하지만, 반복 가능하고 수익성 있는 실제 작업 데이터는 상대적으로 부족하다. 공장 오픈·사전주문·`planned capacity`·목표 차량 수는 상용화 성과와 다르며 실제 인도량, 유료 이용량, 가동률을 별도로 봐야 한다. XPENG처럼 실제 생산라인 가동이 확인돼도 회사가 공개한 자동화율과 제조 이정표는 월별 생산량·수율·유료 배치·ROI와 동일하지 않다. 목적형 robotaxi는 기존 수동제어 장치를 제거할수록 소프트웨어 성능과 별개로 인증·법규 적합성 리스크가 커질 수 있다. Atoms 사례처럼 기술개발 정황이 있어도 회사가 실제 시장진입을 부인한다면 capability와 commercialization을 동일시하면 안 된다. NEURA–SECO처럼 생산 파트너십이 구체화돼도 `series production` 목표는 실제 월별 생산량·인도량과 구분해야 한다.
+생산능력과 투자·기업 수는 빠르게 증가하지만, 반복 가능하고 수익성 있는 실제 작업 데이터는 상대적으로 부족하다. 공장 오픈·사전주문·`planned capacity`·목표 차량 수는 상용화 성과와 다르며 실제 인도량, 유료 이용량, 가동률을 별도로 봐야 한다. XPENG처럼 실제 생산라인 가동이 확인돼도 회사가 공개한 자동화율과 제조 이정표는 월별 생산량·수율·유료 배치·ROI와 동일하지 않다. 목적형 robotaxi는 기존 수동제어 장치를 제거할수록 소프트웨어 성능과 별개로 인증·법규 적합성 리스크가 커질 수 있다. Atoms 사례처럼 기술개발 정황이 있어도 회사가 실제 시장진입을 부인한다면 capability와 commercialization을 동일시하면 안 된다. NEURA–SECO처럼 생산 파트너십이 구체화돼도 `series production` 목표는 실제 월별 생산량·인도량과 구분해야 한다. 중국의 2030 `mass deployment` 목표 역시 실제 차량 수·유료운행량·사고율이 확인되기 전까지는 정책 목표로 분리해 평가해야 한다.
 
 ## Commercialization Metrics
 
@@ -76,12 +79,15 @@ _Last updated: 2026-09-09_
 - compute module당 전력·열·원가와 field failure rate
 - 자율주행 인증 차량 수·paid rides / paid freight·fleet utilization
 - 규제 audit·면제·인증 진행 상태
+- 국가별 L3/L4 등록·판매·운행 차량 수
 - tonne-km당 비용과 사고율
 - 개발자 플랫폼의 활성 사용자·소프트웨어 기여도
 - 소비자 로봇의 revenue growth·gross margin·R&D ratio·서비스 비용
 
 ## 30–90 Day Watchlist
 
+- 중국 2030 자율주행 대규모 보급 목표의 정량 KPI·시행계획
+- 중국 L3/L4 인증 차량 수와 실제 상용 판매·유료운행 데이터
 - XPENG IRON의 월별 생산·수율·실제 유료 고객 인도와 task/MTBF 데이터
 - NEURA–SECO compute module의 최종 사양·생산 개시·4NE1 실제 출하
 - Roborock H2 매출·마진과 Saros Rover의 실제 출시·출하
@@ -97,10 +103,11 @@ _Last updated: 2026-09-09_
 
 ## Working Thesis
 
-> Physical AI와 자율주행의 승자는 가장 인상적인 데모보다 **신뢰 가능한 실제 데이터, 반복 유료수요와 수익성, 규제 통과, 자동차급·산업급 제조 품질, 생산 가능한 compute·hardware architecture, 차량·시스템 안전기준 적합성, 지역별 적용 적합성, 대량생산·서비스 능력, 인프라 통합, 경제성**을 먼저 연결하는 쪽일 가능성이 높다.
+> Physical AI와 자율주행의 승자는 가장 인상적인 데모보다 **신뢰 가능한 실제 데이터, 반복 유료수요와 수익성, 규제 통과, 자동차급·산업급 제조 품질, 생산 가능한 compute·hardware architecture, 차량·시스템 안전기준 적합성, 지역별 적용 적합성, 국가 단위 배치 정책을 실제 운영으로 전환하는 능력, 대량생산·서비스 능력, 인프라 통합, 경제성**을 먼저 연결하는 쪽일 가능성이 높다.
 
 ## Change Log
 
+- **2026-09-12:** 중국의 2030 자율주행 대규모 보급 목표를 반영해 국가 단위 deployment policy와 정량 KPI, L3/L4 등록·판매·유료운행 데이터를 장기 상용화 검증축으로 추가.
 - **2026-09-09:** XPENG IRON 생산라인 가동을 반영해 자동차급 품질관리·공정자동화의 휴머노이드 이전, 제조 수율·라인 cycle time·실제 유료 인도를 prototype-to-commercialization 검증축으로 강화.
 - **2026-09-08:** NEURA–SECO 협력을 반영해 생산 가능한 edge-AI compute module, 분산 compute의 전력·열·functional-safety, prototype-to-production 제조 파트너십을 상용화 변수로 추가.
 - **2026-09-07:** Roborock H1 실적을 반영해 소비자 로봇의 반복매출·이익·R&D를 Physical AI 상용화 검증축으로 추가. Atoms robotaxi 보도와 공개 부인의 병존을 반영해 기술개발 신호와 실제 상업화 계획을 구분하는 원칙을 강화.
