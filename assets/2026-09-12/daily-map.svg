@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-12 Global Technology Intelligence Overview</title>
+  <desc id="desc">Five selected developments across autonomous driving, AI chips, AI infrastructure, AI policy, and quantum science.</desc>
+  <rect width="1600" height="760" fill="#0b1020"/>
+  <text x="90" y="95" fill="#ffffff" font-family="Arial, sans-serif" font-size="46" font-weight="700">2026-09-12 · Global Tech Intelligence</text>
+  <text x="90" y="142" fill="#b8c2d9" font-family="Arial, sans-serif" font-size="23">Five developments selected for novelty, impact, evidence quality and actionability</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="90" y="205" width="680" height="130" rx="22" fill="#17213b"/>
+    <text x="125" y="250" fill="#7dd3fc" font-size="22" font-weight="700">AUTONOMY</text>
+    <text x="125" y="288" fill="#ffffff" font-size="27" font-weight="700">China targets mass AV deployment by 2030</text>
+    <text x="125" y="318" fill="#b8c2d9" font-size="19">Policy shifts from pilots toward national-scale deployment.</text>
+
+    <rect x="830" y="205" width="680" height="130" rx="22" fill="#17213b"/>
+    <text x="865" y="250" fill="#c4b5fd" font-size="22" font-weight="700">AI CHIPS / CAPITAL</text>
+    <text x="865" y="288" fill="#ffffff" font-size="27" font-weight="700">Enflame jumps 179% on STAR Market debut</text>
+    <text x="865" y="318" fill="#b8c2d9" font-size="19">Investor demand tests the domestic accelerator thesis.</text>
+
+    <rect x="90" y="380" width="680" height="130" rx="22" fill="#17213b"/>
+    <text x="125" y="425" fill="#86efac" font-size="22" font-weight="700">AI INFRASTRUCTURE</text>
+    <text x="125" y="463" fill="#ffffff" font-size="27" font-weight="700">Oracle OCI revenue grows 121% YoY</text>
+    <text x="125" y="493" fill="#b8c2d9" font-size="19">Demand accelerates while financing and cash flow stay critical.</text>
+
+    <rect x="830" y="380" width="680" height="130" rx="22" fill="#17213b"/>
+    <text x="865" y="425" fill="#fde68a" font-size="22" font-weight="700">AI POLICY</text>
+    <text x="865" y="463" fill="#ffffff" font-size="27" font-weight="700">U.S. Senate weighs stronger developer duties</text>
+    <text x="865" y="493" fill="#b8c2d9" font-size="19">Negotiations focus on testing, responsibility and release controls.</text>
+
+    <rect x="90" y="555" width="1420" height="120" rx="22" fill="#17213b"/>
+    <text x="125" y="600" fill="#f9a8d4" font-size="22" font-weight="700">QUANTUM SCIENCE</text>
+    <text x="125" y="638" fill="#ffffff" font-size="27" font-weight="700">Quantum-field-theory scattering demonstrated on IBM quantum hardware</text>
+    <text x="125" y="668" fill="#b8c2d9" font-size="19">A step from circuit demos toward experimentally testable physics workloads.</text>
+  </g>
+
+  <text x="90" y="725" fill="#8290aa" font-family="Arial, sans-serif" font-size="16">Repository-created summary graphic · see report and source ledger for evidence and uncertainty</text>
+</svg>
