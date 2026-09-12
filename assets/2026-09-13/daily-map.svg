@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-13 Global Technology Intelligence Overview</title>
+  <desc id="desc">Five verified developments: AI governance, Reuters MCP media workflow, experimental-feedback protein design, ultrahigh-resolution OLED-on-silicon, and Oracle financing context.</desc>
+  <rect width="1200" height="720" rx="28" fill="#f7f8fa"/>
+  <text x="60" y="72" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111827">Global Tech Intelligence · 2026-09-13</text>
+  <text x="60" y="108" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#4b5563">Five new, evidence-weighted developments from the previous 24 hours</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="60" y="150" width="520" height="145" rx="20" fill="#e8eefc" stroke="#b8c6eb"/>
+    <text x="88" y="190" font-size="18" font-weight="700" fill="#1f3a68">01 · AI GOVERNANCE</text>
+    <text x="88" y="228" font-size="25" font-weight="700" fill="#111827">Independent evaluation enters</text>
+    <text x="88" y="260" font-size="25" font-weight="700" fill="#111827">the frontier-AI pacing debate</text>
+    <text x="88" y="282" font-size="16" fill="#4b5563">Reuters + Anthropic policy context</text>
+
+    <rect x="620" y="150" width="520" height="145" rx="20" fill="#e9f5ef" stroke="#b8d8c6"/>
+    <text x="648" y="190" font-size="18" font-weight="700" fill="#24553b">02 · AI / MEDIA WORKFLOW</text>
+    <text x="648" y="228" font-size="25" font-weight="700" fill="#111827">Reuters MCP connects licensed</text>
+    <text x="648" y="260" font-size="25" font-weight="700" fill="#111827">news directly to AI editing</text>
+    <text x="648" y="282" font-size="16" fill="#4b5563">Reuters Communications</text>
+
+    <rect x="60" y="330" width="520" height="145" rx="20" fill="#f4ecfb" stroke="#d5c0e8"/>
+    <text x="88" y="370" font-size="18" font-weight="700" fill="#5e3a7a">03 · AI × SCIENCE</text>
+    <text x="88" y="408" font-size="25" font-weight="700" fill="#111827">Experimental feedback aligns</text>
+    <text x="88" y="440" font-size="25" font-weight="700" fill="#111827">protein language models</text>
+    <text x="88" y="462" font-size="16" fill="#4b5563">Nature Communications</text>
+
+    <rect x="620" y="330" width="520" height="145" rx="20" fill="#fff3e6" stroke="#e7cda8"/>
+    <text x="648" y="370" font-size="18" font-weight="700" fill="#7a4c16">04 · DISPLAY TECHNOLOGY</text>
+    <text x="648" y="408" font-size="25" font-weight="700" fill="#111827">6047-PPI OLEDoS trench</text>
+    <text x="648" y="440" font-size="25" font-weight="700" fill="#111827">cuts electrical crosstalk</text>
+    <text x="648" y="462" font-size="16" fill="#4b5563">Scientific Reports</text>
+
+    <rect x="60" y="510" width="1080" height="145" rx="20" fill="#edf1f5" stroke="#c8d0d9"/>
+    <text x="88" y="550" font-size="18" font-weight="700" fill="#374151">05 · ECONOMY / AI INFRASTRUCTURE</text>
+    <text x="88" y="590" font-size="25" font-weight="700" fill="#111827">Oracle founder cancels a 50-million-share sale plan as AI infrastructure financing remains in focus</text>
+    <text x="88" y="625" font-size="16" fill="#4b5563">Reuters citing Oracle · interpret the cancellation cautiously; financing and cash conversion remain the key watchpoints</text>
+  </g>
+
+  <text x="60" y="690" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Repository-created explanatory graphic · no external image material · details and uncertainty in the report and source ledger</text>
+</svg>
