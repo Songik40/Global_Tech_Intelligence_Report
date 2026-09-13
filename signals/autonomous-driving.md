@@ -1,14 +1,15 @@
 # Signal — Autonomous Driving
 
-**Status:** Commercial expansion, with certification and public-road regulation becoming binding constraints  
-**Last updated:** 2026-09-11
+**Status:** Commercial expansion, with certification, platform integration and fleet-data execution becoming binding constraints  
+**Last updated:** 2026-09-14
 
 ## Thesis
 
-자율주행은 모델 성능만으로 평가하기보다 **regulatory approval, vehicle-standard compliance, supervised-to-driverless progression, driverless miles, intervention/safety data, paid operations, fleet utilization, logistics integration, multi-city repeatability, operational support, demand aggregation, unit economics**로 평가해야 한다.
+자율주행은 모델 성능만으로 평가하기보다 **regulatory approval, vehicle-standard compliance, supervised-to-driverless progression, driverless miles, intervention/safety data, paid operations, fleet utilization, logistics integration, multi-city repeatability, operational support, demand aggregation, unit economics, OEM–compute platform co-design, fleet-data flywheel**로 평가해야 한다.
 
 ## Current Evidence
 
+- [2026-09-14](../reports/2026/09/2026-09-14.md): 현대차그룹은 NVIDIA 기반 L2+를 2028년 상반기, L2++를 2028년 하반기에 양산하고 자체 Atria AI 기반 L2++를 2029년 하반기에 투입하는 dual-track 로드맵을 공개했다. 외부 platform으로 먼저 fleet data를 축적한 뒤 자체 stack 학습에 되먹임하는 Data Flywheel 전략이다. 다만 2028–2029 일정은 목표이며 L2+/L2++는 운전자 감독이 필요한 단계다.
 - [2026-09-11](../reports/2026/09/2026-09-11.md): Pony.ai와 Verne가 자그레브 공공도로의 약 22km 구간에서 승객을 태운 완전 무인 로보택시 시험을 시작했다. 기존 AV operator 동승 서비스에서 driverless passenger testing으로 이동한 사례로, 유럽에서도 `supervised → driverless → commercial scale` 전환속도가 핵심 검증축이 되고 있음을 강화한다. 다만 시험 차량 수, intervention rate, 완전 무인 유료운행 전환 시점은 아직 공개가 제한적이다.
 - [2026-09-05](../reports/2026/09/2026-09-05.md): Tesla가 Austin Robotaxi 서비스에 목적형 Cybercab을 실제 투입한 직후 NHTSA가 FMVSS 자기인증에 대한 Audit Query를 개시했다. driverless capability가 실제 상용차량으로 이동하면서 software safety뿐 아니라 차량 구조 자체의 규제 적합성이 독립적인 상용화 병목이 됐다.
 - [2026-09-04](../reports/2026/09/2026-09-04.md): Wayve와 Uber가 런던에서 일반 이용자 대상 supervised autonomous rides를 실제로 시작했다. 14만 명 이상이 AV preference에 opt-in했지만 초기에는 소규모 fleet과 trained safety driver가 유지된다. 전략·허가 단계에서 실제 consumer operations로 이동한 신호다.
@@ -19,10 +20,13 @@
 
 ## Interpretation
 
-도시 수와 계획 차량 수만으로 상용화 성과를 판단하지 않는다. 실제 성과는 **차량 자체의 법규 적합성, supervised에서 driverless로 넘어가는 속도, paid trips/freight, fleet utilization, 서비스 지역 확대, 안전 데이터, 원격지원 비용, 수요 밀도, 반복 가능한 도시별 운영체계**가 확인될 때 인정한다. 자그레브 사례는 유럽에서도 완전 무인 승객 시험이 시작됐다는 점에서 진행단계를 한 칸 전진시키지만, 상용화 판단은 실제 유료운행·대수·개입률이 공개될 때까지 유보한다.
+도시 수와 계획 차량 수만으로 상용화 성과를 판단하지 않는다. 실제 성과는 **차량 자체의 법규 적합성, supervised에서 driverless로 넘어가는 속도, paid trips/freight, fleet utilization, 서비스 지역 확대, 안전 데이터, 원격지원 비용, 수요 밀도, 반복 가능한 도시별 운영체계**가 확인될 때 인정한다. 현대차 사례는 대형 OEM이 외부 compute/platform을 단기 배포 가속기로 쓰면서 자체 모델을 병행 개발하는 경로를 추가한다. 이 전략의 성패는 판매대수 자체보다 **실제로 수집 가능한 고품질 주행 데이터, 파트너 플랫폼과 자체 stack 사이의 학습 전이, 일정 준수, 안전지표 개선**으로 검증해야 한다. 자그레브 사례는 유럽에서도 완전 무인 승객 시험이 시작됐다는 점에서 진행단계를 한 칸 전진시키지만, 상용화 판단은 실제 유료운행·대수·개입률이 공개될 때까지 유보한다.
 
 ## Watch
 
+- Hyundai NVIDIA-based L2+ H1 2028 / L2++ H2 2028 일정 준수
+- Hyundai Atria L2++ H2 2029 양산 전환과 실제 기능 범위
+- Hyundai fleet-data 규모·학습 품질·intervention/safety 지표
 - Zagreb driverless passenger test의 fleet size·trip volume·intervention rate
 - Zagreb 시험에서 완전 무인 유료서비스로의 전환 시점
 - NHTSA Cybercab Audit Query와 FMVSS 적합성·면제 경로
@@ -40,6 +44,7 @@
 
 ## Change Log
 
+- **2026-09-14:** 현대차의 NVIDIA 조기배포 + Atria 내재화 dual-track과 Data Flywheel을 반영해 OEM–platform co-design, fleet-data quality, 외부 플랫폼에서 자체 stack으로의 학습 전이를 새로운 검증축으로 추가.
 - **2026-09-11:** Pony.ai·Verne의 자그레브 완전 무인 승객 시험을 반영해 유럽 시장에서도 `supervised → driverless passenger testing → paid driverless service` 전환속도와 intervention/fleet 지표를 핵심 검증축으로 강화.
 - **2026-09-05:** Tesla Cybercab 배포와 NHTSA Audit Query를 반영해 vehicle-standard compliance와 purpose-built robotaxi 인증을 독립 상용화 축으로 추가.
 - **2026-09-04:** Wayve·Uber 런던 공개 운행을 반영해 supervised-to-driverless progression과 실제 consumer matching을 독립 상용화 단계로 추가.
