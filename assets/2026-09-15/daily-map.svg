@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">2026-09-15 Global Tech Intelligence Overview</title>
+  <desc id="desc">Five verified developments across AI governance, autonomous trucking, orbital sustainability, biotechnology, and AI-linked capital markets.</desc>
+  <rect width="1600" height="900" fill="#0b1020"/>
+  <text x="90" y="105" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#f5f7ff">Global Tech Intelligence · 2026-09-15</text>
+  <text x="90" y="155" font-family="Arial, sans-serif" font-size="25" fill="#b8c1d9">Five developments selected from the previous 24 hours</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(90 220)">
+      <rect width="680" height="150" rx="22" fill="#18213b"/>
+      <text x="34" y="48" font-size="23" font-weight="700" fill="#8ec5ff">AI · GOVERNANCE</text>
+      <text x="34" y="88" font-size="30" font-weight="700" fill="#ffffff">Microsoft drafts human-control code</text>
+      <text x="34" y="122" font-size="21" fill="#c9d2e8">Corrigibility, shutdown compliance, oversight</text>
+    </g>
+    <g transform="translate(830 220)">
+      <rect width="680" height="150" rx="22" fill="#18213b"/>
+      <text x="34" y="48" font-size="23" font-weight="700" fill="#9fe6c5">ROBOTICS · AUTONOMY</text>
+      <text x="34" y="88" font-size="30" font-weight="700" fill="#ffffff">Pony.ai Gen-4 L4 Robotruck</text>
+      <text x="34" y="122" font-size="21" fill="#c9d2e8">Mass production target + Europe/Middle East</text>
+    </g>
+    <g transform="translate(90 410)">
+      <rect width="680" height="150" rx="22" fill="#18213b"/>
+      <text x="34" y="48" font-size="23" font-weight="700" fill="#d4b5ff">SPACE · SCIENCE</text>
+      <text x="34" y="88" font-size="30" font-weight="700" fill="#ffffff">ESA: orbital strain keeps rising</text>
+      <text x="34" y="122" font-size="21" fill="#c9d2e8">Disposal + active debris removal become core</text>
+    </g>
+    <g transform="translate(830 410)">
+      <rect width="680" height="150" rx="22" fill="#18213b"/>
+      <text x="34" y="48" font-size="23" font-weight="700" fill="#ffbd9c">SCIENCE · BIOTECH</text>
+      <text x="34" y="88" font-size="30" font-weight="700" fill="#ffffff">Gotistobart median OS: 18.5 vs 10.0 mo</text>
+      <text x="34" y="122" font-size="21" fill="#c9d2e8">Non-pivotal Stage 1; pivotal trial still required</text>
+    </g>
+    <g transform="translate(90 600)">
+      <rect width="1420" height="150" rx="22" fill="#18213b"/>
+      <text x="34" y="48" font-size="23" font-weight="700" fill="#ffd879">ECONOMY · INVESTMENT</text>
+      <text x="34" y="88" font-size="30" font-weight="700" fill="#ffffff">AI safety debate reaches semiconductor and tech valuations</text>
+      <text x="34" y="122" font-size="21" fill="#c9d2e8">Market repricing is a new signal, not proof of a long-term capex reversal</text>
+    </g>
+  </g>
+  <line x1="90" y1="805" x2="1510" y2="805" stroke="#33405f" stroke-width="2"/>
+  <text x="90" y="850" font-family="Arial, sans-serif" font-size="20" fill="#8d99b7">Repository-created explanatory graphic · Sources documented in sources/2026/09/2026-09-15.md</text>
+</svg>
