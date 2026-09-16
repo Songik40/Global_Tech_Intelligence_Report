@@ -1,14 +1,16 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-17
 
 ## Thesis
 
-AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다.
+AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다. 9월 17일에는 여기에 **grid-responsive compute**와 **chip/customer-contract-backed financing**이라는 두 축이 추가됐다.
 
 ## Evidence
 
+- [2026-09-17](../reports/2026/09/2026-09-17.md): Google·NVIDIA·Emerald AI가 AEMA를 출범해 AI 데이터센터의 curtailment·contingency response·운영데이터 공유를 포함한 performance-based grid flexibility 프레임워크를 추진한다. 전력망 병목 대응이 발전용량 추가뿐 아니라 compute 부하 자체의 제어로 확장되는 신호다.
+- [2026-09-17](../reports/2026/09/2026-09-17.md): Reuters가 Bloomberg를 인용해 Crux AI에 220억달러 규모의 TPU 구매용 대출이 제공되며 칩과 고객계약이 담보기반으로 사용된다고 보도했다. 1차 계약 확인 전까지 Medium-High 증거지만, AI compute 자산이 대형 구조화 금융의 기초가 되는 방향을 강화한다.
 - [2026-09-10](../reports/2026/09/2026-09-10.md): Google은 향후 2년간 핀란드에 €13B를 투자하고 Loviisa 원전의 수명연장·출력증강을 지원하는 22년 계약, 신규 풍력, 94MW 배터리를 결합했다. 이는 AI 데이터센터 경쟁에서 장기 전력가격·공급 신뢰성·grid balancing이 compute와 같은 전략 인프라 계층으로 올라왔음을 보여준다.
 - [2026-09-09](../reports/2026/09/2026-09-09.md): Qualcomm과 Amazon이 여러 세대의 AI inference용 custom silicon 및 최대 1.6T optical connectivity 공동개발을 발표했다. Reuters는 Amazon의 Qualcomm 주식 warrant가 최대 $60B의 사업 조건과 연계돼 있다고 보도했다. 실제 확정 매출과는 구분해야 하지만 custom silicon·networking·cloud EDA·장기 고객관계가 하나의 인프라 공급구조로 결합되는 강한 신호다.
 - [2026-09-08](../reports/2026/09/2026-09-08.md): Wistron은 약 $1.47B 규모 GDR 발행을 통해 원자재 조달과 AI 생산확대에 필요한 자본을 확보했다. AI 인프라 확장이 제조 capacity뿐 아니라 대형 자본시장 조달을 요구한다는 근거다.
@@ -25,10 +27,14 @@ AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom 
 
 ## Bottlenecks
 
-HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-class optical connectivity, integrated-server delivery, grid interconnect, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity**, power, construction lead time, access allocation.
+HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-class optical connectivity, integrated-server delivery, grid interconnect, grid-flexibility verification, curtailment SLA, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity, chip residual value, customer-contract durability**, power, construction lead time, access allocation.
 
 ## Watch
 
+- AEMA 참여 utility·grid operator와 첫 상업 실증의 MW 규모
+- grid-responsive AI workload의 실제 SLA, curtailment response time, interconnection 기간 단축 효과
+- Crux AI 220억달러 대출의 공식 확인, covenant, 칩 담보평가·감가 방식
+- 유사 chip/customer-contract-backed AI financing의 확산 여부와 신용스프레드
 - Google 핀란드 신규 시설의 실제 착공·MW commissioning·연도별 CAPEX
 - Loviisa 원전 수명연장·출력증강 절차와 계약 전력량
 - 94MW 배터리와 신규 풍력의 실제 grid contribution
@@ -50,6 +56,7 @@ HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-clas
 
 ## Change Log
 
+- **2026-09-17:** AEMA 출범과 Crux AI 220억달러 대출 보도를 반영해 grid-responsive compute와 chip/customer-contract-backed financing을 AI 인프라의 새로운 운영·자본 계층으로 추가. Crux 금융은 1차 계약 확인 전까지 Medium-High로 추적.
 - **2026-09-10:** Google 핀란드 €13B 투자와 22년 원전 관련 계약을 반영해 nuclear/renewable procurement와 storage를 AI 데이터센터 핵심 인프라 계층으로 강화.
 - **2026-09-09:** Qualcomm–Amazon의 multi-generation custom inference silicon·1.6T optical 협력을 반영해 hyperscaler–supplier 장기 공동개발과 optical connectivity를 핵심 인프라 축으로 강화. 최대 $60B business linkage는 realized revenue와 구분해 추적하도록 추가.
 - **2026-09-08:** Wistron GDR와 Patagonia data-center 입지 신호를 반영해 제조자본 조달과 전력·부지·정책 입지경쟁을 강화.
