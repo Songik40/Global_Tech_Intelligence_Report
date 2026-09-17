@@ -1,14 +1,16 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 
 ## Thesis
 
-AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다. 9월 17일에는 여기에 **grid-responsive compute**와 **chip/customer-contract-backed financing**이라는 두 축이 추가됐다.
+AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다. 9월 17일에는 여기에 **grid-responsive compute**와 **chip/customer-contract-backed financing**이 추가됐고, 9월 18일에는 Huawei의 million-NPU scale-out 로드맵과 Crusoe의 39억달러 equity 조달이 각각 **system-scale architecture와 capital concentration**을 한층 강화했다.
 
 ## Evidence
 
+- [2026-09-18](../reports/2026/09/2026-09-18.md): Huawei는 Ascend 960 일정을 앞당기고 UnifiedBus 기반 최대 512,000 NPU, multi-rail 기준 최대 100만 NPU를 지원하는 SuperCluster 구상을 공개했다. 단일 accelerator보다 interconnect와 scale-out이 전략적 경쟁단위로 커지는 증거다.
+- [2026-09-18](../reports/2026/09/2026-09-18.md): Crusoe는 39억달러 Series F initial close와 309억달러 post-money valuation을 발표했다. 회사가 제시한 6GW+ gross contracted capacity와 1GW operational capacity는 AI 인프라 확장이 수십억달러 단위 equity와 전력·데이터센터·cloud 수직통합을 요구한다는 신호를 강화한다.
 - [2026-09-17](../reports/2026/09/2026-09-17.md): Google·NVIDIA·Emerald AI가 AEMA를 출범해 AI 데이터센터의 curtailment·contingency response·운영데이터 공유를 포함한 performance-based grid flexibility 프레임워크를 추진한다. 전력망 병목 대응이 발전용량 추가뿐 아니라 compute 부하 자체의 제어로 확장되는 신호다.
 - [2026-09-17](../reports/2026/09/2026-09-17.md): Reuters가 Bloomberg를 인용해 Crux AI에 220억달러 규모의 TPU 구매용 대출이 제공되며 칩과 고객계약이 담보기반으로 사용된다고 보도했다. 1차 계약 확인 전까지 Medium-High 증거지만, AI compute 자산이 대형 구조화 금융의 기초가 되는 방향을 강화한다.
 - [2026-09-10](../reports/2026/09/2026-09-10.md): Google은 향후 2년간 핀란드에 €13B를 투자하고 Loviisa 원전의 수명연장·출력증강을 지원하는 22년 계약, 신규 풍력, 94MW 배터리를 결합했다. 이는 AI 데이터센터 경쟁에서 장기 전력가격·공급 신뢰성·grid balancing이 compute와 같은 전략 인프라 계층으로 올라왔음을 보여준다.
@@ -27,10 +29,12 @@ AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom 
 
 ## Bottlenecks
 
-HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-class optical connectivity, integrated-server delivery, grid interconnect, grid-flexibility verification, curtailment SLA, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity, chip residual value, customer-contract durability**, power, construction lead time, access allocation.
+HBM capacity, packaging yield, interconnect, custom-XPU integration, **million-NPU scale-out efficiency, software portability, 1.6T-class optical connectivity, integrated-server delivery, grid interconnect, grid-flexibility verification, curtailment SLA, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity, chip residual value, customer-contract durability**, power, construction lead time, access allocation.
 
 ## Watch
 
+- Huawei 960DT/960PR 실제 양산량·benchmark와 512k~1M NPU 클러스터의 실가동 규모
+- Crusoe 6GW contracted capacity의 commissioning 속도, cloud 매출·마진과 추가 financing
 - AEMA 참여 utility·grid operator와 첫 상업 실증의 MW 규모
 - grid-responsive AI workload의 실제 SLA, curtailment response time, interconnection 기간 단축 효과
 - Crux AI 220억달러 대출의 공식 확인, covenant, 칩 담보평가·감가 방식
@@ -56,6 +60,7 @@ HBM capacity, packaging yield, interconnect, custom-XPU integration, **1.6T-clas
 
 ## Change Log
 
+- **2026-09-18:** Huawei의 accelerated Ascend 960·million-NPU scale-out 로드맵과 Crusoe의 39억달러 Series F를 반영해 system-scale interconnect와 대형 equity capital concentration을 강화.
 - **2026-09-17:** AEMA 출범과 Crux AI 220억달러 대출 보도를 반영해 grid-responsive compute와 chip/customer-contract-backed financing을 AI 인프라의 새로운 운영·자본 계층으로 추가. Crux 금융은 1차 계약 확인 전까지 Medium-High로 추적.
 - **2026-09-10:** Google 핀란드 €13B 투자와 22년 원전 관련 계약을 반영해 nuclear/renewable procurement와 storage를 AI 데이터센터 핵심 인프라 계층으로 강화.
 - **2026-09-09:** Qualcomm–Amazon의 multi-generation custom inference silicon·1.6T optical 협력을 반영해 hyperscaler–supplier 장기 공동개발과 optical connectivity를 핵심 인프라 축으로 강화. 최대 $60B business linkage는 realized revenue와 구분해 추적하도록 추가.
