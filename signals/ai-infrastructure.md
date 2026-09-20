@@ -1,73 +1,54 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-21
 
 ## Thesis
 
-AI 경쟁은 GPU 구매를 넘어 **HBM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, nuclear/renewable procurement, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월의 신규 증거는 이 경쟁이 **기가와트급 캠퍼스와 제조·통합업체의 실제 매출**로 나타나는 동시에, hyperscaler와 반도체 공급자가 여러 세대의 inference용 custom silicon·광연결·장기 구매관계를 하나의 전략 계약으로 묶고, hyperscaler가 원전 수명연장·풍력·배터리까지 장기 전력포트폴리오로 직접 조달하는 단계까지 확장되고 있음을 강화한다. 9월 17일에는 여기에 **grid-responsive compute**와 **chip/customer-contract-backed financing**이 추가됐고, 9월 18일에는 Huawei의 million-NPU scale-out 로드맵과 Crusoe의 39억달러 equity 조달이 각각 **system-scale architecture와 capital concentration**을 한층 강화했다.
+AI 경쟁은 GPU 구매를 넘어 **HBM·DRAM, advanced packaging, networking, custom silicon, integrated AI servers, data center, grid interconnect, onsite power, storage, cooling, public/sovereign compute, long-term capacity contracts, large-scale financing**을 포함하는 인프라 체인 경쟁으로 확장되고 있다. 2026년 9월에는 gigawatt campus, million-NPU scale-out, grid-responsive compute, 장기 전력조달, chip/customer-contract-backed financing이 차례로 확인됐다. 9월 21일 신규 증거는 여기에 **중국 DRAM 양산 경쟁, grid-forming 기반 데이터센터 전력통합, residual-value-guarantee/SPV형 자본조달**을 더해 compute·memory·power·capital이 하나의 경쟁시스템으로 묶이는 방향을 강화한다.
 
 ## Evidence
 
-- [2026-09-18](../reports/2026/09/2026-09-18.md): Huawei는 Ascend 960 일정을 앞당기고 UnifiedBus 기반 최대 512,000 NPU, multi-rail 기준 최대 100만 NPU를 지원하는 SuperCluster 구상을 공개했다. 단일 accelerator보다 interconnect와 scale-out이 전략적 경쟁단위로 커지는 증거다.
-- [2026-09-18](../reports/2026/09/2026-09-18.md): Crusoe는 39억달러 Series F initial close와 309억달러 post-money valuation을 발표했다. 회사가 제시한 6GW+ gross contracted capacity와 1GW operational capacity는 AI 인프라 확장이 수십억달러 단위 equity와 전력·데이터센터·cloud 수직통합을 요구한다는 신호를 강화한다.
-- [2026-09-17](../reports/2026/09/2026-09-17.md): Google·NVIDIA·Emerald AI가 AEMA를 출범해 AI 데이터센터의 curtailment·contingency response·운영데이터 공유를 포함한 performance-based grid flexibility 프레임워크를 추진한다. 전력망 병목 대응이 발전용량 추가뿐 아니라 compute 부하 자체의 제어로 확장되는 신호다.
-- [2026-09-17](../reports/2026/09/2026-09-17.md): Reuters가 Bloomberg를 인용해 Crux AI에 220억달러 규모의 TPU 구매용 대출이 제공되며 칩과 고객계약이 담보기반으로 사용된다고 보도했다. 1차 계약 확인 전까지 Medium-High 증거지만, AI compute 자산이 대형 구조화 금융의 기초가 되는 방향을 강화한다.
-- [2026-09-10](../reports/2026/09/2026-09-10.md): Google은 향후 2년간 핀란드에 €13B를 투자하고 Loviisa 원전의 수명연장·출력증강을 지원하는 22년 계약, 신규 풍력, 94MW 배터리를 결합했다. 이는 AI 데이터센터 경쟁에서 장기 전력가격·공급 신뢰성·grid balancing이 compute와 같은 전략 인프라 계층으로 올라왔음을 보여준다.
-- [2026-09-09](../reports/2026/09/2026-09-09.md): Qualcomm과 Amazon이 여러 세대의 AI inference용 custom silicon 및 최대 1.6T optical connectivity 공동개발을 발표했다. Reuters는 Amazon의 Qualcomm 주식 warrant가 최대 $60B의 사업 조건과 연계돼 있다고 보도했다. 실제 확정 매출과는 구분해야 하지만 custom silicon·networking·cloud EDA·장기 고객관계가 하나의 인프라 공급구조로 결합되는 강한 신호다.
-- [2026-09-08](../reports/2026/09/2026-09-08.md): Wistron은 약 $1.47B 규모 GDR 발행을 통해 원자재 조달과 AI 생산확대에 필요한 자본을 확보했다. AI 인프라 확장이 제조 capacity뿐 아니라 대형 자본시장 조달을 요구한다는 근거다.
-- [2026-09-08](../reports/2026/09/2026-09-08.md): Reuters는 Patagonia가 풍력·가스·토지·대형투자 인센티브를 바탕으로 대형 AI 데이터센터 후보지로 부상한다고 보도했다. GPU 외에 전력·부지·정책 안정성이 입지 경쟁을 결정하는 신호다.
-- [2026-09-06](../reports/2026/09/2026-09-06.md): TCS 자회사 HyperVault가 Hyderabad에서 264에이커, 최대 1GW의 AI 데이터센터 캠퍼스를 추진하며 파트너와 최대 ₹700B 투자를 계획했다. 고밀도 GPU, direct-to-chip liquid cooling, 전력·건설·네트워크가 하나의 산업 인프라 패키지로 결합되고 있다.
-- [2026-09-06](../reports/2026/09/2026-09-06.md): Foxconn의 8월 매출은 T$921.8B로 전년 동월 대비 51.98% 증가해 8월 사상 최대를 기록했다. 회사는 강한 AI 수요를 Q3 성장의 핵심 동인으로 제시해 downstream AI-server 수요가 제조·통합계층 실적으로 이어지고 있음을 보여준다.
-- [2026-09-05](../reports/2026/09/2026-09-05.md): Reuters는 ByteDance가 거의 30개 은행에서 296억달러 규모의 3년 무담보 대출을 확보했다고 보도했다. 공식 용도는 일반 기업자금이지만 취재원들은 해외 AI 인프라 확대가 주요 배경이라고 설명했다. AI scale이 equity/CAPEX뿐 아니라 대형 은행신용시장까지 확장되는 신호다.
-- [2026-09-03](../reports/2026/09/2026-09-03.md): Vertiv가 약 14.5억달러 기본가와 최대 11.5억달러 earn-out 조건으로 UtilityInnovation Group 인수 계약을 발표했다. 마이크로그리드·현장발전·저장·전력제어를 데이터센터 포트폴리오에 결합해 `time to power`를 줄이려는 거래로, 전력 인입 자체가 독립적인 AI 인프라 병목이 됐음을 강화한다.
-- [2026-09-02](../reports/2026/09/2026-09-02.md): Dell은 FY2027 Q2에 AI 서버 주문 609억달러, AI 서버 매출 164억달러, 분기말 backlog 950억달러를 보고하고 연간 AI 서버 매출 전망을 740억달러로 상향했다. AI CAPEX가 GPU 구매를 넘어 실제 서버 통합·납품계층까지 강하게 이어지고 있음을 보여준다.
-- [2026-09-01](../reports/2026/09/2026-09-01.md): NVIDIA가 MediaTek 전환사채에 35억달러를 투자하고 NVLink Fusion 기반 custom XPU 협력을 확대했다. 인프라 경쟁이 GPU 단품에서 interconnect·custom silicon 생태계로 넓어지는 신호다.
-- [2026-09-01](../reports/2026/09/2026-09-01.md): EuroHPC가 핀란드 LUMI-AI 구축에 총 3억8780만유로를 투입하는 계약을 체결했다. 국가·지역 차원의 AI compute 공급이 독립 전략자산이 되고 있음을 강화한다.
-- NVIDIA FY2027 Q2 데이터센터 매출 890억 달러, +117% YoY.
-- SK hynix는 미국 인디애나에 40억 달러 이상 HBM 첨단 패키징 거점을 건설하고 2029년 하반기 양산을 목표로 함.
+- [2026-09-21](../reports/2026/09/2026-09-21.md): CXMT가 G5 DRAM 플랫폼 양산과 24Gb LPDDR5X를 발표했다. AI 시대의 메모리 공급경쟁이 HBM뿐 아니라 범용 DRAM 공정·수율 학습까지 확장되는 증거다.
+- [2026-09-21](../reports/2026/09/2026-09-21.md): Huawei Digital Power가 grid-forming ESS와 grid-interactive AI data center를 한 포트폴리오로 제시했다. 전력망 대응능력이 데이터센터 설계계층으로 들어오는 방향을 강화한다.
+- [2026-09-21](../reports/2026/09/2026-09-21.md): Financial Times는 AI 인프라 금융에서 residual value guarantees 등 구조를 통해 약 $300B의 경제적 노출이 off-balance-sheet 구조와 결합돼 있다고 분석했다. 회계상 부채와 동일하지 않지만 AI CAPEX의 신용·담보·잔존가치 위험이 커지는 신호다.
+- [2026-09-18](../reports/2026/09/2026-09-18.md): Huawei는 Ascend 960과 최대 512,000~1,000,000 NPU scale-out 구상을 공개했고 Crusoe는 $3.9B Series F initial close를 발표했다.
+- [2026-09-17](../reports/2026/09/2026-09-17.md): Google·NVIDIA·Emerald AI의 AEMA는 grid-responsive compute를 추진했고, Crux AI의 대형 TPU 금융 보도는 chip/customer-contract-backed financing 방향을 강화했다.
+- [2026-09-10](../reports/2026/09/2026-09-10.md): Google 핀란드 €13B 투자와 원전·풍력·94MW 배터리 결합은 장기 전력포트폴리오가 compute와 같은 전략자산이 됐음을 보여줬다.
+- [2026-09-09](../reports/2026/09/2026-09-09.md): Qualcomm–Amazon은 multi-generation custom inference silicon과 최대 1.6T optical connectivity 공동개발을 발표했다.
+- [2026-09-08](../reports/2026/09/2026-09-08.md): Wistron GDR과 Patagonia 데이터센터 입지 신호는 제조자본·전력·부지 경쟁을 강화했다.
+- [2026-09-06](../reports/2026/09/2026-09-06.md): HyperVault 최대 1GW Hyderabad 캠퍼스와 Foxconn의 기록적 AI-server 관련 매출은 gigawatt build-out과 제조계층 수요를 확인했다.
+- [2026-09-05](../reports/2026/09/2026-09-05.md): ByteDance의 $29.6B 대출 보도는 AI scale이 대형 은행신용시장까지 확장되는 신호였다.
+- [2026-09-03](../reports/2026/09/2026-09-03.md): Vertiv–UIG 거래는 grid interconnect·onsite power·microgrid를 독립 AI 인프라 계층으로 강화했다.
+- [2026-09-02](../reports/2026/09/2026-09-02.md): Dell의 $95B AI-server backlog는 integrated-server delivery가 실제 인프라 병목임을 보여줬다.
+- [2026-09-01](../reports/2026/09/2026-09-01.md): NVIDIA–MediaTek custom XPU 협력과 EuroHPC LUMI-AI 투자는 custom silicon과 sovereign compute 축을 강화했다.
 
 ## Bottlenecks
 
-HBM capacity, packaging yield, interconnect, custom-XPU integration, **million-NPU scale-out efficiency, software portability, 1.6T-class optical connectivity, integrated-server delivery, grid interconnect, grid-flexibility verification, curtailment SLA, long-duration nuclear/renewable procurement, onsite generation, storage orchestration, liquid cooling, campus construction, cost of capital, credit capacity, chip residual value, customer-contract durability**, power, construction lead time, access allocation.
+HBM/DRAM capacity, packaging yield, interconnect, custom-XPU integration, million-NPU scale-out efficiency, software portability, optical connectivity, integrated-server delivery, grid interconnect, grid-forming verification, curtailment SLA, long-duration power procurement, onsite generation, storage orchestration, liquid cooling, campus construction, **cost of capital, credit capacity, residual-value guarantees, chip residual value, customer-contract durability**, construction lead time and access allocation.
 
 ## Watch
 
-- Huawei 960DT/960PR 실제 양산량·benchmark와 512k~1M NPU 클러스터의 실가동 규모
-- Crusoe 6GW contracted capacity의 commissioning 속도, cloud 매출·마진과 추가 financing
-- AEMA 참여 utility·grid operator와 첫 상업 실증의 MW 규모
-- grid-responsive AI workload의 실제 SLA, curtailment response time, interconnection 기간 단축 효과
-- Crux AI 220억달러 대출의 공식 확인, covenant, 칩 담보평가·감가 방식
-- 유사 chip/customer-contract-backed AI financing의 확산 여부와 신용스프레드
-- Google 핀란드 신규 시설의 실제 착공·MW commissioning·연도별 CAPEX
-- Loviisa 원전 수명연장·출력증강 절차와 계약 전력량
-- 94MW 배터리와 신규 풍력의 실제 grid contribution
-- Qualcomm–Amazon 첫 custom inference silicon의 tape-out·양산 일정과 AWS 실제 배치
-- 1.6T optical connectivity의 상용 deployment와 시스템 TCO
-- 최대 $60B business linkage 중 실제 주문·매출 전환 규모
-- HyperVault Hyderabad의 1단계 MW commissioning과 전력조달
-- Foxconn AI-server/rack 출하와 매출 성장 대비 마진
-- Wistron GDR 자금의 실제 생산 capacity·원자재 집행
-- Patagonia AI data-center 프로젝트의 실제 FID·전력계약·착공
-- ByteDance 대출의 실제 AI CAPEX·데이터센터 집행
-- AI 기업의 은행대출·채권 발행과 신용스프레드
-- Vertiv-UIG 거래 종결과 실제 AI 데이터센터 microgrid 수주
-- 신규 데이터센터의 grid-independent / bridge-to-grid 적용 비중
-- 전력 인입 대기시간과 commissioning 기간
-- Dell AI-server backlog의 실제 매출 전환과 마진
-- NVLink Fusion 기반 custom XPU의 실제 양산·고객 채택
-- 공급 증가가 수요를 따라가는지, 또는 2028–2030 구간에 과잉설비 위험으로 전환되는지
+- CXMT G5의 실제 wafer capacity·수율·LPDDR5X 고객 인증과 HBM 계열 기술전이
+- grid-forming/grid-interactive AIDC의 실제 MW, 인증, response time과 상업계약
+- AI 인프라 SPV·보증의 adjusted leverage, 신용스프레드와 GPU 잔존가치
+- Huawei 960DT/960PR 실제 양산과 512k~1M NPU 클러스터 실가동 규모
+- Crusoe contracted capacity의 commissioning·매출·마진과 추가 financing
+- AEMA의 첫 상업 실증과 grid-responsive workload SLA
+- custom silicon·1.6T optical의 tape-out, 양산, 실제 deployment
+- AI-server backlog의 매출·마진 전환과 공급 증가가 2028–2030 과잉설비로 바뀌는지 여부
 
 ## Change Log
 
-- **2026-09-18:** Huawei의 accelerated Ascend 960·million-NPU scale-out 로드맵과 Crusoe의 39억달러 Series F를 반영해 system-scale interconnect와 대형 equity capital concentration을 강화.
-- **2026-09-17:** AEMA 출범과 Crux AI 220억달러 대출 보도를 반영해 grid-responsive compute와 chip/customer-contract-backed financing을 AI 인프라의 새로운 운영·자본 계층으로 추가. Crux 금융은 1차 계약 확인 전까지 Medium-High로 추적.
-- **2026-09-10:** Google 핀란드 €13B 투자와 22년 원전 관련 계약을 반영해 nuclear/renewable procurement와 storage를 AI 데이터센터 핵심 인프라 계층으로 강화.
-- **2026-09-09:** Qualcomm–Amazon의 multi-generation custom inference silicon·1.6T optical 협력을 반영해 hyperscaler–supplier 장기 공동개발과 optical connectivity를 핵심 인프라 축으로 강화. 최대 $60B business linkage는 realized revenue와 구분해 추적하도록 추가.
-- **2026-09-08:** Wistron GDR와 Patagonia data-center 입지 신호를 반영해 제조자본 조달과 전력·부지·정책 입지경쟁을 강화.
-- **2026-09-06:** HyperVault의 최대 1GW Hyderabad 캠퍼스와 Foxconn 기록적 8월 매출을 반영해 `gigawatt campus build-out`과 제조·통합계층의 realized demand를 핵심 검증축으로 강화.
-- **2026-09-05:** ByteDance의 296억달러 대출 보도를 반영해 cost of capital·credit capacity·bank financing을 AI 인프라의 독립 변수로 추가.
-- **2026-09-03:** Vertiv-UIG 거래를 반영해 grid interconnect·onsite power·microgrid를 독립 인프라 계층으로 강화.
-- **2026-09-02:** Dell의 950억달러 AI-server backlog를 반영해 integrated server delivery를 독립 인프라 지표로 강화.
-- **2026-09-01:** custom silicon/interconnect와 public/sovereign compute를 핵심 인프라 축으로 추가.
+- **2026-09-21:** CXMT G5 DRAM 양산, Huawei grid-forming+AIDC, FT의 residual-value-guarantee/SPV 금융 분석을 반영해 memory·grid integration·capital structure를 AI 인프라 경쟁의 결합 축으로 강화.
+- **2026-09-18:** Huawei accelerated Ascend 960·million-NPU scale-out과 Crusoe $3.9B Series F를 반영.
+- **2026-09-17:** AEMA와 Crux AI 금융 보도를 반영해 grid-responsive compute와 chip/customer-contract-backed financing을 추가.
+- **2026-09-10:** Google 핀란드 투자·장기 전력포트폴리오를 반영.
+- **2026-09-09:** Qualcomm–Amazon custom inference silicon·1.6T optical 협력을 반영.
+- **2026-09-08:** 제조자본 조달과 전력·부지 입지경쟁을 강화.
+- **2026-09-06:** gigawatt campus build-out과 제조·통합계층 realized demand를 강화.
+- **2026-09-05:** 대형 은행신용과 cost of capital을 독립 변수로 추가.
+- **2026-09-03:** grid interconnect·onsite power·microgrid를 독립 인프라 계층으로 강화.
+- **2026-09-02:** integrated server delivery를 독립 인프라 지표로 강화.
+- **2026-09-01:** custom silicon/interconnect와 public/sovereign compute를 핵심 축으로 추가.
 - **2026-08-28:** HBM·패키징·전력 병목을 핵심 증거로 정리.
