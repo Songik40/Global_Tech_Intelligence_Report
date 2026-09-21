@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+<title id="title">2026-09-22 Global Tech Intelligence overview</title>
+<desc id="desc">Five developments linking physical AI, autonomous trucking, photonics, advanced packaging and AI capital markets.</desc>
+<rect width="1200" height="540" rx="28" fill="#0b1020"/>
+<text x="60" y="72" fill="#ffffff" font-family="Arial,sans-serif" font-size="34" font-weight="700">2026-09-22 · GLOBAL TECH INTELLIGENCE</text>
+<text x="60" y="112" fill="#aab7d4" font-family="Arial,sans-serif" font-size="20">AI moves deeper into industrial infrastructure</text>
+<g font-family="Arial,sans-serif">
+<rect x="60" y="160" width="200" height="250" rx="18" fill="#17213a"/><text x="82" y="205" fill="#7dd3fc" font-size="20" font-weight="700">PHYSICAL AI</text><text x="82" y="250" fill="#fff" font-size="23" font-weight="700">Atlas RMAC</text><text x="82" y="285" fill="#cbd5e1" font-size="17">Factory training</text><text x="82" y="312" fill="#cbd5e1" font-size="17">inside HMGMA</text>
+<rect x="280" y="160" width="200" height="250" rx="18" fill="#17213a"/><text x="302" y="205" fill="#86efac" font-size="20" font-weight="700">AUTONOMY</text><text x="302" y="250" fill="#fff" font-size="23" font-weight="700">Kodiak</text><text x="302" y="285" fill="#cbd5e1" font-size="17">Roadside inspection</text><text x="302" y="312" fill="#cbd5e1" font-size="17">integration</text>
+<rect x="500" y="160" width="200" height="250" rx="18" fill="#17213a"/><text x="522" y="205" fill="#f0abfc" font-size="20" font-weight="700">PHOTONICS</text><text x="522" y="250" fill="#fff" font-size="23" font-weight="700">PhotonLink</text><text x="522" y="285" fill="#cbd5e1" font-size="17">CPO · NPO</text><text x="522" y="312" fill="#cbd5e1" font-size="17">chip-to-chip</text>
+<rect x="720" y="160" width="200" height="250" rx="18" fill="#17213a"/><text x="742" y="205" fill="#fde68a" font-size="20" font-weight="700">PACKAGING</text><text x="742" y="250" fill="#fff" font-size="23" font-weight="700">Kaohsiung</text><text x="742" y="285" fill="#cbd5e1" font-size="17">TSMC-anchored</text><text x="742" y="312" fill="#cbd5e1" font-size="17">industrial cluster</text>
+<rect x="940" y="160" width="200" height="250" rx="18" fill="#17213a"/><text x="962" y="205" fill="#fca5a5" font-size="20" font-weight="700">CAPITAL</text><text x="962" y="250" fill="#fff" font-size="23" font-weight="700">AMD &gt; $1T</text><text x="962" y="285" fill="#cbd5e1" font-size="17">AI expectations</text><text x="962" y="312" fill="#cbd5e1" font-size="17">reprice markets</text>
+</g>
+<path d="M260 285H280M480 285H500M700 285H720M920 285H940" stroke="#64748b" stroke-width="3" stroke-dasharray="7 7"/>
+<text x="60" y="478" fill="#94a3b8" font-family="Arial,sans-serif" font-size="18">Repository-created explanatory graphic · not a quantitative scale</text>
+</svg>
