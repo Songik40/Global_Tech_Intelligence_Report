@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#0f172a"/>
+  <text x="60" y="72" fill="#f8fafc" font-size="34" font-family="Arial, sans-serif" font-weight="700">Global Tech Intelligence — 2026-09-26</text>
+  <text x="60" y="112" fill="#94a3b8" font-size="19" font-family="Arial, sans-serif">agents · autonomous freight · Roman data systems · semiconductor capital · capex</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="155" width="520" height="120" rx="16" fill="#1e293b"/>
+    <text x="90" y="195" fill="#38bdf8" font-size="18" font-weight="700">AI AGENTS</text>
+    <text x="90" y="232" fill="#f8fafc" font-size="24">Copilot Autopilot</text>
+    <text x="90" y="260" fill="#cbd5e1" font-size="17">Persistent proactive work agent</text>
+    <rect x="620" y="155" width="520" height="120" rx="16" fill="#1e293b"/>
+    <text x="650" y="195" fill="#34d399" font-size="18" font-weight="700">AUTONOMY</text>
+    <text x="650" y="232" fill="#f8fafc" font-size="24">Dallas–Houston launch lane</text>
+    <text x="650" y="260" fill="#cbd5e1" font-size="17">Kodiak targets unsupervised service</text>
+    <rect x="60" y="305" width="520" height="120" rx="16" fill="#1e293b"/>
+    <text x="90" y="345" fill="#a78bfa" font-size="18" font-weight="700">SPACE SCIENCE</text>
+    <text x="90" y="382" fill="#f8fafc" font-size="24">Roman ground network ready</text>
+    <text x="90" y="410" fill="#cbd5e1" font-size="17">Up to 500 Mbps · ~1.4 TB/day</text>
+    <rect x="620" y="305" width="520" height="120" rx="16" fill="#1e293b"/>
+    <text x="650" y="345" fill="#fb7185" font-size="18" font-weight="700">SEMICONDUCTORS</text>
+    <text x="650" y="382" fill="#f8fafc" font-size="24">Solidigm weighs U.S. IPO</text>
+    <text x="650" y="410" fill="#cbd5e1" font-size="17">Early-stage, up to $150B valuation</text>
+    <rect x="60" y="455" width="1080" height="105" rx="16" fill="#1e293b"/>
+    <text x="90" y="495" fill="#f59e0b" font-size="18" font-weight="700">ECONOMY / CAPEX</text>
+    <text x="90" y="532" fill="#f8fafc" font-size="24">U.S. durable goods flat; underlying business-equipment demand remains firm</text>
+  </g>
+</svg>
