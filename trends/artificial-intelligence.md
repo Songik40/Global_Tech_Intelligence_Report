@@ -107,3 +107,11 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 - **2026-09-01:** custom silicon/interconnect와 public compute를 독립 인프라 축으로 강화하고, FSB의 금융안정 AI 위험 신호를 추가.
 - **2026-08-29:** Distribution과 Evaluation을 독립 경쟁축으로 강화하고 한국 국가 AI 서비스 및 TASTE 근거를 추가.
 - **2026-08-28:** Security를 독립 경쟁축으로 추가하고 HBM/패키징 근거를 강화.
+
+- [2026-09-29](../reports/2026/09/2026-09-29.md): NVIDIA Open Agent Safety Platform은 에이전트 통제를 application/model layer에서 secure runtime과 독립 BlueField-4 watchdog까지 확장했다. Claude Sonnet 5.5는 중간 가격대 모델에서 속도·작업당 비용·agentic coding 경쟁이 강화되고 있음을 보여준다.
+
+## 2026-09-29 Update
+에이전트 경쟁의 핵심 변수가 capability뿐 아니라 **model-independent runtime enforcement와 out-of-band hardware monitoring**으로 확대됐다. 동시에 Sonnet 5.5는 기업의 모델 선택 기준이 최고 성능 하나보다 task-level cost, speed, routing efficiency로 세분화되는 방향을 강화한다.
+
+### Change Log Addition
+- **2026-09-29:** NVIDIA OpenShell/Sentry와 Claude Sonnet 5.5를 반영해 agent runtime security, hardware-enforced governance, task-level model economics를 강화.
