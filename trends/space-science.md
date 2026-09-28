@@ -97,3 +97,10 @@ Isar Aerospace Spectrum, ESA/JAXA BepiColombo, NASA Roman과 기타 science miss
 - **2026-08-30:** Roman 발사 전 최종 준비를 반영해 Launch Reliability와 commissioning을 독립 경쟁축으로 강화.
 - **2026-08-29:** Space Academy 정책 신호를 반영해 Talent를 독립 경쟁축으로 추가.
 - **2026-08-28:** MTG-I2를 고빈도 operational science 사례로 추가.
+
+## 2026-09-29 Update
+- [2026-09-29](../reports/2026/09/2026-09-29.md): Starship Flight 14가 프로그램 최초로 궤도에 도달하고 실제 Starlink payload를 배치했다. 엔진 조기 정지로 임무가 단축됐지만, 대형 재사용 발사체 평가축이 시험비행에서 **orbital payload delivery → cadence → recovery/reflight economics**로 이동하는 중요한 실행 증거다.
+- NASA는 같은 날 Swift Boost Mission이 궤도상승 없이 종료됐다고 밝혔다. 이는 in-space servicing이 높은 잠재력과 함께 rendezvous·attitude control·communications reliability라는 별도 시스템 병목을 가진다는 반대 증거다.
+
+### Change Log Addition
+- **2026-09-29:** Starship 최초 orbital payload delivery와 Swift servicing 실패 교훈을 함께 반영해 launch commercialization과 in-space servicing reliability를 분리 추적.
