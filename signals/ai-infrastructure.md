@@ -52,3 +52,14 @@ HBM/DRAM capacity, packaging yield, interconnect, custom-XPU integration, millio
 - **2026-09-02:** integrated server delivery를 독립 인프라 지표로 강화.
 - **2026-09-01:** custom silicon/interconnect와 public/sovereign compute를 핵심 축으로 추가.
 - **2026-08-28:** HBM·패키징·전력 병목을 핵심 증거로 정리.
+
+## 2026-09-29 Evidence
+- [2026-09-29](../reports/2026/09/2026-09-29.md): Cerebras–Gimlet은 약 100MW 규모의 추론용 AI 하드웨어 공급과 최대 3,000 tokens/s 목표를 공개했다. 이는 AI infrastructure가 training capacity뿐 아니라 latency-sensitive inference capacity로 분화되는 신호를 강화한다.
+- 같은 날 Seligman Ventures는 deployable capital을 $1B로 확대하고 accelerators, networking, power/cooling 등 AI 물리 병목에 대한 투자확대를 명시했다. compute·power·capital 결합이 hyperscaler 외 venture/growth capital에도 확산되고 있다.
+- NVIDIA Open Agent Safety Platform은 OpenShell과 BlueField-4 기반 Sentry를 결합해 agent governance 자체가 compute/network hardware stack의 설계요소로 들어가는 새 인프라 계층을 제시했다.
+
+## 2026-09-29 Watch Addition
+Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전력효율, Seligman 신규 투자 집행, hardware-enforced agent security의 독립 평가를 추적한다.
+
+## Change Log Addition
+- **2026-09-29:** 100MW급 inference build-out, $1B AI-infrastructure venture capital, hardware-enforced agent governance를 반영해 inference·capital·security를 결합 인프라 축으로 강화.
