@@ -95,3 +95,10 @@ AI 공급망 매출과 수출은 강하지만 높은 증가율이 영구적으�
 - **2026-08-31:** Aon–USI 협상과 유럽 중앙은행권의 정책 불확실성 우려를 반영해 대형 M&A execution과 국제 금융정책 안정성을 핵심 변수로 추가.
 - **2026-08-29:** Pasqal 상장을 반영해 프런티어 기술의 공공시장 자본조달과 기술 마일스톤 리스크를 추가.
 - **2026-08-28:** market breadth와 supply-chain CAPEX를 핵심 추적 변수에 추가.
+
+## 2026-09-29 Update
+- [2026-09-29](../reports/2026/09/2026-09-29.md): Seligman Ventures가 deployable capital을 $500M에서 $1B로 확대하고 AI hardware·connectivity·cybersecurity에 이미 $300M 이상을 집행했다고 밝혔다. 이는 AI 투자 사이클이 소프트웨어뿐 아니라 반도체·네트워크·전력·냉각 등 물리적 병목으로 민간 성장자본을 끌어들이는 방향을 강화한다.
+- Cerebras–Gimlet의 약 100MW 추론 인프라 계획은 투자단위가 training campus뿐 아니라 inference capacity로도 대형화되고 있음을 보여준다.
+
+### Change Log Addition
+- **2026-09-29:** Seligman $1B deployable capital과 Cerebras–Gimlet 약 100MW 계획을 반영해 AI physical-infrastructure venture capital과 inference-capacity economics를 강화.
