@@ -28,3 +28,12 @@
 
 - **2026-09-06:** Isar Spectrum의 실제 궤도 도달·payload separation을 반영해 repeatable commercial launch를 신호의 핵심 축으로 추가.
 - **2026-08-28:** MTG-I2를 operational data infrastructure의 초기 핵심 증거로 반영.
+
+## 2026-09-29 Evidence
+- [2026-09-29](../reports/2026/09/2026-09-29.md): Starship Flight 14가 최초로 궤도에 도달하고 Starlink 실payload를 배치했다. 이는 Starship이 순수 개발시험에서 operational payload delivery로 넘어가는 첫 강한 상업화 증거다. 다만 엔진 조기 정지로 계획된 임무가 단축돼 reliability와 reflight economics는 아직 검증 대상이다.
+
+## 2026-09-29 Watch Addition
+Flight 15 cadence, 엔진 정지 원인, 반복 Starlink 배치, booster/ship recovery와 실제 reflight, payload kg당 비용을 추적한다.
+
+## Change Log Addition
+- **2026-09-29:** Starship 최초 orbital payload delivery를 반영해 대형 재사용 발사체의 상업화 신호를 강화하되 reliability/reflight를 핵심 검증축으로 유지.
