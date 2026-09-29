@@ -6,8 +6,9 @@
 
 ## Latest Report
 
-- **[2026-09-06 Daily Intelligence Report](reports/2026/09/2026-09-06.md)** — 검증 완료
-- 조사 컷오프: **2026-09-06 08:53 KST / 2026-09-05 23:53 UTC**
+- **[2026-09-29 Daily Intelligence Report](reports/2026/09/2026-09-29.md)** — 검증 완료
+- 조사 컷오프: **2026-09-29 08:23 KST / 2026-09-28 23:23 UTC**
+- **[Weekly Supplement 2026-09-23 ~ 09-29](reports/2026/09/2026-09-29-supplement.md)** — 수집 범위 안에서 선정되지 않았던 6건의 사후 보완
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
