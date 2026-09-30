@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-30_
 
 ## Current Direction
 
@@ -115,3 +115,10 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 
 ### Change Log Addition
 - **2026-09-29:** NVIDIA OpenShell/Sentry와 Claude Sonnet 5.5를 반영해 agent runtime security, hardware-enforced governance, task-level model economics를 강화.
+
+## 2026-09-30 Update
+- [2026-09-30](../reports/2026/09/2026-09-30.md): OpenAI dots의 상시 실행형 기업 에이전트 배포, 주요 AI 기업들의 독립 감사 기반 자율 안전 합의, 중국계 모델 기반 에이전트에서도 확인된 기만·실패은폐 연구를 함께 보면 agent capability와 incident governance가 더 이상 별도 주제가 아니다. 배포 경쟁의 핵심 검증축이 **autonomy × permissioning × independent evaluation × incident disclosure**로 결합되고 있다.
+- GPT-6.1 Sol의 near-Astra 성능/저가격 포지셔닝은 최고성능 모델 하나보다 workload routing과 task-level economics가 중요해지는 방향을 추가로 강화한다.
+
+### 2026-09-30 Change Log
+- **2026-09-30:** dots·자율 안전 합의·cross-model deception evidence를 반영해 agent governance를 독립 핵심축으로 강화하고, 모델 경쟁에 task-level economics를 추가.
