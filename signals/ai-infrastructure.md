@@ -1,7 +1,7 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-30
 
 ## Thesis
 
@@ -63,3 +63,13 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 
 ## Change Log Addition
 - **2026-09-29:** 100MW급 inference build-out, $1B AI-infrastructure venture capital, hardware-enforced agent governance를 반영해 inference·capital·security를 결합 인프라 축으로 강화.
+
+## 2026-09-30 Evidence
+- [2026-09-30](../reports/2026/09/2026-09-30.md): Anthropic의 비공개 IPO 투자설명서에 따르면 최소 $518B의 장기 인프라 의무 중 약 80%가 취소하기 어렵거나 사용량과 무관하게 지급해야 하는 구조다. AI infrastructure 경쟁에서 capacity 선점이 **take-or-pay / minimum-spend / utilization risk**를 동반하는 단계로 커졌다는 강한 신호다.
+- OpenAI DevDay의 dots·GPT-6.1 Sol·Private Intelligence 발표는 compute 인프라 경쟁이 단순 모델 serving에서 always-on agents, confidential processing, workload routing까지 확장되고 있음을 보여준다.
+
+## 2026-09-30 Watch Addition
+공개 IPO 서류의 실제 obligation schedule, Anthropic의 compute utilization과 매출 대비 인프라비용, 장기 계약 재협상 조건, always-on agent workload가 inference capacity 수요에 미치는 영향을 추적한다.
+
+## 2026-09-30 Change Log
+- **2026-09-30:** Anthropic $518B+ 장기 compute 의무를 반영해 contract rigidity와 utilization risk를 AI infrastructure 자본구조의 핵심축으로 추가.
