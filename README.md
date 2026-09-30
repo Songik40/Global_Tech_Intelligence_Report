@@ -6,20 +6,20 @@
 
 ## Latest Report
 
-- **[2026-09-29 Daily Intelligence Report](reports/2026/09/2026-09-29.md)** — 검증 완료
-- 조사 컷오프: **2026-09-29 08:23 KST / 2026-09-28 23:23 UTC**
-- **[Weekly Supplement 2026-09-23 ~ 09-29](reports/2026/09/2026-09-29-supplement.md)** — 수집 범위 안에서 선정되지 않았던 6건의 사후 보완
+- **[2026-09-30 Daily Intelligence Report](reports/2026/09/2026-09-30.md)** — 검증 완료
+- 조사 컷오프: **2026-09-30 08:54 KST / 2026-09-29 23:54 UTC**
+- 오늘의 핵심: **always-on agents 확대 ↔ 독립 감사·통제 기준 부상 ↔ 장기 AI compute 의무 확대**
 - 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI infrastructure scale | ↑ Gigawatt build-out | TCS HyperVault, Hyderabad 최대 1GW 캠퍼스·최대 ₹700B 투자계획 |
+| AI infrastructure scale | ↑ Contracted build-out | Anthropic 비공개 IPO 투자설명서 기준 최소 $518B 장기 인프라 의무, 약 80% non-cancelable/pay-regardless-of-use |
 | Space commercialization | ↑ Orbital proof | Isar Spectrum, 두 번째 비행에서 궤도 도달·payload separation |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Realized revenue | Foxconn 8월 매출 T$921.8B, +51.98% YoY·8월 사상 최대 |
-| AI incident governance | ↑ Emerging standard need | OpenAI, wiki incident 후 misalignment disclosure 표준 공백 언급 |
+| AI incident governance | ↑ Independent audit emerging | 주요 AI 기업 자율 안전 합의에 독립 감사·내부 통제·비의도적 시스템 접근 방지 원칙 포함 |
 
 ## Repository Structure
 
