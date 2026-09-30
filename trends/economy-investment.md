@@ -1,6 +1,6 @@
 # Economy & Investment — Trend Tracker
 
-_Last updated: 2026-09-10_
+_Last updated: 2026-09-30_
 
 ## Current Direction
 
@@ -102,3 +102,10 @@ AI 공급망 매출과 수출은 강하지만 높은 증가율이 영구적으�
 
 ### Change Log Addition
 - **2026-09-29:** Seligman $1B deployable capital과 Cerebras–Gimlet 약 100MW 계획을 반영해 AI physical-infrastructure venture capital과 inference-capacity economics를 강화.
+
+## 2026-09-30 Update
+- [2026-09-30](../reports/2026/09/2026-09-30.md): Reuters가 검토한 Anthropic 비공개 IPO 투자설명서에서 최소 $518B의 장기 AI 인프라 의무와 약 80%의 non-cancelable/pay-regardless-of-use 성격이 드러났다. 이는 AI CAPEX 평가에서 단순 발표액보다 **contract rigidity, minimum-spend obligations, utilization risk**를 봐야 한다는 강한 증거다.
+- 같은 날 Efficient Computer의 $97M+ Series B와 Electron E1 양산은 AI 자본이 초대형 데이터센터뿐 아니라 physical-AI용 저전력 silicon의 상용화에도 유입되고 있음을 보여준다.
+
+### 2026-09-30 Change Log
+- **2026-09-30:** Anthropic의 장기 compute 의무를 반영해 contract rigidity·utilization risk를 AI 투자 지속성의 독립 검증축으로 추가하고, edge/physical-AI silicon 자금조달을 보조 신호로 추가.
