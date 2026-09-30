@@ -1,7 +1,7 @@
 # Signal — Physical AI
 
 **Status:** Strengthening, commercialization still mixed  
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-30
 
 ## Thesis
 
@@ -34,3 +34,13 @@ AI가 화면 속 소프트웨어에서 로봇·차량·과학장비처럼 물리
 - 유지보수·안전 비용이 하드웨어 가격 하락을 상쇄
 - compute 표준화가 실제 신뢰성·비용 개선으로 이어지지 않음
 - 인수·수직통합이 개발주기 단축이나 시스템 TCO 개선으로 이어지지 않음
+
+## 2026-09-30 Evidence
+- [2026-09-30](../reports/2026/09/2026-09-30.md): Efficient Computer는 Electron E1이 volume production에 들어가 physical AI·autonomy·드론·소형 로봇 등의 저전력 엣지 연산에 출하되고 있다고 밝혔다. 독립 성능검증은 아직 부족하지만, data-flow architecture가 연구단계를 넘어 실제 공급망 제품으로 이동한 사례다.
+- 회사의 $97M+ Series B는 edge compute에서 에너지 효율과 소프트웨어 programmability를 함께 해결하려는 자본투자가 커지고 있음을 보여준다.
+
+## 2026-09-30 Watch Addition
+Electron E1 고객·출하량, 실제 로봇 workload의 전력/latency 독립 벤치마크, C/C++·ONNX 툴체인의 개발자 채택, datacenter-class 확장 제품의 tape-out을 추적한다.
+
+## 2026-09-30 Change Log
+- **2026-09-30:** Electron E1 양산·출하와 신규 자금조달을 반영해 저전력 edge compute의 prototype-to-product 신호를 강화.
