@@ -2,6 +2,14 @@
 
 일일 리포트는 `YYYY/MM/YYYY-MM-DD.md` 형식으로 저장합니다.
 
+## Event Briefings
+
+학회·전시회 등 행사 단위 브리핑은 `YYYY/MM/YYYY-MM-DD-<event-slug>.md`(작성 기준일) 형식으로 저장하고, frontmatter에 `type: event-briefing`을 둡니다. 증거 원장은 `sources/`에 같은 경로·파일명으로 1:1 대응합니다.
+
+| 작성일 | 행사 | 기간·장소 | 상태 |
+|---|---|---|---|
+| [2026-10-01](2026/10/2026-10-01-iros-2026.md) | IEEE/RSJ IROS 2026 | 09-27~10-01 · Pittsburgh | 검증 완료 · 본상 수상작 공식 게시 대기 |
+
 ## 2026
 
 ### October

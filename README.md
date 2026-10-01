@@ -12,6 +12,12 @@
 - [오늘의 증거 원장](sources/2026/10/2026-10-01.md) · [시각자료 명세](assets/2026-10-01/README.md)
 - 조사 범위: 최근 24시간 새로 공개된 발전. 발표·사건 날짜와 전망·실적을 분리한다.
 
+## Event Briefings
+
+학회·전시회 단위 브리핑. 전체 목록은 [reports/README.md](reports/README.md#event-briefings).
+
+- **[IROS 2026](reports/2026/10/2026-10-01-iros-2026.md)** — 2026-09-27~10-01 피츠버그 · 수상 후보·한국 기관·연구 트렌드·산업 발표 · [증거 원장](sources/2026/10/2026-10-01-iros-2026.md)
+
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
@@ -29,9 +35,11 @@
 ├── README.md
 ├── reports/
 │   ├── README.md
-│   └── YYYY/MM/YYYY-MM-DD.md
+│   ├── YYYY/MM/YYYY-MM-DD.md
+│   └── YYYY/MM/YYYY-MM-DD-<event>.md
 ├── sources/
-│   └── YYYY/MM/YYYY-MM-DD.md
+│   ├── YYYY/MM/YYYY-MM-DD.md
+│   └── YYYY/MM/YYYY-MM-DD-<event>.md
 ├── trends/
 │   ├── artificial-intelligence.md
 │   ├── robotics-autonomy.md
