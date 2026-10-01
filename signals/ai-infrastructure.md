@@ -73,3 +73,15 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 
 ## 2026-09-30 Change Log
 - **2026-09-30:** Anthropic $518B+ 장기 compute 의무를 반영해 contract rigidity와 utilization risk를 AI infrastructure 자본구조의 핵심축으로 추가.
+
+## 2026-10-01 Evidence
+
+- [2026-10-01](../reports/2026/10/2026-10-01.md): Micron의 Q4 매출 $54.23B·영업현금흐름 $43.97B는 인프라 수요의 **memory-layer realized revenue/cash flow**를 강화한다. Reuters가 전한 고객 금융적 약정 $32B는 공급 확보가 장기 계약과 현금 예치 구조로 연결되는 보조 증거다.
+- 전날 Anthropic의 구매자측 장기 의무와 함께 보면, AI·반도체·투자 분야를 잇는 구조는 **capacity reservation → customer commitments → supplier cash flow → capacity expansion**이다. 이 연결은 분석이며 회사 간 동일 계약을 추적했다는 뜻이 아니다.
+- 공급자의 현재 수익과 구매자의 미래 수익성은 다르다. 높은 매출이 가격·믹스·출하 중 무엇에서 왔는지, 고객 약정이 얼마나 지속되는지 확인해야 한다.
+
+### 2026-10-01 Watch
+고객 예치금·계약 조건, 실제 매출 전환, 신규 wafer output·양산 수율, 장기 메모리 수요 대비 공급, AI 구매자의 지급능력.
+
+### 2026-10-01 Change Log
+- **2026-10-01:** 발표·계획 중심 증거에 Micron의 실현 매출·현금흐름을 추가해 memory·capital 연결을 강화. FTC 조사 확인은 별도 AI 동향에 기록하며 공급 증가나 감독 개선의 실현 성과로 혼합하지 않음.

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+<title id="title">2026-10-01 글로벌 기술 발전의 다섯 검증축</title>
+<desc id="desc">메모리 수요의 실현, 에이전트 감독, 자본비용, 로봇 조작, 과학 산업화 기반을 구분하는 설명 도표. 연결은 분석상 관계이고 인과관계 실증은 아니다.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#64748b"/></marker></defs>
+<rect width="1000" height="600" rx="20" fill="#f4f7fb"/>
+<g font-family="Arial, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+<text x="40" y="54" font-size="28" font-weight="700" fill="#14233b">글로벌 테크 인텔리전스 · 2026-10-01</text>
+<text x="40" y="87" font-size="18" fill="#536579">실현 실적 · 감독 · 자본비용 · 물리적 제어 · 연구 기반을 따로 검증</text>
+<rect x="40" y="120" width="445" height="145" rx="14" fill="#e0efff" stroke="#b4d5f6"/>
+<text x="60" y="153" font-size="19" font-weight="700" fill="#174e83">01  AI 메모리 수요의 실현</text>
+<text x="60" y="188" font-size="23" font-weight="700" fill="#14233b">Micron Q4 매출 $54.23B</text>
+<text x="60" y="222" font-size="17" fill="#405771">실적 확인 → 공급 확대·계약 전환 관찰</text>
+<rect x="515" y="120" width="445" height="145" rx="14" fill="#e8e6fb" stroke="#cbc4eb"/>
+<text x="535" y="153" font-size="19" font-weight="700" fill="#514387">02  에이전트 감독의 확대</text>
+<text x="535" y="188" font-size="23" font-weight="700" fill="#14233b">FTC 조사 사실 공개 확인</text>
+<text x="535" y="222" font-size="17" fill="#405771">조사 범위·자료 요구·결론은 별도 확인</text>
+<rect x="40" y="292" width="285" height="154" rx="14" fill="#e1f2ee" stroke="#a9d7cb"/>
+<text x="60" y="325" font-size="19" font-weight="700" fill="#19634f">03  자본비용의 기반</text>
+<text x="60" y="360" font-size="22" font-weight="700" fill="#14233b">근원 PCE 3.0% YoY</text>
+<text x="60" y="395" font-size="17" fill="#405771">연간 개정과 실제</text>
+<text x="60" y="420" font-size="17" fill="#405771">소비·물가 변화를 구분</text>
+<rect x="357" y="292" width="285" height="154" rx="14" fill="#fff0d8" stroke="#ecd2a6"/>
+<text x="377" y="325" font-size="19" font-weight="700" fill="#885819">04  로봇 조작 접점</text>
+<text x="377" y="360" font-size="22" font-weight="700" fill="#14233b">13 DOF 직접구동 손</text>
+<text x="377" y="395" font-size="17" fill="#405771">공식 사양 공개 단계</text>
+<text x="377" y="420" font-size="17" fill="#405771">독립 성능·출하 검증 필요</text>
+<rect x="675" y="292" width="285" height="154" rx="14" fill="#e9eef5" stroke="#c5d0df"/>
+<text x="695" y="325" font-size="19" font-weight="700" fill="#405771">05  과학 산업화 기반</text>
+<text x="695" y="360" font-size="22" font-weight="700" fill="#14233b">허가·연구지원 정책</text>
+<text x="695" y="395" font-size="17" fill="#405771">핵융합 제도·양자 연구</text>
+<text x="695" y="420" font-size="17" fill="#405771">발표 → 집행·실증 관찰</text>
+<path d="M180 472H810" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="500" y="507" text-anchor="middle" font-size="19" font-weight="700" fill="#14233b">발표 → 실제 배치·성과 → 신뢰성·경제성</text>
+<text x="500" y="540" text-anchor="middle" font-size="16" fill="#536579">각 항목의 단계가 다르다 · 화살표는 분석상 연결이며 인과 실증이 아니다</text>
+<text x="40" y="576" font-size="14" fill="#64748b">출처: Micron IR · Reuters/AP · BEA · DH-Robotics · California 공식 발표 | 자체 제작 · CC BY 4.0</text>
+</g></svg>

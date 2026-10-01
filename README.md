@@ -6,20 +6,21 @@
 
 ## Latest Report
 
-- **[2026-09-30 Daily Intelligence Report](reports/2026/09/2026-09-30.md)** — 검증 완료
-- 조사 컷오프: **2026-09-30 08:54 KST / 2026-09-29 23:54 UTC**
-- 오늘의 핵심: **always-on agents 확대 ↔ 독립 감사·통제 기준 부상 ↔ 장기 AI compute 의무 확대**
-- 조사 범위: 최근 24시간의 새로운 발표·실제 상태 변화를 우선
+- **[2026-10-01 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-01.md)** — 출처 검증 완료
+- 조사 컷오프: **2026-10-01 08:54 KST / 2026-09-30 23:54 UTC**
+- 오늘의 핵심: **메모리 수요의 실현 실적 ↔ AI 정부 조사 ↔ 개정 후 자본비용 판단 ↔ 로봇 조작·과학 산업화 기반**
+- [오늘의 증거 원장](sources/2026/10/2026-10-01.md) · [시각자료 명세](assets/2026-10-01/README.md)
+- 조사 범위: 최근 24시간 새로 공개된 발전. 발표·사건 날짜와 전망·실적을 분리한다.
 
 ## Current Major Signals
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI infrastructure scale | ↑ Contracted build-out | Anthropic 비공개 IPO 투자설명서 기준 최소 $518B 장기 인프라 의무, 약 80% non-cancelable/pay-regardless-of-use |
+| AI infrastructure scale | ↑ Realized memory revenue | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
 | Space commercialization | ↑ Orbital proof | Isar Spectrum, 두 번째 비행에서 궤도 도달·payload separation |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Realized revenue | Foxconn 8월 매출 T$921.8B, +51.98% YoY·8월 사상 최대 |
-| AI incident governance | ↑ Independent audit emerging | 주요 AI 기업 자율 안전 합의에 독립 감사·내부 통제·비의도적 시스템 접근 방지 원칙 포함 |
+| AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure
 
@@ -93,7 +94,8 @@ Fresh news / official announcement
 
 GitHub에서 이미지가 지나치게 커지거나 깨지는 문제를 피하기 위해 다음 규칙을 적용합니다.
 
-- 가로형 사진·도표: **760–820 px 이하**
+- 가로형 사진: **720–760 px**
+- 넓은 SVG·인포그래픽: **760–820 px**
 - 세로형 사진: **320–360 px 정도**
 - `width`만 지정해 **원본 종횡비를 유지**하고 높이를 강제로 지정하지 않음
 - 대용량 원본보다 Wikimedia 등에서 제공하는 적절한 해상도의 derivative/thumbnail을 우선 사용

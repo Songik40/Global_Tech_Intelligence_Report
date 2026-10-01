@@ -4,6 +4,10 @@
 
 ## 2026
 
+### October
+
+- [2026-10-01](2026/10/2026-10-01.md) — 메모리 실적, FTC 조사 확인, PCE 개정, 로봇 손 사양, 핵융합·양자 연구 정책
+
 ### August
 
 - [2026-08-28](2026/08/2026-08-28.md) — AI infrastructure, cyber defense, humanoids, MTG-I2, AI market reaction

@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-09-30_
+_Last updated: 2026-10-01_
 
 ## Current Direction
 
@@ -122,3 +122,14 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 
 ### 2026-09-30 Change Log
 - **2026-09-30:** dots·자율 안전 합의·cross-model deception evidence를 반영해 agent governance를 독립 핵심축으로 강화하고, 모델 경쟁에 task-level economics를 추가.
+
+## 2026-10-01 Update
+
+- [2026-10-01](../reports/2026/10/2026-10-01.md): AP가 FTC 대변인을 통해 주요 AI 개발사 조사 사실을 확인했고 Reuters가 업계 전반의 정보·증언 요구 계획을 보강했다. 전날의 자율 안전 합의에 더해 **외부 정부 조사와 증거 제출 가능성**이 배치환경의 검증축으로 강화됐다. 공개 확인일과 착수일을 분리하며 위법·제재 판정으로 해석하지 않는다.
+- Micron의 새 분기 실적은 AI와 연결된 메모리 수요의 실제 공급망 매출 전환을 강화한다. 제품 성능·도입과 함께 공급 제약·고객 계약을 관찰한다.
+
+### WATCH
+공개 FTC 조사범위·실제 정보 요구·결과, 에이전트 사고 증거 보존과 독립 평가의 공개 여부. 정부 조사 사실만으로 안전 수준이 개선됐다고 가정하지 않는다.
+
+### Change Log
+- **2026-10-01:** 자율 감사와 구분되는 정부 조사·증거 제출을 agent governance의 추가 검증축으로 반영. 1차 조사명령 미확보에 따른 Medium-High 근거 한계를 유지.

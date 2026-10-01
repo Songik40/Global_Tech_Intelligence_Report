@@ -1,6 +1,6 @@
 # Space & Science — Trend Tracker
 
-_Last updated: 2026-09-15_
+_Last updated: 2026-10-01_
 
 ## Current Direction
 
@@ -104,3 +104,14 @@ Isar Aerospace Spectrum, ESA/JAXA BepiColombo, NASA Roman과 기타 science miss
 
 ### Change Log Addition
 - **2026-09-29:** Starship 최초 orbital payload delivery와 Swift servicing 실패 교훈을 함께 반영해 launch commercialization과 in-space servicing reliability를 분리 추적.
+
+## 2026-10-01 Update
+
+- [2026-10-01](../reports/2026/10/2026-10-01.md): 캘리포니아 주지사실은 9월 30일 SB925의 핵융합 전략계획·제조 허가 기반, AB2647의 원자력 평가, 양자·심우주 연구를 위한 신규 $30M 투자 발표를 공개했다. 연구 인프라 경쟁에서 **장기 자금·허가·제조·인력 체계**의 중요성을 보강하는 정책 증거다. SB925 서명행사는 발의 의원실 기준 9월 29일이며 공개일과 구분한다.
+- 이 증거는 과학 산업화의 제도 기반에 한정된다. 핵융합 상업발전, 양자 기술의 경제성, 심우주 임무의 새 관측성과를 강화하는 기술 증거는 아니다.
+
+### WATCH
+CEC 전략계획·제조 허가 절차, $30M의 수혜기관·배분·실제 집행, 민간 매칭자금과 실증 결과.
+
+### Change Log
+- **2026-10-01:** 핵융합 허가·제조와 양자·심우주 연구지원의 공식 발표를 제도·재정 기반의 보조 증거로 추가. 기술 상용화 판단은 유지.
