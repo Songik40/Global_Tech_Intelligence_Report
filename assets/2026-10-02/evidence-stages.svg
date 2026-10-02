@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">2026년 10월 2일: 확인된 단계와 다음 검증</title>
+<desc id="desc">다섯 발전의 확인된 단계와 아직 필요한 증거를 비교한다. 발사와 연산, 제품 공개와 성능, 협약과 안전 인증을 구분한다.</desc>
+<rect width="1000" height="650" fill="#f8fafc"/>
+<g font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif">
+<text x="42" y="63" font-size="34" font-weight="700" fill="#0f172a">새 발전은 어디까지 확인됐나</text>
+<text x="42" y="99" font-size="20" fill="#475569">2026-10-02 · 컷오프 09:00:22 KST · 증거 단계 비교</text>
+<text x="42" y="150" font-size="22" font-weight="700" fill="#334155">대상</text>
+<text x="302" y="150" font-size="22" font-weight="700" fill="#166534">확인된 단계</text>
+<text x="659" y="150" font-size="22" font-weight="700" fill="#475569">다음 검증</text>
+<rect x="32" y="170" width="936" height="68" rx="10" fill="#eef2f6"/><rect x="282" y="177" width="351" height="54" rx="8" fill="#dcfce7"/><text x="46" y="212" font-size="23" font-weight="600" fill="#0f172a">Suncatcher</text><text x="302" y="212" font-size="22" fill="#14532d">발사 · 초기 교신</text><text x="653" y="212" font-size="22" fill="#334155">연산 · 냉각 · 경제성</text>
+<rect x="32" y="248" width="936" height="68" rx="10" fill="#ffffff"/><rect x="282" y="255" width="351" height="54" rx="8" fill="#dcfce7"/><text x="46" y="290" font-size="23" font-weight="600" fill="#0f172a">Microsoft MAI</text><text x="302" y="290" font-size="22" fill="#14532d">제품 공개 · 전사 preview</text><text x="653" y="290" font-size="22" fill="#334155">한국어 · 지연 · SLA</text>
+<rect x="32" y="326" width="936" height="68" rx="10" fill="#eef2f6"/><rect x="282" y="333" width="351" height="54" rx="8" fill="#dcfce7"/><text x="46" y="368" font-size="23" font-weight="600" fill="#0f172a">미국 ISM</text><text x="302" y="368" font-size="22" fill="#14532d">9월 제조업 조사 발표</text><text x="653" y="368" font-size="22" fill="#334155">실물 생산 · 물가 추적</text>
+<rect x="32" y="404" width="936" height="68" rx="10" fill="#ffffff"/><rect x="282" y="411" width="351" height="54" rx="8" fill="#dcfce7"/><text x="46" y="446" font-size="23" font-weight="600" fill="#0f172a">Digit 5 안전 협력</text><text x="302" y="446" font-size="22" fill="#14532d">MOU · 외부 연동 설계</text><text x="653" y="446" font-size="22" fill="#334155">인증 · 현장 고장 대응</text>
+<rect x="32" y="482" width="936" height="68" rx="10" fill="#eef2f6"/><rect x="282" y="489" width="351" height="54" rx="8" fill="#dcfce7"/><text x="46" y="524" font-size="23" font-weight="600" fill="#0f172a">Crew-13</text><text x="302" y="524" font-size="22" fill="#14532d">발사 · ISS 도킹 완료</text><text x="653" y="524" font-size="22" fill="#334155">입실 · 교대 · 반복 신뢰성</text>
+<text x="42" y="600" font-size="20" fill="#475569">단계 도달은 다음 단계의 성공을 보장하지 않는다.</text>
+<text x="42" y="630" font-size="17" fill="#64748b">자체 제작 · CC BY 4.0 · 근거와 접근 제한은 당일 sources 원장 참조</text>
+</g></svg>

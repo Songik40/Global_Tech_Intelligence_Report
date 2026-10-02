@@ -1,7 +1,7 @@
 # Signal — Space Commercialization & Data Infrastructure
 
 **Status:** Strengthening  
-**Last updated:** 2026-09-06
+**Last updated:** 2026-10-02
 
 ## Thesis
 
@@ -37,3 +37,13 @@ Flight 15 cadence, 엔진 정지 원인, 반복 Starlink 배치, booster/ship re
 
 ## Change Log Addition
 - **2026-09-29:** Starship 최초 orbital payload delivery를 반영해 대형 재사용 발사체의 상업화 신호를 강화하되 reliability/reflight를 핵심 검증축으로 유지.
+
+## 2026-10-02 — AI 탑재 실험에서 발사·교신과 서비스 실적 구분
+
+**새 증거:** [리포트](../reports/2026/10/2026-10-02.md)·[원장](../sources/2026/10/2026-10-02.md): Planet의 Suncatcher 시험 위성이 발사·초기 교신 단계에 들어갔다. NASA도 같은 비행의 과학·추진·검사 실험체 발사를 확인했다.
+
+**방향 판단:** 상업 발사·위성 플랫폼을 여러 연구 임무가 공유하는 실행 경로를 강화한다. AI·전력·우주 데이터가 연결되는 시장 탐색이 실제 탑재 하드웨어로 이동했다.
+
+**한계:** 교신은 운영사의 확인이다. 연산 데이터센터 수익·대규모 자율 정비가 실현됐다는 근거는 없다. 이미 추적한 servicing 실패 사례를 새 발사만으로 상쇄하지 않는다.
+
+**관찰 지표:** 고객별 commissioning 완료, 실제 연산·데이터 제공, 지속 가동과 비용, 자율 접근·검사 결과, 반복 발사·폐기 계획.

@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-02_
 
 ## Current Direction
 
@@ -133,3 +133,13 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 
 ### Change Log
 - **2026-10-01:** 자율 감사와 구분되는 정부 조사·증거 제출을 agent governance의 추가 검증축으로 반영. 1차 조사명령 미확보에 따른 Medium-High 근거 한계를 유지.
+
+## 2026-10-02 — 음성 인터페이스의 접근성과 서비스 보장 구분
+
+**근거:** [오늘 리포트](../reports/2026/10/2026-10-02.md)·[증거 원장](../sources/2026/10/2026-10-02.md)의 Microsoft MAI 공개와 공식 제품 문서.
+
+**방향 판단:** 모델의 능력에서 개발자가 조합하는 서비스 인터페이스로 확장되는 기존 방향을 보강한다. 스트리밍 부분 결과를 추론·도구 사용과 연결할 수 있다는 제품 경로가 구체화됐다.
+
+**한계:** 전사 모델은 public preview다. 독립 평가 행을 이번 접근에서 읽지 못했고 실제 한국어 성능·회선 지연은 시험하지 않았다. 범용 에이전트의 안전성과 업무 생산성이 검증됐다는 뜻은 아니다.
+
+**관찰 지표:** 부분 전사 번복률, 언어·잡음별 오류, 응답·도구 실행 시간, 확인·취소 설계, preview 종료와 SLA·지역별 접근.
