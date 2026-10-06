@@ -17,6 +17,7 @@
 학회·전시회 단위 브리핑. 전체 목록은 [reports/README.md](reports/README.md#event-briefings).
 
 - **[IROS 2026](reports/2026/10/2026-10-01-iros-2026.md)** — 2026-09-27~10-01 피츠버그 · 수상 후보·한국 기관·연구 트렌드·산업 발표 · [증거 원장](sources/2026/10/2026-10-01-iros-2026.md)
+- **[IROS 2026 결과](reports/2026/10/2026-10-06-iros-2026-results.md)** — DGIST LT-Mem 최우수논문상 · 10개 논문상·개인상·대회 결과 · FCC 규제 · [증거 원장](sources/2026/10/2026-10-06-iros-2026-results.md)
 
 ## Current Major Signals
 
