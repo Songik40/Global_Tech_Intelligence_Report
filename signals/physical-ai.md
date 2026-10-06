@@ -1,7 +1,7 @@
 # Signal — Physical AI
 
 **Status:** Strengthening, commercialization still mixed  
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-06
 
 ## Thesis
 
@@ -44,3 +44,15 @@ Electron E1 고객·출하량, 실제 로봇 workload의 전력/latency 독립 �
 
 ## 2026-09-30 Change Log
 - **2026-09-30:** Electron E1 양산·출하와 신규 자금조달을 반영해 저전력 edge compute의 prototype-to-product 신호를 강화.
+
+## 2026-10-06 — 설계 데이터와 안전 증거의 별도 공급 계층
+
+**새 증거:** [리포트](../reports/2026/10/2026-10-06.md)·[원장](../sources/2026/10/2026-10-06.md): 산업 설계·운영 데이터를 잇는 Schneider–PTC 계약과 SafeWorld 시드 공개.
+
+**구조적 의미:** 물리 AI의 경쟁이 센서·추론·제어뿐 아니라 설계 맥락·반복 안전 시험·증거 관리에도 자본을 배분하는 방향을 보강한다. 대형 기업 결합과 초기 평가 스타트업은 실행 단계가 다르다.
+
+**한계:** 미종결 거래·초기 파일럿이며 신뢰성·TCO·사고율 개선은 확인되지 않았다. 기존 “commercialization still mixed” 판단을 유지한다.
+
+**관찰 지표:** 실기기와 시뮬레이션 일치도, 업데이트별 재검증, 유료 배치·평가 비용, 산업 데이터 상호운용성·실제 자동화 성과.
+
+**Change Log:** 데이터·검증 계층의 투자 신호를 추가하고 상용화 성과의 한계를 유지.
