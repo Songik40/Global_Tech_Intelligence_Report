@@ -155,3 +155,15 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **관찰 지표:** 언어·변환별 독립 평가, 탐지기 접근, 운영환경 오탐·누락, 적용 모델·지역.
 
 **Change Log:** 출처 검증 경로를 추가하고 효용의 미입증 범위를 유지.
+
+## 2026-10-08 — 소형 모델·로컬 추론·과학 데이터
+
+**근거:** [리포트](../reports/2026/10/2026-10-08.md)·[원장](../sources/2026/10/2026-10-08.md). Haiku 5.5 API 실제 출시와 가격, Microsoft RTX Spark PC 사전주문·MXC 일반 제공, Biohub의 AI-ready 생물학 데이터 협력 확대.
+
+**의미:** `task routing × token cost × local/cloud placement × permission isolation × research data`가 AI 서비스 운영의 결합 경쟁축임을 강화한다.
+
+**한계:** 모델 비용·성능은 회사 평균·선별 평가, Surface는 사전주문, Biohub 총액에는 기존 약정·데이터 자원이 포함된다. 실제 비용절감·과학 성과는 미입증이다.
+
+**관찰 지표:** 프롬프트 길이별 작업당 비용·오류, MXC 격리 감사, 실제 PC 출하·성능, 데이터 공개·독립 실험 검증.
+
+**Change Log:** 모델 경제성·로컬 에이전트 운영·과학 데이터의 실행 단계와 한계를 추가.
