@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-10-08_
+_Last updated: 2026-10-09_
 
 ## Current Direction
 
@@ -179,3 +179,16 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **관찰 지표:** 공식 도움말의 등급별 모델명·한도, Intelligent UI의 API 제공, 독립 사용성 평가.
 
 **Change Log:** 원 리포트에서 빠진 ChatGPT 기본 모델 전환을 보완.
+
+
+## 2026-10-09 — 업무 에이전트의 권한·비용과 편집 가능한 산출물
+
+**근거:** [리포트](../reports/2026/10/2026-10-09.md)·[원장](../sources/2026/10/2026-10-09.md), [Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026), [Claude](https://claude.com/de/resources/articles/dashboards-and-motion).
+
+**의미:** Gemini agent 발표와 Claude Dashboards/Motion 베타는 모델의 단순 질의응답보다 **장기 실행·업무권한·비용 상한·실행감사·쿼리 출처·편집 가능한 결과물**이 제품 경쟁의 핵심임을 강화한다. 10/7 기본 모델 배포와는 별도의 10/8 신규 발표·배포다.
+
+**한계:** Gemini agent의 일반 제공 범위는 제한적 프리뷰, Dashboards/Motion은 베타다. 공식 데모와 고객 사례가 전체 기능의 독립 생산성·안전 실측은 아니다.
+
+**관찰 지표:** GA 일정, 실제 권한 오남용·감사로그·작업 성공률, SQL 재현성·데이터 갱신 지연, 멀티모델 작업당 비용.
+
+**Change Log:** 2026-10-09 기업 에이전트의 운영 거버넌스와 검증 가능한 시각 산출물을 새 제품 단계로 추가.

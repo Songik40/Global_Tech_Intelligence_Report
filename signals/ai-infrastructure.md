@@ -1,7 +1,7 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-09
 
 ## Thesis
 
@@ -119,3 +119,16 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 **관찰 지표:** 10/29 부문별 실적·현금흐름, HBM 수급, 10/16 출하·독립 처리량, 작업별 TCO·보안 감사.
 
 **Change Log:** 메모리 공급자 이익과 로컬 추론 분산의 조건부 신호를 추가.
+
+
+## 2026-10-09 — 이종 가속기 네트워크의 포트폴리오 공개
+
+**새 증거:** [리포트](../reports/2026/10/2026-10-09.md)·[원장](../sources/2026/10/2026-10-09.md), [Upscale 10/8 발표](https://upscale.com/blogs/upscale-introduces-token-fabric-the-industrys-most-comprehensive-standards-based-networking-portfolio-for-ai-factories), [Reuters](https://www.investing.com/news/stock-market-news/nvidiabacked-upscale-ai-launches-platform-to-connect-chips-from-rival-suppliers-4938802). SkyFabriX scale-up·NVIDIA Spectrum-X scale-out·SkyOS/SkyCMD 통합 포트폴리오 공개.
+
+**구조적 의미:** GPU·HBM 공급 외에 **이종 GPU/XPU interconnect, 운영 소프트웨어, 실제 네트워크 효율**이 AI 설비 경제성의 독립 병목이라는 기존 신호를 강화한다. 기업 에이전트의 멀티모델 라우팅 수요와 연결될 수 있지만 동일 고객 계약은 확인되지 않았다.
+
+**한계:** 115.2 Tbps는 회사 설계 주장, 2027년 초 GA는 계획. Reuters의 2026년 4분기 첫 구성요소와 전체 GA의 범위를 혼동하지 않는다. 독립 실측·매출은 미확인.
+
+**관찰 지표:** 첫 제품 출하, 2027 GA, 이종 XPU 호환성·실측 대역폭/지연·가동률·TCO, 실제 고객 계약.
+
+**Change Log:** 2026-10-09 AI interconnect의 통합 포트폴리오 공개를 추가하고 상용 성능 검증은 유보.

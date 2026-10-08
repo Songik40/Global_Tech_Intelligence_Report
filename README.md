@@ -6,12 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-08 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-08.md)** — 출처 검증 완료
-- 컷오프: **2026-10-08 08:49:07 KST / 2026-10-07 23:49:07 UTC**
-- 핵심: **삼성 잠정 실적 ↔ 저가 모델 ↔ 로컬 AI PC ↔ 생물학 데이터 ↔ 핵시계 정식 출판**
-- [증거 원장](sources/2026/10/2026-10-08.md) · [시각자료 명세](assets/2026-10-08/README.md)
-- 발표·잠정치·출시·사전주문·약정·동료심사 출판을 구분한다.
-- **[보완 리포트](reports/2026/10/2026-10-08-supplement.md)** — 누리호 5차 발사, GPT-6 ChatGPT 전체 배포, LG전자 잠정실적, 노벨 화학·물리학상 · Surface·핵시계·Biohub 서술 정정 · [보완 원장](sources/2026/10/2026-10-08-supplement.md)
+- **[2026-10-09 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-09.md)** — 공식 발표·베타·MOU·설문 수치를 구분
+- 컷오프: **2026-10-09 08:44:28 KST / 2026-10-08 23:44:28 UTC**
+- 핵심: **Google 업무 에이전트 ↔ NASA–DOE 우주 전력 MOU ↔ Upscale 이종 가속기 네트워크 ↔ Claude 대시보드·모션 ↔ 미국 주택금리 7.40%**
+- [증거 원장](sources/2026/10/2026-10-09.md) · [시각자료 명세](assets/2026-10-09/README.md)
+- 직전: [2026-10-08 리포트](reports/2026/10/2026-10-08.md) · [보완](reports/2026/10/2026-10-08-supplement.md)
 
 ## Event Briefings
 
@@ -24,7 +23,7 @@
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI infrastructure scale | ↑ Realized memory revenue | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
+| AI infrastructure scale | ↑ Realized memory revenue; new interconnect architecture (GA pending) | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
 | Space commercialization | ↑ Orbital proof | 누리호 5차, 주탑재 군집위성 5기 순차 투입·초기 교신(15기 중 14기 분리), 체계종합기업의 발사 운용 확대 |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
