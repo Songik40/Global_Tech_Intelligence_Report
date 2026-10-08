@@ -13,6 +13,13 @@
 - 규제 공시
 - 공식 통계·시장 데이터
 
+### Korean primary sources
+
+국내 사건은 국문 1차 출처를 먼저 찾고, 영문 보도(Reuters, Yonhap, Korea Times 등)는 교차검증에 쓴다.
+
+- **A1:** 우주항공청(KASA), 한국항공우주연구원(KARI), 과학기술정보통신부, 산업통상자원부, 대한민국 정책브리핑(korea.kr), 기업 국문 뉴스룸
+- **A2:** DART·KIND 공시(잠정실적 등), 한국은행, 통계청
+
 ## Tier B — High-quality independent reporting
 
 ### B1
@@ -41,3 +48,20 @@ Reuters, AP와 같이 편집·사실검증 체계를 갖춘 국제 뉴스 통신
 `Observed fact > official target > independent estimate > analyst interpretation > rumor`
 
 보고서에서 이 계층을 섞어 쓰지 않는다. 회사 목표는 사실이 아니라 **회사가 제시한 목표가 존재한다는 사실**로 표현한다.
+
+## Syndication and labeling
+
+- 통신사 기사를 다른 사이트의 전재본으로 인용하면 **"Reuters (Investing.com 전재)"**처럼 원 매체와 게재처를 함께 표기한다.
+- 바이라인 또는 "(Reuters)" 표기를 확인한 경우에만 원 매체 등급(B1)을 준다. 원 매체를 확인할 수 없으면 C로 낮춘다.
+- 링크가 다른 기사로 리다이렉트되면 최종 URL·제목·시각을 원장에 남긴다. 원래 설명과 다른 기사라면 그 출처를 근거에서 뺀다.
+
+## Timestamps
+
+- 게시 시각은 **본문 표기 → 페이지 메타데이터(`article:published_time` 등)** 순서로 확인한다. 둘 다 없을 때만 "미확정"으로 쓴다.
+- 페이지에 시간대가 없으면 "시간대 미표시"라고 쓰고, 추정한 시간대에는 "(추정)"을 붙인다.
+- 검색 엔진 색인 시각을 발표 시각으로 쓰지 않는다.
+
+## Access failures
+
+- 원문이 403/401 등으로 열리지 않으면 원장에 그 사실을 적고, FACT는 본문을 실제로 확인한 출처로만 쓴다.
+- 1차 출처를 열지 못하고 2차 출처만으로 쓴 항목은 Confidence를 한 단계 낮춘다.
