@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-08_
 
 ## Current Direction
 
@@ -167,3 +167,15 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **관찰 지표:** 프롬프트 길이별 작업당 비용·오류, MXC 격리 감사, 실제 PC 출하·성능, 데이터 공개·독립 실험 검증.
 
 **Change Log:** 모델 경제성·로컬 에이전트 운영·과학 데이터의 실행 단계와 한계를 추가.
+
+## 2026-10-08 (보완) — 기본 모델 전환과 응답 인터페이스
+
+**근거:** [보완 리포트](../reports/2026/10/2026-10-08-supplement.md)·[원장](../sources/2026/10/2026-10-08-supplement.md). OpenAI가 10/7 ChatGPT 유료 등급에 GPT-6 Sol, 10/8 Free·Go에 GPT-6 Luna 배포를 시작했고 Intelligent UI를 공개했다(2차 보도 기준).
+
+**의미:** 9/22 모델 출시 이후의 새 정보는 **무료 등급까지의 기본값 전환과 응답 형식 변화**다. 모델 경쟁이 `성능 × 단가`에서 `기본값 배포 범위 × 결과물 인터페이스`로 넓어진다.
+
+**한계:** OpenAI 원문은 403으로 직접 대조하지 못했다. GPT-6.1 Sol과의 관계, Intelligent UI의 실제 사용률·오류는 미확인이다.
+
+**관찰 지표:** 공식 도움말의 등급별 모델명·한도, Intelligent UI의 API 제공, 독립 사용성 평가.
+
+**Change Log:** 원 리포트에서 빠진 ChatGPT 기본 모델 전환을 보완.

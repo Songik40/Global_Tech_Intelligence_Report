@@ -11,6 +11,7 @@
 - 핵심: **삼성 잠정 실적 ↔ 저가 모델 ↔ 로컬 AI PC ↔ 생물학 데이터 ↔ 핵시계 정식 출판**
 - [증거 원장](sources/2026/10/2026-10-08.md) · [시각자료 명세](assets/2026-10-08/README.md)
 - 발표·잠정치·출시·사전주문·약정·동료심사 출판을 구분한다.
+- **[보완 리포트](reports/2026/10/2026-10-08-supplement.md)** — 누리호 5차 발사, GPT-6 ChatGPT 전체 배포, LG전자 잠정실적, 노벨 화학·물리학상 · Surface·핵시계·Biohub 서술 정정 · [보완 원장](sources/2026/10/2026-10-08-supplement.md)
 
 ## Event Briefings
 
@@ -24,9 +25,9 @@
 | Signal | Direction | Current evidence |
 |---|---|---|
 | AI infrastructure scale | ↑ Realized memory revenue | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
-| Space commercialization | ↑ Orbital proof | Isar Spectrum, 두 번째 비행에서 궤도 도달·payload separation |
+| Space commercialization | ↑ Orbital proof | 누리호 5차, 주탑재 군집위성 5기 순차 투입·초기 교신(15기 중 14기 분리), 체계종합기업의 발사 운용 확대 |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
-| AI hardware demand | ↑ Realized revenue | Foxconn 8월 매출 T$921.8B, +51.98% YoY·8월 사상 최대 |
+| AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure
