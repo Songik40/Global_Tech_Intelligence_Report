@@ -24,6 +24,8 @@
 
 ### October
 
+- [2026-10-12](2026/10/2026-10-12.md) — Yandex 추가 중단, Encaleret, Tegoprazan 3상, Acoramidis EHR, AFFIRM 결과 요약
+
 - [2026-10-09](2026/10/2026-10-09.md) — Google 업무 에이전트, NASA–DOE MOU, Upscale Token Fabric, Claude 베타, 미국 모기지 7.40%
 
 - [2026-10-08](2026/10/2026-10-08.md) — 삼성 잠정 실적, Haiku 5.5, Surface RTX Spark, Biohub, 핵시계 논문 · [보완](2026/10/2026-10-08-supplement.md)

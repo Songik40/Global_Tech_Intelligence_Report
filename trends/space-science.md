@@ -1,6 +1,6 @@
 # Space & Science — Trend Tracker
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-12_
 
 ## Current Direction
 
@@ -162,3 +162,15 @@ CEC 전략계획·제조 허가 절차, $30M의 수혜기관·배분·실제 집
 **관찰 지표:** 효력·예산·조달, 시험과 안전심사 이정표, 실제 비행 일정과 달 표면 전력 실증.
 
 **Change Log:** 2026-10-09 협력 문서의 서명 단계만 추가; 기술·상업 성과 강도는 상향하지 않음.
+
+## 2026-10-12 — 생명과학의 임상·관찰 데이터 검증 경로
+
+**근거:** [리포트](../reports/2026/10/2026-10-12.md)·[원장](../sources/2026/10/2026-10-12.md). [Encaleret](https://rss.globenewswire.com/news-release/2026/10/11/3378507/0/en/encaleret-increased-bone-turnover-and-improved-participant-reported-symptoms-in-the-phase-3-calibrate-trial-in-adh1.html)·[TRIUMpH-NERD](https://www.prnewswire.com/news-releases/sebela-pharmaceuticals-to-present-positive-phase-3-tegoprazan-data-in-non-erosive-reflux-disease-nerd-at-the-american-college-of-gastroenterology-acg-2026-meeting-302903109.html)·[Acoramidis EHR](https://rss.globenewswire.com/news-release/2026/10/11/3378528/0/en/acoramidis-associated-with-significantly-improved-clinical-outcomes-versus-tafamidis-in-attr-cm-in-an-independent-real-world-study-of-u-s-electronic-health-records.html)·[AFFIRM](https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease)의 새 결과 공개.
+
+**의미:** 과학 데이터의 가치는 수집 규모뿐 아니라 사전 지정 지표·대조군·실사용 재현·결측·교란의 검증에 달려 있다. 생화학 표지자, 증상, 내시경 반응, 입원·사망을 서로 다른 결과로 추적한다. 장비·데이터·재현성이라는 기존 과학 방향에 임상 검증 경로를 보완한다.
+
+**한계:** 회사 공개 자료 중심이며 독립 원 논문·장기 결과가 부족하다. 무작위 시험과 관찰 연구·예정 발표를 같은 증거로 합치지 않는다. 우주 상용화 방향은 변경하지 않는다.
+
+**다음 관찰:** 동료심사 전문·표본·절대차·신뢰구간, 장기 추적·독립 재현, 규제 평가와 실제 임상 적용.
+
+**Change Log:** 2026-10-12 임상·관찰 근거의 서로 다른 검증 관문을 과학 추세의 보조 축으로 추가.

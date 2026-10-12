@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 570" role="img" aria-labelledby="title desc">
+<title id="title">2026-10-12: 증거 유형과 다음 검증</title>
+<desc id="desc">운영 중단, 임상 분석, 무작위 시험, 관찰 연구와 결과 요약을 구분한 설명 도표. 실측 그래프가 아니다.</desc>
+<rect width="1120" height="570" rx="24" fill="#102237"/>
+<g font-family="Arial, Apple SD Gothic Neo, sans-serif">
+<text x="44" y="60" fill="#f4f7fb" font-size="30" font-weight="700">2026-10-12  |  공개 증거와 다음 검증</text>
+<text x="44" y="95" fill="#b9cadd" font-size="18">운영 중단 · 무작위 시험 · 관찰 연구 · 예정 발표의 차이</text>
+<text x="52" y="139" fill="#8bb8e8" font-size="17">사건 / 연구</text>
+<text x="420" y="139" fill="#8bb8e8" font-size="17">이번에 확인한 단계</text>
+<text x="785" y="139" fill="#8bb8e8" font-size="17">다음 관찰</text>
+<rect x="36" y="159" width="1048" height="55" rx="9" fill="#203a56"/>
+<text x="52" y="193" fill="#f4f7fb" font-size="18">Yandex · Vladimir</text>
+<text x="420" y="193" fill="#f4f7fb" font-size="18">운영 중단 공식 확인</text>
+<text x="785" y="193" fill="#f4f7fb" font-size="18">복구시간 · 백업 · SLA</text>
+<rect x="36" y="226" width="1048" height="55" rx="9" fill="#203a56"/>
+<text x="52" y="260" fill="#f4f7fb" font-size="18">Encaleret · CALIBRATE</text>
+<text x="420" y="260" fill="#f4f7fb" font-size="18">3상 추가 분석 공개</text>
+<text x="785" y="260" fill="#f4f7fb" font-size="18">분모 · 장기 안전성 · 원자료</text>
+<rect x="36" y="293" width="1048" height="55" rx="9" fill="#203a56"/>
+<text x="52" y="327" fill="#f4f7fb" font-size="18">Tegoprazan · TRIUMpH</text>
+<text x="420" y="327" fill="#f4f7fb" font-size="18">무작위 시험 상세 결과</text>
+<text x="785" y="327" fill="#f4f7fb" font-size="18">절대차 · 지속성 · 규제 심사</text>
+<rect x="36" y="360" width="1048" height="55" rx="9" fill="#203a56"/>
+<text x="52" y="394" fill="#f4f7fb" font-size="18">Acoramidis · EHR</text>
+<text x="420" y="394" fill="#f4f7fb" font-size="18">후향적 관찰 연구</text>
+<text x="785" y="394" fill="#f4f7fb" font-size="18">잔여 교란 · 추적기간 · 재현</text>
+<rect x="36" y="427" width="1048" height="55" rx="9" fill="#203a56"/>
+<text x="52" y="461" fill="#f4f7fb" font-size="18">SKYRIZI · AFFIRM</text>
+<text x="420" y="461" fill="#f4f7fb" font-size="18">결과 요약 / 10.13 발표 예정</text>
+<text x="785" y="461" fill="#f4f7fb" font-size="18">표본 · 효과크기 · 허가 범위</text>
+<text x="44" y="533" fill="#b9cadd" font-size="16">자체 설명 도표 · 성능 비교 / 치료 권고 아님 · 출처: 당일 원장 · CC BY 4.0</text>
+</g>
+</svg>

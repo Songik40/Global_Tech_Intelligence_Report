@@ -1,7 +1,7 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-10-09
+**Last updated:** 2026-10-12
 
 ## Thesis
 
@@ -132,3 +132,15 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 **관찰 지표:** 첫 제품 출하, 2027 GA, 이종 XPU 호환성·실측 대역폭/지연·가동률·TCO, 실제 고객 계약.
 
 **Change Log:** 2026-10-09 AI interconnect의 통합 포트폴리오 공개를 추가하고 상용 성능 검증은 유보.
+
+## 2026-10-12 — 물리적 다중 시설 장애와 운영복원력
+
+**근거:** [리포트](../reports/2026/10/2026-10-12.md)·[원장](../sources/2026/10/2026-10-12.md), [Yandex 갱신](https://yandex.ru/company/news/09-10-2026-01)·[Reuters (CNA)](https://www.channelnewsasia.com/business/russias-yandex-says-data-centre-in-vladimir-area-shut-down-after-drone-attack-6450041). Vladimir 추가 중단과 일부 서비스 불가가 확인됐다.
+
+**구조적 의미:** compute·AI 서비스·기업 운영의 연결은 시설 가용성·입지 분산·실제 복구에 달려 있다. 공급능력의 확대와 함께 다중 시설 동시 장애의 사업 위험을 추적한다.
+
+**한계:** 정확한 공격시각·손실 연산량·복구기간·피해액은 미확정. 기존 수요 확대 신호의 강도를 이 사건 하나로 낮추거나 높이지 않는다.
+
+**다음 관찰:** 시설·서비스별 복구시간, 데이터 손실·백업 전환, 고객 SLA, 공시 비용과 대체 연산 확보.
+
+**Change Log:** 2026-10-12 추가 운영 중단의 공개 확인을 물리적 복원력 위험으로 기록.
