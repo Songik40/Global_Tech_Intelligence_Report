@@ -24,7 +24,7 @@
 
 ### October
 
-- [2026-10-12](2026/10/2026-10-12.md) — Yandex 추가 중단, Encaleret, Tegoprazan 3상, Acoramidis EHR, AFFIRM 결과 요약
+- [2026-10-13](2026/10/2026-10-13.md) — Meta Muse Wonder, XPENG G9L·NGP 유럽, 2026 경제학상, Fed Hammack, 기후 fingerprint 리뷰\n\n- [2026-10-12](2026/10/2026-10-12.md) — Yandex 추가 중단, Encaleret, Tegoprazan 3상, Acoramidis EHR, AFFIRM 결과 요약
 
 - [2026-10-09](2026/10/2026-10-09.md) — Google 업무 에이전트, NASA–DOE MOU, Upscale Token Fabric, Claude 베타, 미국 모기지 7.40%
 

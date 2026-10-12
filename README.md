@@ -6,11 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-12 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-12.md)** — 데이터센터 복원력과 임상 증거의 검증 단계
-- 컷오프: **2026-10-12 08:54:49 KST / 2026-10-11 23:54:49 UTC**, 직전 24시간
-- 핵심: **Yandex 추가 중단 ↔ Encaleret 골대사 ↔ Tegoprazan 3상 ↔ Acoramidis EHR ↔ AFFIRM 결과 요약**
-- [증거 원장](sources/2026/10/2026-10-12.md) · [시각자료 명세](assets/2026-10-12/README.md)
-- 직전: [2026-10-09 리포트](reports/2026/10/2026-10-09.md). 미발행일 소급 없음.
+- **[2026-10-13 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-13.md)** — Muse Wonder 실제 제공, XPENG 유럽 출시·시험승차, 경제학상, 연준 정책 연설, 기후과학 리뷰
+- 컷오프: **2026-10-13 08:43:15 KST / 2026-10-12 23:43:15 UTC**, 직전 24시간
+- 핵심: **Meta Muse Wonder ↔ XPENG G9L/NGP ↔ Hall·Woodford ↔ Fed Hammack ↔ 기후 fingerprint 리뷰**
+- [증거 원장](sources/2026/10/2026-10-13.md) · [시각자료 명세](assets/2026-10-13/README.md)
+- 직전: [2026-10-12 리포트](reports/2026/10/2026-10-12.md). 미발행일 소급 없음.
 
 ## Event Briefings
 
@@ -28,7 +28,7 @@
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI infrastructure resilience | ↑ Physical availability risk confirmed | [2026-10-12](reports/2026/10/2026-10-12.md): Yandex Vladimir 추가 운영 중단, 복구시간·피해 규모 미확정 |
-| AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
+| Agentic AI developer access | ↑ Model availability confirmed | [2026-10-13](reports/2026/10/2026-10-13.md): Muse Wonder Model API·Muse Code 제공, Wonder Full은 구독자 한정; 장기 업무 성능 독립검증 대기 |\n| AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure
 

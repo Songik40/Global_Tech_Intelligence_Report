@@ -192,3 +192,16 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **관찰 지표:** GA 일정, 실제 권한 오남용·감사로그·작업 성공률, SQL 재현성·데이터 갱신 지연, 멀티모델 작업당 비용.
 
 **Change Log:** 2026-10-09 기업 에이전트의 운영 거버넌스와 검증 가능한 시각 산출물을 새 제품 단계로 추가.
+
+
+## 2026-10-13 — 실제 모델 제공 경로와 장기 에이전트 검증
+
+**새 증거:** [10/13 리포트](../reports/2026/10/2026-10-13.md)·[Meta 10/12 공식 발표](https://about.fb.com/news/2026/10/introducing-muse-wonder-models/)·[Reuters](https://www.reuters.com/business/meta-releases-muse-wonder-ai-models-challenge-anthropic-openai-2026-10-12/). Muse Wonder는 Model API·Muse Code, Wonder Full은 Muse Code 구독자에게 실제 제공됐다. 기존 Muse 개인 에이전트 전체 적용은 앞으로의 계획이다.
+
+**의미:** 에이전트 경쟁의 검증축이 모델 성능 홍보에서 **개발자 접근 경로·제품별 배포 권한·실제 장기 작업 성공률**로 확장되는 방향을 강화한다.
+
+**한계:** 회사 벤치마크의 동일조건 독립 재현·가격·실사용 신뢰성 미확정. Muse 전체 사용자 대상 배포 완료를 의미하지 않는다.
+
+**다음 관찰:** API 가격/접근성, Wonder Full API 제공 여부, 장기 agent task 독립 평가, Muse 지역별 실제 활성 사용자.
+
+**변경 기록 — 2026-10-13:** 새로운 모델의 개발자 배포 단계와 일반 서비스 전면 배포 계획을 구분하는 증거를 추가했다.

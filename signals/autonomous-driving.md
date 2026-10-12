@@ -52,3 +52,16 @@
 - **2026-09-02:** Waymo의 3개 도시 공개 운행 시작을 반영해 multi-city repeatability와 도시별 paid-trip/fleet 지표를 추가.
 - **2026-09-01:** 사우디 국가 규모 자율주행 물류 계획을 반영하고 paid freight·logistics integration을 핵심 지표로 추가.
 - **2026-08-31:** 한국 200대 로보택시 도입 계획을 반영하고 인증을 상용화 평가의 독립 단계로 추가.
+
+
+## 2026-10-13 — XPENG의 유럽 공개 시험승차, 출시와 자율운행을 구분
+
+**새 증거:** [10/13 리포트](../reports/2026/10/2026-10-13.md)·[XPENG 공식 10/12 발표](https://www.prnewswire.com/news-releases/xpeng-launches-the-g9l-next-gen-ai-flagship-suv-in-europe-debuts-ngp-and-expands-global-technology-collaboration-at-2026-paris-motor-show-302905653.html)·[Reuters 유럽 생산 취재](https://www.reuters.com/world/china/xpeng-executive-says-ev-maker-will-expand-european-production-ahead-local-2026-10-12/). G9L 유럽 출시·프랑스 시작가 €74,990 공개와 NGP(VLA 2.0) 유럽 공개 시험승차가 진행됐다.
+
+**의미:** 기술 시연에서 해외 소비자 접점·가격·현지생산 계획으로 이어지는 전개를 확인한다. 다만 감독 하 시연을 완전 무인 상용서비스로 간주하지 않는다.
+
+**한계:** 시험 주행거리·안전성은 회사 주장, 감독 조건·개입률·유럽 규제 승인·실제 인도량 미확정. 프랑스 시작가는 전 트림·전 국가 가격이 아니다.
+
+**다음 관찰:** 유럽 실제 주문·인도, NGP 승인과 운전자 감독 범위, intervention rate, 현지 생산대수, UN R171 관련 인증 결과.
+
+**변경 기록 — 2026-10-13:** 유럽 공개 시험승차 및 판매가격을 추가하고 상업운행·인증 미완료를 명시했다.
