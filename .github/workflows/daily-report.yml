@@ -1,0 +1,135 @@
+name: Daily global tech report
+
+on:
+  schedule:
+    # UTC 23:45 is 08:45 Asia/Seoul the following day, including weekends.
+    - cron: '45 23 * * *'
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: 'verify: read-only / recover: finish published report / publish: API research then publish'
+        type: choice
+        options: [verify, recover, publish]
+        default: verify
+
+permissions:
+  contents: read
+
+concurrency:
+  group: global-tech-daily-main
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    # Keep the existing cloud task until a real API publication is verified.
+    if: github.event_name == 'workflow_dispatch' || vars.DAILY_PUBLISH_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    outputs:
+      mode: ${{ steps.plan.outputs.mode }}
+      date: ${{ steps.plan.outputs.date }}
+      operation: ${{ steps.operation.outputs.operation }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          persist-credentials: false
+      - id: operation
+        env:
+          REQUESTED_OPERATION: ${{ inputs.operation || 'publish' }}
+        run: echo "operation=$REQUESTED_OPERATION" >> "$GITHUB_OUTPUT"
+      - id: plan
+        run: python3 scripts/report_pipeline.py plan
+
+  research:
+    needs: plan
+    if: needs.plan.outputs.operation == 'publish' && needs.plan.outputs.mode == 'generate'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Research, draft and editorial review (no GitHub write permission)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          REPORT_INSTRUCTIONS: ${{ secrets.REPORT_INSTRUCTIONS }}
+          REPORT_MODEL: gpt-6.1-sol
+        run: python3 scripts/report_pipeline.py generate --out draft
+      - name: Preserve research even when review fails
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: research-${{ github.run_id }}
+          path: draft/
+          if-no-files-found: ignore
+          retention-days: 30
+
+  publish:
+    needs: [plan, research]
+    if: >-
+      always() && needs.plan.result == 'success' &&
+      (needs.plan.outputs.operation == 'recover' ||
+       (needs.plan.outputs.operation == 'publish' &&
+        (needs.plan.outputs.mode == 'existing' || needs.research.result == 'success')))
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - if: needs.plan.outputs.mode == 'generate' && needs.plan.outputs.operation == 'publish'
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: research-${{ github.run_id }}
+          path: draft
+      - name: Publish data and verify (no model/API key)
+        if: needs.plan.outputs.mode == 'generate' && needs.plan.outputs.operation == 'publish'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/report_pipeline.py publish --bundle draft/approved.json --out run-output
+      - name: Resume post-publication checks without rewriting the report
+        if: needs.plan.outputs.mode == 'existing' || needs.plan.outputs.operation == 'recover'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPORT_DATE: ${{ needs.plan.outputs.date }}
+        run: python3 scripts/report_pipeline.py recover --date "$REPORT_DATE" --out run-output
+      - name: Preserve final HEAD, hashes, URLs and errors
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: verification-${{ github.run_id }}
+          path: run-output/
+          if-no-files-found: ignore
+          retention-days: 90
+
+  verify:
+    needs: plan
+    if: needs.plan.outputs.operation == 'verify'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - run: python3 scripts/report_pipeline.py verify-existing --out run-output
+      - if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: verification-${{ github.run_id }}
+          path: run-output/
+          if-no-files-found: ignore
+          retention-days: 90

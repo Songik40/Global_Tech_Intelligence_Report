@@ -140,3 +140,8 @@ GitHub에서 이미지가 지나치게 커지거나 깨지는 문제를 피하�
 ---
 
 > Research and information tracking only. Analysis is interpretation based on cited evidence and is not financial advice.
+
+
+## Cloud publication pipeline
+
+[GitHub Actions 운영·활성화·복구 안내](automation/README.md). 매일 08:45 KST 예약을 준비했으며, 실제 새 발행 테스트와 전환 전까지는 기존 ChatGPT 클라우드 예약을 유지한다.
