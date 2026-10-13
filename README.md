@@ -28,7 +28,8 @@
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI infrastructure resilience | ↑ Physical availability risk confirmed | [2026-10-12](reports/2026/10/2026-10-12.md): Yandex Vladimir 추가 운영 중단, 복구시간·피해 규모 미확정 |
-| Agentic AI developer access | ↑ Model availability confirmed | [2026-10-13](reports/2026/10/2026-10-13.md): Muse Wonder Model API·Muse Code 제공, Wonder Full은 구독자 한정; 장기 업무 성능 독립검증 대기 |\n| AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
+| Agentic AI developer access | ↑ Model availability confirmed | [2026-10-13](reports/2026/10/2026-10-13.md): Muse Wonder Model API·Muse Code 제공, Wonder Full은 구독자 한정; 장기 업무 성능 독립검증 대기 |
+| AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure
 
