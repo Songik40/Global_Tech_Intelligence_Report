@@ -205,3 +205,15 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **다음 관찰:** API 가격/접근성, Wonder Full API 제공 여부, 장기 agent task 독립 평가, Muse 지역별 실제 활성 사용자.
 
 **변경 기록 — 2026-10-13:** 새로운 모델의 개발자 배포 단계와 일반 서비스 전면 배포 계획을 구분하는 증거를 추가했다.
+
+## 2026-10-14 — Argon 일반 제공 확대와 스마트홈 AI 접근 조건
+
+**근거:** [당일 리포트](../reports/2026/10/2026-10-14.md)·[원장](../sources/2026/10/2026-10-14.md), [Google 개발자 안내](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/)·[Apple HomeView](https://www.apple.com/gw/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/).
+
+**새 증거·의미:** Argon은 최초 제한 발표에서 유료 API·Pro/Ultra 소비자 서비스로 접근 범위를 넓혔다. HomeView는 AI를 가정 공용 기기의 인터페이스로 확장하는 발표·사전주문 단계다. 모델 경쟁의 관찰축에 **접근 권한·가격·연결 기기·지역별 제공 조건**을 보강한다.
+
+**한계:** Google 내부 생산성을 일반화할 수 없다. HomeView 출하는 11/13 예정이며 Siri AI는 베타, 개인 맥락에는 연결된 지원 기기가 필요하다. 실제 고객의 업무·가정 작업 성공률은 독립 검증하지 않았다.
+
+**다음 관찰:** 11/30 이후 API 가격, 장기 작업 독립 평가, HomeView 실제 출하·지역·언어·개인정보 보호 검증.
+
+**변경 기록 — 2026-10-14:** 제공 확대와 사전주문을 구분하는 증거를 추가하고 실제 운영 성과의 미확인 범위를 유지했다.

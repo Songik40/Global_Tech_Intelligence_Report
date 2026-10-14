@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 580" role="img" aria-labelledby="title desc">
+  <title id="title">2026-10-14 핵심 5개 뉴스의 증거 단계</title>
+  <desc id="desc">모델 제공 확대, 금융안정 위험 평가, 시장 거래 결과, 제품 사전주문, 위성 교신 결과를 구분하는 자체 설명 도표. 실측 성능이나 투자 위험의 점수를 나타내지 않는다.</desc>
+  <rect width="1120" height="580" rx="24" fill="#F3F5F7"/>
+  <rect width="1120" height="114" rx="24" fill="#122C3C"/>
+  <rect y="84" width="1120" height="30" fill="#122C3C"/>
+  <g font-family="Arial, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+    <text x="44" y="50" font-size="28" font-weight="700" fill="#FFFFFF">발표 이후, 무엇이 실제로 확인됐는가</text>
+    <text x="44" y="84" font-size="17" fill="#C5D7E2">2026-10-14 · 증거 단계 설명 · 원 조사 컷오프 08:49:15 KST</text>
+    <text x="46" y="147" font-size="14" font-weight="700" fill="#476477">뉴스</text>
+    <text x="358" y="147" font-size="14" font-weight="700" fill="#476477">확인된 단계</text>
+    <text x="760" y="147" font-size="14" font-weight="700" fill="#476477">남은 검증</text>
+    <rect x="28" y="162" width="1064" height="62" rx="10" fill="#FFFFFF"/>
+    <rect x="28" y="238" width="1064" height="62" rx="10" fill="#FFFFFF"/>
+    <rect x="28" y="314" width="1064" height="62" rx="10" fill="#FFFFFF"/>
+    <rect x="28" y="390" width="1064" height="62" rx="10" fill="#FFFFFF"/>
+    <rect x="28" y="466" width="1064" height="62" rx="10" fill="#FFFFFF"/>
+    <g font-size="19" font-weight="700" fill="#173747">
+      <text x="46" y="200">Google Gemini 4 Argon</text>
+      <text x="46" y="276">IMF 금융안정보고서</text>
+      <text x="46" y="352">한국 반도체 시장</text>
+      <text x="46" y="428">Apple HomeView</text>
+      <text x="46" y="504">누리호 부탑재위성</text>
+    </g>
+    <g font-size="18" fill="#1D6270">
+      <text x="358" y="200">유료 API·소비자 서비스 제공 확대</text>
+      <text x="358" y="276">공식 발표·조건부 위험 평가</text>
+      <text x="358" y="352">10월 13일 거래·종가 확인</text>
+      <text x="358" y="428">공식 발표·일부 국가 사전주문</text>
+      <text x="358" y="504">9기 교신·6기 양방향 교신</text>
+    </g>
+    <g font-size="17" fill="#5D6E78">
+      <text x="760" y="200">독립 성능·작업당 비용</text>
+      <text x="760" y="276">위험 현실화·금융 취약성</text>
+      <text x="760" y="352">실수요·현금흐름·원인</text>
+      <text x="760" y="428">11월 13일 출하·실사용</text>
+      <text x="760" y="504">초기 운용·임무 데이터</text>
+    </g>
+    <text x="44" y="557" font-size="14" fill="#526978">자체 설명 도표 · CC BY 4.0 · 현장 사진·실측 그래프 아님 · 색과 순서는 점수를 뜻하지 않음</text>
+  </g>
+</svg>

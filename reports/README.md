@@ -24,6 +24,8 @@
 
 ### October
 
+- [2026-10-14](2026/10/2026-10-14.md) — Gemini 4 Argon 제공 확대, IMF 금융안정 위험, 한국 반도체주, Apple HomeView, 누리호 교신 · 원 컷오프 08:49:15 KST · 24시간 6분 조사
+
 - [2026-10-13](2026/10/2026-10-13.md) — Meta Muse Wonder, XPENG G9L·NGP 유럽, 2026 경제학상, Fed Hammack, 기후 fingerprint 리뷰
 
 - [2026-10-12](2026/10/2026-10-12.md) — Yandex 추가 중단, Encaleret, Tegoprazan 3상, Acoramidis EHR, AFFIRM 결과 요약

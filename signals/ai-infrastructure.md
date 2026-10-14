@@ -144,3 +144,15 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 **다음 관찰:** 시설·서비스별 복구시간, 데이터 손실·백업 전환, 고객 SLA, 공시 비용과 대체 연산 확보.
 
 **Change Log:** 2026-10-12 추가 운영 중단의 공개 확인을 물리적 복원력 위험으로 기록.
+
+## 2026-10-14 — AI 투자수익률·자본비용의 검증 강화
+
+**근거:** [당일 리포트](../reports/2026/10/2026-10-14.md)·[원장](../sources/2026/10/2026-10-14.md), [IMF 공식 발표](https://mediacenter.imf.org/news/imf---global-financial-stability-report-annual-meetings--2026/s/f55368c1-983b-45b7-ba7c-1978f67c168c)·[Reuters (MarketScreener 게재본)](https://www.marketscreener.com/news/brutal-session-for-chip-stocks-shows-ai-trade-is-turning-ce785ddddd8ff322)·[코스피 10/13 종가](https://kr.investing.com/indices/kospi-historical-data).
+
+**구조적 의미:** 모델 이용 가능성의 확대와 투자수익률·차입비용 검증은 함께 진행될 수 있다. IMF의 조건부 위험 경고와 한국 시장의 실제 조정은 compute·power·capital 연결에서 **수익화·자금조달 지속가능성**을 독립적으로 추적할 필요를 강화한다.
+
+**한계:** 하루 주가 하락은 반도체 실수요 붕괴의 증거가 아니다. IMF는 특정 기업의 부실이나 AI 투자 붕괴를 확정하지 않았다. 보고서 전문·거래소 원본 종가는 직접 확보하지 못했으며 공개 공식 설명과 보조 데이터의 한계를 유지한다.
+
+**다음 관찰:** CAPEX 대비 매출·현금흐름, 신용스프레드·부채 만기, DRAM/HBM 출하·가격, 프로젝트 취소·연기.
+
+**변경 기록 — 2026-10-14:** 시장·기관의 새 증거를 자본비용 검증축에 추가했다. 기존 물리 수요·인프라 운영복원력 판단을 일괄 뒤집지 않았다.

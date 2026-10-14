@@ -6,11 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-13 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-13.md)** — Muse Wonder 실제 제공, XPENG 유럽 출시·시험승차, 경제학상, 연준 정책 연설, 기후과학 리뷰
-- 컷오프: **2026-10-13 08:43:15 KST / 2026-10-12 23:43:15 UTC**, 직전 24시간
-- 핵심: **Meta Muse Wonder ↔ XPENG G9L/NGP ↔ Hall·Woodford ↔ Fed Hammack ↔ 기후 fingerprint 리뷰**
-- [증거 원장](sources/2026/10/2026-10-13.md) · [시각자료 명세](assets/2026-10-13/README.md)
-- 직전: [2026-10-12 리포트](reports/2026/10/2026-10-12.md). 미발행일 소급 없음.
+- **[2026-10-14 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-14.md)** — Gemini 4 Argon 제공 확대, IMF 위험 평가, 한국 반도체주 하락, Apple HomeView 사전주문, 누리호 후속 교신
+- 원 컷오프: **2026-10-14 08:49:15 KST / 2026-10-13 23:49:15 UTC**
+- 조사: **24시간 6분**, 전날 컷오프부터 6분 공백 포함. 최근 72시간 누락 점검은 별도로 기록.
+- [증거 원장](sources/2026/10/2026-10-14.md) · [시각자료 명세](assets/2026-10-14/README.md)
+- 직전: [2026-10-13 리포트](reports/2026/10/2026-10-13.md). 미발행일 소급 없음.
 
 ## Event Briefings
 
@@ -24,11 +24,12 @@
 | Signal | Direction | Current evidence |
 |---|---|---|
 | AI infrastructure scale | ↑ Realized memory revenue; new interconnect architecture (GA pending) | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
-| Space commercialization | ↑ Orbital proof | 누리호 5차, 주탑재 군집위성 5기 순차 투입·초기 교신(15기 중 14기 분리), 체계종합기업의 발사 운용 확대 |
+| Space commercialization | ↑ Post-launch verification | [2026-10-14](reports/2026/10/2026-10-14.md): 누리호 부탑재 9기 신호·데이터 확인, 6기 양방향 교신; 1기 미사출·정상 임무 수행 검증 대기 |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
 | AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI infrastructure resilience | ↑ Physical availability risk confirmed | [2026-10-12](reports/2026/10/2026-10-12.md): Yandex Vladimir 추가 운영 중단, 복구시간·피해 규모 미확정 |
-| Agentic AI developer access | ↑ Model availability confirmed | [2026-10-13](reports/2026/10/2026-10-13.md): Muse Wonder Model API·Muse Code 제공, Wonder Full은 구독자 한정; 장기 업무 성능 독립검증 대기 |
+| Agentic AI developer access | ↑ Model availability confirmed | [2026-10-14](reports/2026/10/2026-10-14.md): Argon 유료 API·소비자 제공 확대; 기존 Muse Wonder 제공과 함께 장기 업무 성능 독립검증 대기 |
+| AI infrastructure capital | ↑ Return and funding scrutiny | [2026-10-14](reports/2026/10/2026-10-14.md): IMF 조건부 위험 평가·한국 시장 조정; 실제 수요 붕괴 단정 없음 |
 | AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure
