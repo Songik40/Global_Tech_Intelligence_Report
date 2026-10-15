@@ -6,11 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-14 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-14.md)** — Gemini 4 Argon 제공 확대, IMF 위험 평가, 한국 반도체주 하락, Apple HomeView 사전주문, 누리호 후속 교신
-- 원 컷오프: **2026-10-14 08:49:15 KST / 2026-10-13 23:49:15 UTC**
-- 조사: **24시간 6분**, 전날 컷오프부터 6분 공백 포함. 최근 72시간 누락 점검은 별도로 기록.
-- [증거 원장](sources/2026/10/2026-10-14.md) · [시각자료 명세](assets/2026-10-14/README.md)
-- 직전: [2026-10-13 리포트](reports/2026/10/2026-10-13.md). 미발행일 소급 없음.
+- **[2026-10-15 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-15.md)** — 미국 CPI·AI 주식 조정, ASML Q3 실적·전망, Hesai Kosmo 출시, PBC 기상예측·메타물질 Nature 논문
+- 원 컷오프: **2026-10-15 08:45:27 KST / 2026-10-14 23:45:27 UTC**
+- 조사: **직전 24시간**, 10/14 08:45:27–10/15 08:45:27 KST. 직전 컷오프와 3분 48초 중복·공백 없음.
+- [증거 원장](sources/2026/10/2026-10-15.md) · [시각자료 명세](assets/2026-10-15/README.md)
+- 직전: [2026-10-14 리포트](reports/2026/10/2026-10-14.md). 미발행일 소급 없음.
 
 ## Event Briefings
 
@@ -26,10 +26,11 @@
 | AI infrastructure scale | ↑ Realized memory revenue; new interconnect architecture (GA pending) | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
 | Space commercialization | ↑ Post-launch verification | [2026-10-14](reports/2026/10/2026-10-14.md): 누리호 부탑재 9기 신호·데이터 확인, 6기 양방향 교신; 1기 미사출·정상 임무 수행 검증 대기 |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
-| AI hardware demand | ↑ Supplier profit, uneven downstream | 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
+| AI hardware demand | ↑ Supplier profit, uneven downstream | [2026-10-15](reports/2026/10/2026-10-15.md) ASML Q3 €11.662B 실현 매출·미래 가이던스 분리; 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI infrastructure resilience | ↑ Physical availability risk confirmed | [2026-10-12](reports/2026/10/2026-10-12.md): Yandex Vladimir 추가 운영 중단, 복구시간·피해 규모 미확정 |
 | Agentic AI developer access | ↑ Model availability confirmed | [2026-10-14](reports/2026/10/2026-10-14.md): Argon 유료 API·소비자 제공 확대; 기존 Muse Wonder 제공과 함께 장기 업무 성능 독립검증 대기 |
-| AI infrastructure capital | ↑ Return and funding scrutiny | [2026-10-14](reports/2026/10/2026-10-14.md): IMF 조건부 위험 평가·한국 시장 조정; 실제 수요 붕괴 단정 없음 |
+| AI infrastructure capital | ↑ Return and funding scrutiny | [2026-10-15](reports/2026/10/2026-10-15.md): CPI·미국 AI 주식 조정과 ASML 실현 매출을 분리; 장비 수요 확대가 구매자 수익성을 보장하지 않음 |
+| Physical AI data infrastructure | ↑ Product launch, independent validation pending | [2026-10-15](reports/2026/10/2026-10-15.md): Kosmo One·World 출시; 회사 성능 주장과 독립 로봇 검증 구분 |
 | AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
 ## Repository Structure

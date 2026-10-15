@@ -1,7 +1,7 @@
 # Signal — AI Infrastructure
 
 **Status:** Strong / strengthening  
-**Last updated:** 2026-10-12
+**Last updated:** 2026-10-15
 
 ## Thesis
 
@@ -156,3 +156,15 @@ Cerebras–Gimlet의 실제 MW commissioning·모델별 latency/throughput·전�
 **다음 관찰:** CAPEX 대비 매출·현금흐름, 신용스프레드·부채 만기, DRAM/HBM 출하·가격, 프로젝트 취소·연기.
 
 **변경 기록 — 2026-10-14:** 시장·기관의 새 증거를 자본비용 검증축에 추가했다. 기존 물리 수요·인프라 운영복원력 판단을 일괄 뒤집지 않았다.
+
+## 2026-10-15 — 장비 공급자 실적과 자본비용의 동시 검증
+
+**근거:** [당일 리포트](../reports/2026/10/2026-10-15.md)·[원장](../sources/2026/10/2026-10-15.md), [ASML IR](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026)·[BLS](https://www.bls.gov/news.release/archives/cpi_10142026.htm)·[AP](https://apnews.com/article/stock-markets-earnings-bonds-artificial-intelligence-704d3190f0fba2908df07c85f26346ec).
+
+**새 증거·의미:** ASML Q3 실제 매출과 장기 장비 수요에 관한 회사 전망은 공급자 수요의 새로운 기간 증거다. 같은 날 미국 물가·AI 주식 조정은 대규모 설비투자의 자본비용 검증 필요를 보강한다. 두 사건을 한쪽이 다른 쪽을 직접 일으킨 인과로 표현하지 않는다.
+
+**한계:** 회사 가이던스·주문 관심은 확정 매출이 아니며 공급자 수익이 데이터센터 구매자 수익성을 보장하지 않는다. 하루 시장 변동은 실수요 붕괴 증거가 아니다.
+
+**다음 관찰:** 실제 장비 공급능력·수요의 매출 전환, CAPEX 대비 현금흐름, 회사채 스프레드·프로젝트 취소와 가동률.
+
+**변경 기록 — 2026-10-15:** 공급자 실현 실적과 차입비용 위험을 서로 다른 증거로 추가.

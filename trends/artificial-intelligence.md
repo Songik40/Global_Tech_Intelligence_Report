@@ -1,6 +1,6 @@
 # Artificial Intelligence — Trend Tracker
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-15_
 
 ## Current Direction
 
@@ -217,3 +217,15 @@ NVIDIA, hyperscalers, frontier AI labs, Hugging Face와 같은 developer platfor
 **다음 관찰:** 11/30 이후 API 가격, 장기 작업 독립 평가, HomeView 실제 출하·지역·언어·개인정보 보호 검증.
 
 **변경 기록 — 2026-10-14:** 제공 확대와 사전주문을 구분하는 증거를 추가하고 실제 운영 성과의 미확인 범위를 유지했다.
+
+## 2026-10-15 — 기존 예측 시스템의 확률 오차 보정
+
+**근거:** [당일 리포트](../reports/2026/10/2026-10-15.md)·[원장](../sources/2026/10/2026-10-15.md), [Nature PBC](https://www.nature.com/articles/s41586-026-11126-x)·[Microsoft 4월 자료](https://www.microsoft.com/en-us/research/publication/enhancing-ai-and-dynamical-subseasonal-forecasts-with-probabilistic-bias-correction/?lang=ko-kr).
+
+**새 증거·의미:** 4월 공개 연구의 10/14 동료심사 출판이다. 기존 물리·AI 기상모델의 확률 편향을 보정하는 경로는 산업 AI 경쟁에서 새 모델뿐 아니라 기존 시스템의 오류·불확실성 관리도 중요함을 보강한다.
+
+**한계:** 과거 평가·2025 대회 결과를 당일 새 실측으로 세지 않는다. 개선된 목표의 비율은 예측 정확도와 다르다. 전 산업의 운영 성능 향상을 보장하지 않는다.
+
+**다음 관찰:** 다른 예측기관 재현, 극한기상·지역별 성능, 실제 운영 비용과 적용.
+
+**변경 기록 — 2026-10-15:** 정식 출판을 기존 시스템 보정 경로의 증거로 추가. 보편적 상용 성과 판단은 유보.
