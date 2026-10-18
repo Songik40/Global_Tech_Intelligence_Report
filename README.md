@@ -29,7 +29,7 @@
 | AI hardware demand | ↑ Supplier profit, uneven downstream | [2026-10-15](reports/2026/10/2026-10-15.md) ASML Q3 €11.662B 실현 매출·미래 가이던스 분리; 삼성전자 3Q26 잠정 영업이익 107.4조원(메모리 공급자) ↔ LG전자 3Q26 잠정 영업이익 7,818억원, 기대 하회 |
 | AI infrastructure resilience | ↑ Physical availability risk confirmed | [2026-10-12](reports/2026/10/2026-10-12.md): Yandex Vladimir 추가 운영 중단, 복구시간·피해 규모 미확정 |
 | Agentic AI developer access | ↑ Model availability confirmed | [2026-10-14](reports/2026/10/2026-10-14.md): Argon 유료 API·소비자 제공 확대; 기존 Muse Wonder 제공과 함께 장기 업무 성능 독립검증 대기 |
-| AI infrastructure capital | ↑ Return and funding scrutiny | [2026-10-16](reports/2026/10/2026-10-16.md): TSMC 실현 매출과 PPI·한국 주가 조정을 분리; 공급자 수익은 구매자 투자수익률을 보장하지 않음 |
+| AI infrastructure capital | ↑ Return and funding scrutiny | [2026-10-17](reports/2026/10/2026-10-17.md): CoreWeave 10/16 주가·채권 위험으로 운영사 차입비용 검증 심화; 기존 TSMC·ASML 실현 공급자 매출과 구분 |
 | Physical AI data infrastructure | ↑ Product launch, independent validation pending | [2026-10-15](reports/2026/10/2026-10-15.md): Kosmo One·World 출시; 회사 성능 주장과 독립 로봇 검증 구분 |
 | AI incident governance | ↑ External scrutiny | FTC의 주요 AI 개발사 조사 사실이 AP·Reuters로 확인됨; 착수일·범위·결론 미확정 |
 
