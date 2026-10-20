@@ -6,10 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-19 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-19.md)** — Anthropic 조건부 공익기금, Microsoft–Nscale 계약 철수 취재(이유 미확정), JAXA MMX 발사 운영계획. 신규 선정 **3건**.
-- **조사 컷오프:** 2026-10-19 08:51:36 KST / 2026-10-18 23:51:36 UTC. 기본 구간 10/18 08:51:36–10/19 08:51:36 KST, 직전 컷오프와 2시간 46분 48초 중복 · **미조사 공백 없음**.
-- **사용자 수정본 재승인 후 발행:** 원문 검증에서 사실·시각 표현을 정정해 공개하고 2026-10-19 수정본에 대한 명시적 재승인을 확인했다. 실제 게시일 2026-10-19; 원 조사 컷오프를 보존하며 게시 후 검증은 증거 원장에 기록한다.
-- [증거 원장](sources/2026/10/2026-10-19.md) · 직전 [2026-10-18 보고서](reports/2026/10/2026-10-18.md).
+- **[2026-10-20 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-20.md)** — MMX 실제 발사·분리, 앰코 광주 착공·투자 확대, Tenstorrent Series E, Dream API, BNL 초전도 연산 실증. 선정 **5건**.
+- **조사 컷오프:** 2026-10-20 08:52:33 KST / 2026-10-19 23:52:33 UTC. 기본 최근 24시간 + 직전 컷오프와의 **57초 경계 보조 점검**. 장기 미발행 공백 없음.
+- **검증 제한:** BNL은 공식 날짜 단위 공개만 확인해 정확한 컷오프 귀속이 미확정이다. 앰코·Dream Labs·Tenstorrent의 계획·가격·자금조달과 실현 매출을 구분한다.
+- **당일 사용자 명시적 승인 후 발행:** 실제 게시일 2026-10-20. 원 조사 컷오프를 보존하며 게시 후 원격 검증은 원장에 기록한다. 다른 날짜의 자동 발행 승인이 아니다.
+- [증거 원장](sources/2026/10/2026-10-20.md) · 직전 [2026-10-19 보고서](reports/2026/10/2026-10-19.md).
 
 ## Event Briefings
 
@@ -22,6 +23,9 @@
 
 | Signal | Direction | Current evidence |
 |---|---|---|
+| AI compute funding and packaging | ↑ New funding / construction execution | [2026-10-20](reports/2026/10/2026-10-20.md): Tenstorrent $1.5B Series E와 앰코 광주 착공. 투자·고용·양산은 계획, 실현 매출·ROI와 구분 |
+| Robot model developer access | ↑ Public research beta | [2026-10-20](reports/2026/10/2026-10-20.md): Dream API·가격·제한된 외부평가 확인. 장기 안전·현장 TCO 미확정 |
+| Deep-space mission execution | ↑ Launch and separation confirmed | [2026-10-20](reports/2026/10/2026-10-20.md): MMX 실제 발사·정상분리·궤도투입. 과학 임무·시료귀환 완료 아님 |
 | AI infrastructure scale | ↑ Realized memory revenue; new interconnect architecture (GA pending) | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |
 | Space commercialization | ↑ Observation data confirmed | [2026-10-16](reports/2026/10/2026-10-16.md): 초소형군집위성 첫 영상 획득 공식 공개; 정규 관측·검보정·운영 이관 대기 |
 | AI-linked export concentration | ↑ Strengthening | 한국 YTD 수출 $709.4B 보도, 1~8월 반도체가 수출의 41% |
