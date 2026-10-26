@@ -24,6 +24,8 @@
 
 ### October
 
+- [2026-10-26](2026/10/2026-10-26.md) — SpaceX $40B GPU 금융 CEO 주장, ESMO CLARITY-Gastric01·Krascendo 1·SAFFRON·HARMONi-GI1 상세 3상 결과 · 5건 · 컷오프 08:49:11 KST · **당일 승인 후 발행**
+
 - [2026-10-25](2026/10/2026-10-25.md) — VOLGA ESMO 3상 생존 결과, DEEP Robotics 피지컬 AI 5축, 중국 상무부 투자규제 대응 · 3건 · 원 컷오프 08:47:59 KST · **10/25 수정본 재승인 후 발행**
 
 - [2026-10-24](2026/10/2026-10-24.md) — OpenAI 프런티어 모델 보안, 한국 반도체 규제 13개 과제, NASA Artemis 실행계획, Dragonfly 통합 시뮬레이션, Pathos AI $237M 투자유치 · 5건 · 원 컷오프 08:46:02 KST · **10/24 당일 승인 후 발행**
