@@ -6,12 +6,11 @@
 
 ## Latest Report
 
-- **[2026-10-26 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-26.md)** — SpaceX GPU 구매용 $40B 부채 조달 **CEO 주장**, CLARITY-Gastric01·Krascendo 1·SAFFRON·HARMONi-GI1 **ESMO 임상 3상 상세 생존 결과**. **5건**.
-- **조사 컷오프:** 2026-10-26 08:49:11 KST / 2026-10-25 23:49:11 UTC. 오늘 **1분 12초**, 과거 **1분 57초·35초** 구간의 전수 검증은 각각 미완료.
-- **검증 제한:** SpaceX 금융 원계약 독립 확인 불가. CLARITY-Gastric01은 OS 개선과 별개로 PFS 공동 일차평가지표 **통계 비유의**. 모든 임상 결과는 신규 의약품 허가가 아니다.
-- **당일 사용자 승인 후 발행:** “ㄱㄱㄱ”. [출처 원장](sources/2026/10/2026-10-26.md)에서 증거 등급·게시 후 검증 기록을 확인할 수 있다. `trends/`·`signals/`·`assets/` 변경 없음.
-- **게시 후 정정(10/26):** [정정·검증 보충](reports/2026/10/2026-10-26.md#post-publication-addendum-2026-10-26). **5건은 수록 기사 수**이며 임상 4건의 초록 최초 공개 시각·구간 내 신규성 판정은 미확정. [원장](sources/2026/10/2026-10-26.md#post-publication-review-2026-10-26)에 과거 1분 57초 공백과 출처 접근 한계를 추가했다.
-- 직전 [2026-10-25 보고서](reports/2026/10/2026-10-25.md) · [출처 원장](sources/2026/10/2026-10-25.md).
+- **[2026-10-27 글로벌 테크 인텔리전스 리포트](reports/2026/10/2026-10-27.md)** — Meta 최대 $95B 자금조달 계획, Anthropic용 $63B 설비 금융구조, Cadence Maestro, Agility·GXO 추가 두 시설 계약, 한국 ADR-SAT 시스템통합 준비검토. **5건**.
+- **조사 컷오프:** 2026-10-27 08:45:24 KST / 2026-10-26 23:45:24 UTC. 직전 컷오프와 3분 47초 중첩. 과거 **1분 12초·1분 57초·35초** 구간의 전수 검증은 미완료.
+- **검증 제한:** 조달·배치·위성 임무 완료와 발표를 구분. Maestro 성능은 회사 초기 평가. Reuters 원문 접근 제한으로 바이라인을 확인한 전재본 사용, 원문 분 단위 시각 재확인 불가.
+- **당일 사용자 승인 후 발행:** 참조 대화 “진행해” 및 이번 네 파일 발행 요청. [출처 원장](sources/2026/10/2026-10-27.md)에서 증거 등급·게시 후 검증 결과를 확인할 수 있다.
+- 직전 [2026-10-26 보고서](reports/2026/10/2026-10-26.md) · [출처 원장](sources/2026/10/2026-10-26.md) · [게시 후 정정](reports/2026/10/2026-10-26.md#post-publication-addendum-2026-10-26). 임상 4건의 최초 공개 시각 미확정과 과거 미완료 공백은 유지.
 
 ## Event Briefings
 
@@ -24,7 +23,7 @@
 
 | Signal | Direction | Current evidence |
 |---|---|---|
-| AI compute funding and packaging | ↑ New funding / construction execution | [2026-10-20](reports/2026/10/2026-10-20.md): Tenstorrent $1.5B Series E와 앰코 광주 착공. 투자·고용·양산은 계획, 실현 매출·ROI와 구분 |
+| AI compute funding and packaging | ↑ Equity offering / equipment financing announced | [2026-10-27](reports/2026/10/2026-10-27.md): Meta $35B 공모 개시·향후 $60B ATM 계획, Anthropic용 $63B SPV 금융구조. 조달 완료·장비 인도·ROI와 구분. 이전 Tenstorrent·앰코 증거는 [10/20](reports/2026/10/2026-10-20.md) |
 | Robot model developer access | ↑ Public research beta | [2026-10-20](reports/2026/10/2026-10-20.md): Dream API·가격·제한된 외부평가 확인. 장기 안전·현장 TCO 미확정 |
 | Deep-space mission execution | ↑ Launch and separation confirmed | [2026-10-20](reports/2026/10/2026-10-20.md): MMX 실제 발사·정상분리·궤도투입. 과학 임무·시료귀환 완료 아님 |
 | AI infrastructure scale | ↑ Realized memory revenue; new interconnect architecture (GA pending) | Micron FY2026 Q4 매출 $54.23B·영업현금흐름 $43.97B; 다음 분기 전망과 실제 실적 분리 |

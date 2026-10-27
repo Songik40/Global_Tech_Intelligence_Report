@@ -24,6 +24,8 @@
 
 ### October
 
+- [2026-10-27](2026/10/2026-10-27.md) — Meta 최대 $95B 자금조달 계획, Anthropic용 $63B 설비 금융구조, Cadence Maestro, Agility·GXO 추가 계약, ADR-SAT 준비검토 · 5건 · 컷오프 08:45:24 KST · **당일 승인 후 발행** · [출처·검증 원장](../sources/2026/10/2026-10-27.md)
+
 - [2026-10-26](2026/10/2026-10-26.md) — SpaceX $40B GPU 금융 CEO 주장, ESMO CLARITY-Gastric01·Krascendo 1·SAFFRON·HARMONi-GI1 상세 3상 결과 · 5건 · 컷오프 08:49:11 KST · **당일 승인 후 발행** · [게시 후 정정](2026/10/2026-10-26.md#post-publication-addendum-2026-10-26): 과거 1분 57초 공백·임상 4건 최초 공개 시각 미확정
 
 - [2026-10-25](2026/10/2026-10-25.md) — VOLGA ESMO 3상 생존 결과, DEEP Robotics 피지컬 AI 5축, 중국 상무부 투자규제 대응 · 3건 · 원 컷오프 08:47:59 KST · **10/25 수정본 재승인 후 발행**
