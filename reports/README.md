@@ -24,6 +24,8 @@
 
 ### October
 
+- [2026-10-28](2026/10/2026-10-28.md) — Oracle·NVIDIA Vera Rubin 일반 제공·확장 계획, Google TPU OCI 공급 계획, 한국은행 AI 금융위험, Percepto Axion, NASA UVEX KDP-C · 5건 · 컷오프 08:44:41 KST · **당일 승인 후 발행** · [출처·검증 원장](../sources/2026/10/2026-10-28.md)
+
 - [2026-10-27](2026/10/2026-10-27.md) — Meta 최대 $95B 자금조달 계획, Anthropic용 $63B 설비 금융구조, Cadence Maestro, Agility·GXO 추가 계약, ADR-SAT 준비검토 · 5건 · 컷오프 08:45:24 KST · **당일 승인 후 발행** · [출처·검증 원장](../sources/2026/10/2026-10-27.md)
 
 - [2026-10-26](2026/10/2026-10-26.md) — SpaceX $40B GPU 금융 CEO 주장, ESMO CLARITY-Gastric01·Krascendo 1·SAFFRON·HARMONi-GI1 상세 3상 결과 · 5건 · 컷오프 08:49:11 KST · **당일 승인 후 발행** · [게시 후 정정](2026/10/2026-10-26.md#post-publication-addendum-2026-10-26): 과거 1분 57초 공백·임상 4건 최초 공개 시각 미확정
